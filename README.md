@@ -1,32 +1,43 @@
-# NIST-CommunityResilience
-Community Resilience using NLP
+# NIST Community Resilience
 
-This project supports an academic research collaboration led through Johns Hopkins University and Michigan State University with guidance from researchers working with the Community Resilience program in the Engineering Laboratory at the National Institute of Standards and Technology (NIST). The effort is focused on helping communities better understand how resilience planning is discussed, documented, and implemented in practice across municipalities in the United States.
-Rather than serving as a consulting project for a single private-sector organization, the work is intended to produce methods and insights that can help inform broader resilience-planning guidance. The community partner team is especially interested in practical evidence about how local governments frame resilience priorities, identify barriers to action, and communicate tradeoffs in public-facing documents.
+### Community Resilience Analysis Using NLP
 
+This project supports an academic research collaboration involving **Johns Hopkins University**, **Michigan State University**, and researchers associated with the **Community Resilience Program at the National Institute of Standards and Technology (NIST)**.
 
-# Project Overview
+The project focuses on understanding how resilience planning is discussed, documented, and implemented by municipalities across the United States. Rather than studying a single organization or community, the goal is to develop methods and tools that can support broader research on community resilience and inform future resilience-planning guidance.
 
-Extreme weather events, seismic activity, and wildfires increasingly threaten U.S. communities. A major
-challenge for resilience research is not just analyzing documents once, but building a repeatable process for
-finding, collecting, and updating relevant municipal materials over time.
-The main goal of this project is to create a reproducible workflow that starts with a list of URLs, pulls
-out resilience-related text and metadata, and stores the results in a structured, reusable dataset. Students
-should begin by adapting the existing repositories UScityURL and UniScraper, which were developed by a
-former MSU graduate student, then focus on making the pipeline easy to rerun, extend, and maintain as
-new sources are added.
-Once that workflow is working, the team can use the resulting dataset to explore how municipalities talk
-about resilience, what topics appear most often, and which documents are most useful for downstream NLP
-analysis. The workflow itself is the primary deliverable; the dataset and research findings are important, but
-secondary to building a process that others can reliably update.
+A particular focus is placed on how local governments describe resilience priorities, identify risks and barriers, and communicate planning decisions and tradeoffs through publicly available documents.
 
-### Research Questions
+## Project Overview
 
-• How can we build a reproducible workflow that starts from municipal URLs and produces a structured,
-updateable resilience-text dataset?
+Communities across the United States face increasing risks from hazards such as extreme weather events, wildfires, floods, and earthquakes. Understanding how municipalities prepare for and respond to these risks requires analyzing a large and continually changing collection of public planning documents.
 
-• What metadata and document structure are needed to make the resulting dataset easy to query, refresh,
-and extend?
+The primary goal of this project is to develop a **reproducible and maintainable data pipeline** that collects resilience-related information from municipal websites and converts it into a structured dataset suitable for Natural Language Processing (NLP) analysis.
 
-• After the dataset is built, what initial patterns appear in how municipalities describe resilience goals,
-risks, and planning priorities?
+The workflow begins with a collection of municipal URLs and is designed to:
+
+- Retrieve documents and web content from municipal sources.
+- Extract resilience-related text and relevant metadata.
+- Store the extracted information in a structured and reusable dataset.
+- Support repeated runs so that new or updated documents can be incorporated over time.
+- Prepare the collected text for downstream NLP and resilience research.
+
+The project builds on the existing **UScityURL** and **UniScraper** repositories, originally developed by a former Michigan State University graduate student. These tools will be adapted and extended to create a workflow that is easier to rerun, maintain, and expand as additional municipalities and document sources are introduced.
+
+Once the data-collection pipeline is established, the resulting dataset can be used to investigate how municipalities discuss resilience, identify common themes and priorities, and determine which types of documents are most useful for further NLP analysis.
+
+The **reproducible workflow is the primary project deliverable**. The resulting dataset and initial research findings are important secondary outcomes.
+
+## Research Questions
+
+The project is guided by three main research questions:
+
+1. **How can we build a reproducible workflow that starts with municipal URLs and produces a structured, updateable dataset of resilience-related text?**
+
+2. **What metadata and document structure are necessary to make the dataset easy to search, maintain, refresh, and extend?**
+
+3. **What initial patterns can be identified in how municipalities describe resilience goals, risks, barriers, and planning priorities?**
+
+## Goal
+
+The overall goal is to create a scalable and reusable foundation for collecting, organizing, and analyzing municipal resilience documents using NLP methods.
