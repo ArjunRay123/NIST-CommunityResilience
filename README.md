@@ -6,6 +6,7 @@ Rather than serving as a consulting project for a single private-sector organiza
 
 
 # Project Overview
+
 Extreme weather events, seismic activity, and wildfires increasingly threaten U.S. communities. A major
 challenge for resilience research is not just analyzing documents once, but building a repeatable process for
 finding, collecting, and updating relevant municipal materials over time.
@@ -20,9 +21,12 @@ analysis. The workflow itself is the primary deliverable; the dataset and resear
 secondary to building a process that others can reliably update.
 
 ### Research Questions
+
 • How can we build a reproducible workflow that starts from municipal URLs and produces a structured,
 updateable resilience-text dataset?
+
 • What metadata and document structure are needed to make the resulting dataset easy to query, refresh,
 and extend?
+
 • After the dataset is built, what initial patterns appear in how municipalities describe resilience goals,
 risks, and planning priorities?
