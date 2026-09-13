@@ -1,1 +1,30 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
 
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Temporary files
+*.log
+*.tmp
+
+# Build folders
+build/
+dist/
