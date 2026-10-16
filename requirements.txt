@@ -1,0 +1,5 @@
+requests
+pandas
+PyMuPDF
+beautifulsoup4
+matplotlib
