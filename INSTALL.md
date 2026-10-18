@@ -30,16 +30,27 @@ python -m pip install -r requirements.txt
 
 ## 4. TraCR Dataset Setup
 
-Download the **TraCR v1 dataset** from the official NIST website:
+`NIST_TraCR_dataset_EDA.ipynb` explores the NIST Tracking Community Resilience (TraCR) dataset, focusing on data completeness, geographic coverage, and resilience indicators.
+
+The dataset is already included in the repository under `datasets/TraCR_v1_database.csv`. **No additional download is required.**
+
+**Original dataset source (optional):**
 
 https://data.nist.gov/od/id/mds2-3978
 
-1. Download `TraCR_v1_database.csv`.
-2. Place the CSV in the same folder as `NIST_TraCR_EDA.ipynb`.
-3. Open the notebook in Jupyter or VS Code.
-4. Select the `nist-resilience` Python environment and click **Run All**.
+1. Confirm the environment from Section 3 is active (`nist-resilience`).
+2. Open `NIST_TraCR_dataset_EDA.ipynb` in Jupyter or VS Code.
+3. Select the `nist-resilience` Python environment.
+4. Click **Run All** to execute the analysis.
 
-The notebook explores missing values, dataset structure, geographic coverage, and resilience indicators.
+The notebook:
+
+- Examines dataset structure and missing values.
+- Explores geographic coverage, particularly Florida and Orange County.
+- Evaluates data completeness and the usefulness of resilience indicators.
+- Identifies limitations of the dataset for further community resilience analysis.
+
+Results are based on the TraCR v1 dataset included in the repository.
 
 ## 5. USCityURL EDA Setup
 
