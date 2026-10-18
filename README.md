@@ -26,6 +26,31 @@ Once the data-collection pipeline is established, the resulting dataset can be u
 
 The **reproducible workflow is the primary project deliverable**. The resulting dataset and initial research findings are important secondary outcomes.
 
+## Installation
+
+For instructions on setting up the environment, installing dependencies, and running the notebooks, see INSTALL.md.
+
+## Exploratory Data Analysis
+
+Our team conducted preliminary exploratory data analysis (EDA) to evaluate datasets and identify their potential applications in community resilience planning.
+
+| Notebook | EDA Goal |
+|---|---|
+| [TraCR Dataset EDA](NIST_TraCR_dataset_EDA.ipynb) | Evaluate the structure, completeness, and geographic coverage of the NIST TraCR dataset to determine its usefulness for community resilience analysis and identify potential data limitations. |
+| [UScityURL EDA](EDA_USCityURL_Arjun.ipynb) | *To be completed by the team member responsible for UScityURL.* |
+| [Orlando Resilience EDA](Orlando_Resilience_EDA_.ipynb) | *To be completed by the team member responsible for Orlando.* |
+
+## Current Progress
+
+Explored the NIST TraCR dataset to identify data quality issues and potential applications.
+
+Investigated municipal website data for locating resilience planning documents.
+
+Conducted preliminary analysis focused on Orlando, Florida.
+
+Established installation instructions and project dependencies to support reproducibility.
+
+
 ## Research Questions
 
 The project is guided by three main research questions:
