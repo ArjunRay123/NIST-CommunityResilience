@@ -1,5 +1,17 @@
-requests
+# Data analysis
 pandas
-PyMuPDF
-beautifulsoup4
+numpy
+
+# Data visualization
 matplotlib
+seaborn
+
+# Web scraping and PDF processing
+requests
+beautifulsoup4
+PyMuPDF
+
+# Jupyter Notebook
+jupyter
+ipykernel
+
