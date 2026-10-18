@@ -37,15 +37,15 @@ Our team conducted preliminary exploratory data analysis (EDA) to evaluate datas
 | Notebook | EDA Goal |
 |---|---|
 | [TraCR Dataset EDA](NIST_TraCR_dataset_EDA.ipynb) | Evaluate the structure, completeness, and geographic coverage of the NIST TraCR dataset to determine its usefulness for community resilience analysis and identify potential data limitations. |
-| [USCityURL EDA](USCityURL_EDA.ipynb) | Use the USCityURL municipal directory to locate Orlando’s official website, crawl a limited set of on-domain pages, discover resilience-related links, extract HTML and PDF text, and run preliminary topic-mention analysis. |
+| [USCityURL EDA](USCityURL_EDA.ipynb) | Use the UScityURL municipal directory to locate Orlando’s official website, crawl a limited set of on-domain pages, discover resilience-related links from anchor text and URLs, extract HTML or PDF text, and run preliminary topic-mention analysis on the usable sample. |
 
 ## Current Progress
 
 Explored the NIST TraCR dataset to identify data quality issues and potential applications.
 
-Used USCityURL to locate Orlando’s official municipal website and crawl a limited set of on-domain pages for resilience-related planning content.
+Used UScityURL to locate Orlando’s official municipal website and crawl a limited set of on-domain pages, keeping links whose anchor text or URL matched resilience-related keywords.
 
-Extracted and quality-checked a sample of Orlando HTML and PDF pages, then ran preliminary topic-mention EDA on the usable documents.
+Extracted and quality-checked a sample of HTML or PDF candidates, then ran preliminary topic-mention EDA on the usable documents.
 
 Established installation instructions and project dependencies to support reproducibility.
 
