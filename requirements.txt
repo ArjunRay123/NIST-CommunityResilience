@@ -1,14 +1,14 @@
-# Data analysis
+# For data analysis
 pandas
 numpy
 
-# Data visualization
+# For data visualization
 matplotlib
 
-# Web scraping and PDF processing
+# For web scraping and PDF processing
 requests
 beautifulsoup4
 PyMuPDF
 
-# Jupyter Notebook
+# For Jupyter Notebook
 jupyter
