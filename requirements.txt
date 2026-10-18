@@ -4,7 +4,6 @@ numpy
 
 # Data visualization
 matplotlib
-seaborn
 
 # Web scraping and PDF processing
 requests
@@ -13,5 +12,3 @@ PyMuPDF
 
 # Jupyter Notebook
 jupyter
-ipykernel
-
