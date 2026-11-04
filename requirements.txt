@@ -1,15 +1,15 @@
-# For data analysis
+# Notebook runtime
+jupyter
+
+# Data analysis and TraCR Excel metadata
 pandas
 numpy
+openpyxl
 
-# For data visualization
+# Plotting
 matplotlib
 
-# For web scraping and PDF processing
+# USCityURL website and document processing
 requests
 beautifulsoup4
 PyMuPDF
-
-# For Jupyter Notebook
-jupyter
-openpyxl

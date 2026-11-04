@@ -30,16 +30,16 @@ python -m pip install -r requirements.txt
 
 ## 4. TraCR Dataset Setup
 
-`NIST_TraCR_dataset_EDA.ipynb` explores the NIST Tracking Community Resilience (TraCR) dataset, focusing on data completeness, geographic coverage, and resilience indicators.
+`TraCR_dataset.ipynb` explores the NIST Tracking Community Resilience (TraCR) dataset, focusing on data completeness, geographic coverage, and resilience indicators.
 
-The dataset is already included in the repository under `datasets/TraCR_v1_database.csv`. **No additional download is required.**
+The dataset is already included in the repository under `datasets_TRaCr/TraCR_v1_database.csv`. **No additional download is required.**
 
 **Original dataset source (optional):**
 
 https://data.nist.gov/od/id/mds2-3978
 
 1. Confirm the environment from Section 3 is active (`nist-resilience`).
-2. Open `NIST_TraCR_dataset_EDA.ipynb` in Jupyter or VS Code.
+2. Open `TraCR_dataset.ipynb` in Jupyter or VS Code.
 3. Select the `nist-resilience` Python environment.
 4. Click **Run All** to execute the analysis.
 
@@ -49,28 +49,33 @@ The notebook:
 - Explores geographic coverage, particularly Florida and Orange County.
 - Evaluates data completeness and the usefulness of resilience indicators.
 - Identifies limitations of the dataset for further community resilience analysis.
+- Creates `datasets_TRaCr/processed/tracr_project_dataset.csv` for later analysis.
 
 Results are based on the TraCR v1 dataset included in the repository.
 
-## 5. USCityURL EDA Setup
+## 5. USCityURL Dataset and Pipeline Setup
 
-`USCityURL_EDA.ipynb` is a limited Orlando demo. It does not require a local data file. It loads the municipal website directory from the [UScityURL](https://github.com/caimeng2/UScityURL) repository and then crawls Orlando’s public website.
+`USCityURL_Dataset.ipynb` loads the municipal website directory from the [UScityURL](https://github.com/caimeng2/UScityURL) repository, tests each unique homepage, and creates the audit and pipeline-ready datasets. `USCityURL_Pipeline.ipynb` then uses the pipeline-ready dataset for a limited Orlando demo and a comparison of available cities such as Seattle.
 
 Source CSV:
 
 https://raw.githubusercontent.com/caimeng2/UScityURL/master/UScityURL.csv
 
-The notebook uses the `MUNICIPALITY`, `STATE`, and `WEBSITE_URL` columns.
+The notebooks use the `MUNICIPALITY`, `STATE`, and `WEBSITE_URL` columns.
 
 1. Confirm the environment from section 3 is active (`nist-resilience`).
-2. Open `USCityURL_EDA.ipynb` in Jupyter or VS Code.
+2. Open `USCityURL_Dataset.ipynb` in Jupyter or VS Code.
 3. Select the `nist-resilience` Python environment.
-4. Click **Run All**. An internet connection is required to load UScityURL and to request pages from orlando.gov.
+4. Click **Run All**. An internet connection is required to test the municipal homepages. This creates `datasets_USCityPipeline/USCityURL_audit.csv` and `datasets_USCityPipeline/USCityURL_Pipeline.csv`.
+5. Open `USCityURL_Pipeline.ipynb`, select the same environment, and click **Run All**. An internet connection is required to request pages from Orlando and the available comparison cities.
 
-The notebook:
+The workflow:
 
-- Loads UScityURL and selects the Orlando, Florida row (`https://www.orlando.gov/`).
+- Tests each unique UScityURL homepage in parallel and records the access result.
+- Keeps successful HTML homepages in the pipeline-ready dataset.
+- Loads the pipeline-ready UScityURL dataset and selects the Orlando, Florida row (`https://www.orlando.gov/`).
 - Crawls up to 60 pages, staying on the official Orlando domain.
+- Repeats the original comparison rules for available cities such as Seattle.
 - Keeps links whose anchor text or URL match resilience-related keywords (for example resilience, flood, hurricane, hazard mitigation, and comprehensive plan).
 - Extracts text from up to 15 HTML or PDF candidates with BeautifulSoup or PyMuPDF.
 - Marks a document usable if it has at least 100 words, drops exact duplicates, and runs preliminary topic-mention EDA on that sample.
@@ -82,5 +87,5 @@ Demo limits are set in the first code cell (`MAX_PAGES_TO_CRAWL = 60`, `MAX_DOCU
 - **ModuleNotFoundError:** Run `python -m pip install -r requirements.txt`.
 - **FileNotFoundError:** Check that the CSV is in the correct folder.
 - **Kernel errors:** Select the correct Python environment and restart the kernel.
-- **Connection or timeout errors in USCityURL_EDA.ipynb:** The notebook needs internet access to load the UScityURL CSV and to request pages from orlando.gov. Check the connection and rerun the notebook.
-- **No usable documents in USCityURL_EDA.ipynb:** Review the candidate-link and failure tables in the notebook. Pages with fewer than 100 extracted words are not used in the EDA. Crawl results can change if the city website updates.
+- **Connection or timeout errors in the USCityURL notebooks:** The notebooks need internet access to test municipal homepages and request pages from Orlando and the available comparison cities. Check the connection and rerun the notebook.
+- **No usable documents in USCityURL_Pipeline.ipynb:** Review the candidate-link and failure tables in the notebook. Pages with fewer than 100 extracted words are not used in the EDA. Crawl results can change if the city website updates.
