@@ -12,3 +12,4 @@ PyMuPDF
 
 # For Jupyter Notebook
 jupyter
+openpyxl
