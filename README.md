@@ -30,7 +30,47 @@ The **reproducible workflow is the primary project deliverable**. The resulting 
 
 ## Installation
 
-For instructions on setting up the environment, installing dependencies, and running the notebooks, see INSTALL.md.
+For instructions on setting up the environment, installing dependencies, running the notebooks, and using the local RAG assistant, see [INSTALL.md](INSTALL.md).
+
+## Local RAG Demo
+
+Create a clean Orlando flood index:
+
+```bash
+python main.py --update --place "Orlando, Florida" --keyword flood
+```
+
+Ask a question at the prompt, then type `exit`. Add Tampa and a new hurricane keyword without rebuilding Orlando's existing flood coverage:
+
+```bash
+python main.py --place "Tampa, Florida" --keyword hurricane
+```
+
+Ask the assistant to compare flood and hurricane information in Orlando and Tampa. Run `python main.py` afterward to reuse the persistent database without crawling again. See INSTALL.md for the complete demonstration sequence.
+
+## Local RAG Behavior
+
+- The assistant uses local Ollama models and does not require a paid model API.
+- `USCityURL_Dataset.ipynb` creates the audit and pipeline CSVs, then synchronizes the configured persistent database.
+- `INDEX_PLACES` accepts states, municipalities, or `"City, State"`. `KEYWORDS` uses generic English stemming, so `flood` also matches forms such as floods, flooded, and flooding.
+- If either configuration tuple is empty, a rebuild produces an empty database. `("all",)` selects every municipality in `INDEX_PLACES` or disables keyword filtering in `KEYWORDS`.
+- `--update` starts a new database on the current CSV by clearing Chroma, the extracted-document cache, `INDEX_PLACES`, and `KEYWORDS` before applying new flags.
+- With the same CSV, new places and keywords are added without rebuilding completed place-keyword coverage.
+- Answers are restricted to retrieved municipal context and list the retrieved URLs once at the end.
+
+Using `("all",)` in both configuration tuples requests an unfiltered crawl of every accessible municipality and can take a long time.
+
+## Main Files
+
+| File | Purpose |
+|---|---|
+| [USCityURL_Dataset.ipynb](USCityURL_Dataset.ipynb) | Audit municipal homepages, create the pipeline CSV, and synchronize the configured persistent database. |
+| [USCityURL_Pipeline.ipynb](USCityURL_Pipeline.ipynb) | Run the bounded Orlando EDA demo and additional multi-city comparison. |
+| [TraCR_dataset.ipynb](TraCR_dataset.ipynb) | Explore TraCR and create the cleaned project dataset. |
+| [main.py](main.py) | Run the terminal RAG assistant and process reset, place, and keyword flags. |
+| [rag.py](rag.py) | Crawl, extract, cache, chunk, embed, retrieve, and generate grounded answers. |
+| [setting.py](setting.py) | Store paths, models, scopes, crawl limits, parallelization, chunking, and retrieval settings. |
+| [requirements.txt](requirements.txt) | List the Python dependencies for the notebooks and local RAG workflow. |
 
 ## Exploratory Data Analysis
 
@@ -55,7 +95,6 @@ Extracted and quality-checked a sample of HTML or PDF candidates, then ran preli
 Established installation instructions and project dependencies to support reproducibility.
 
 Added a local municipal RAG assistant with persistent embeddings, additive place and keyword updates, and retrieved source links.
-
 
 ## Research Questions
 

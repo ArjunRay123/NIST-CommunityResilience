@@ -77,7 +77,7 @@ from setting import (
 
 EMBEDDING_SEMAPHORE = Semaphore(MAX_EMBEDDING_WORKERS)
 HTTP_SEMAPHORE = Semaphore(MAX_HTTP_CONNECTIONS)
-ALL_KEYWORDS_MARKER = "__all__"
+ALL_KEYWORDS_MARKER = "all"
 ENGLISH_STEMMER = SnowballStemmer("english")
 
 # These variables configure an Ollama server started from this process. The
@@ -194,7 +194,7 @@ def normalized_keywords(keywords: tuple[str, ...] | list[str]) -> tuple[str, ...
 def keyword_matches(keywords: tuple[str, ...], *values: str) -> bool:
     """Match keyword families in URLs, titles, anchor text, or page text."""
     keyword_phrases = [root.split() for root in normalized_keywords(keywords)]
-    if not keyword_phrases:
+    if not keyword_phrases or [ALL_KEYWORDS_MARKER] in keyword_phrases:
         return True
 
     # Stem both sides for grammatical variants. A candidate token may also
@@ -710,9 +710,14 @@ def add_keyword_to_settings(keyword: str) -> bool:
     cleaned = keyword.strip()
     if not cleaned:
         raise ValueError("KEYWORDS value cannot be empty")
-    if keyword_root(cleaned) in set(normalized_keywords(KEYWORDS)):
+    requested = keyword_root(cleaned)
+    configured = set(normalized_keywords(KEYWORDS))
+    if requested in configured or ALL_KEYWORDS_MARKER in configured:
         return False
-    write_setting_values("KEYWORDS", (*KEYWORDS, cleaned))
+    if requested == ALL_KEYWORDS_MARKER:
+        write_setting_values("KEYWORDS", (ALL_KEYWORDS_MARKER,))
+    else:
+        write_setting_values("KEYWORDS", (*KEYWORDS, cleaned))
     return True
 
 
@@ -828,24 +833,27 @@ def keyword_document_counts(row: pd.Series | dict) -> dict[str, int]:
 
 def keyword_work(row: pd.Series | dict) -> tuple[tuple[str, ...], tuple[str, ...]]:
     """Return crawl keywords and coverage markers still missing for one place."""
-    chunk_count = pd.to_numeric(row.get("CHUNK_COUNT", 0), errors="coerce")
-    has_chunks = pd.notna(chunk_count) and int(chunk_count) > 0
     configured = normalized_keywords(KEYWORDS)
     # Coverage is independent of whether documents matched. A zero-result
     # keyword is complete and must not be retried on every update.
     covered = indexed_keywords(row)
 
-    # An earlier unfiltered crawl covers every keyword. When filtering is now
-    # disabled, any existing municipality is also left untouched by policy.
+    # Empty KEYWORDS intentionally builds nothing. "all" performs one
+    # unfiltered crawl and records coverage for every possible keyword.
+    if not configured:
+        return (), ()
     if ALL_KEYWORDS_MARKER in covered:
         return (), ()
-    if not configured:
-        if has_chunks:
-            return (), ()
+    if ALL_KEYWORDS_MARKER in configured:
         return (), (ALL_KEYWORDS_MARKER,)
 
     missing = tuple(keyword for keyword in configured if keyword not in covered)
     return missing, missing
+
+
+def has_index_configuration() -> bool:
+    """Return whether both place and keyword scopes are configured."""
+    return bool(INDEX_PLACES) and bool(normalized_keywords(KEYWORDS))
 
 
 def count_scope_pending(cities: pd.DataFrame) -> int:
@@ -861,10 +869,39 @@ def count_scope_pending(cities: pd.DataFrame) -> int:
     return pending
 
 
+def clear_persistent_index(registry: pd.DataFrame) -> None:
+    """Remove stored content and reset every municipality's index metadata."""
+    if CHROMA_DIR.exists():
+        shutil.rmtree(CHROMA_DIR)
+    if DOCUMENT_CACHE_DIR.exists():
+        shutil.rmtree(DOCUMENT_CACHE_DIR)
+    EMBED_MODEL_FILE.unlink(missing_ok=True)
+    registry["RAG_STATUS"] = "missing"
+    registry["INDEXED_KEYWORDS"] = "[]"
+    registry["KEYWORD_DOCUMENT_COUNTS"] = "{}"
+    registry["INDEXED_AT"] = ""
+    registry["DOCUMENT_COUNT"] = 0
+    registry["CHUNK_COUNT"] = 0
+    registry["LAST_ERROR"] = ""
+    save_registry(registry)
+
+
+def reset_database_and_settings() -> None:
+    """Start a new empty index on the current CSV and clear both scopes."""
+    cities, current_hash = pipeline_snapshot()
+    sync_registry_with_pipeline(cities, current_hash)
+    clear_persistent_index(load_registry())
+    BUILD_STATE_FILE.unlink(missing_ok=True)
+    write_setting_values("INDEX_PLACES", ())
+    write_setting_values("KEYWORDS", ())
+
+
 def rebuild_database_if_needed(embed_model: str = DEFAULT_EMBED_MODEL) -> dict:
     """Complete missing place-keyword coverage for the configured snapshot."""
     cities, current_hash = pipeline_snapshot()
     selected_cities = select_configured_places(cities)
+    if not has_index_configuration():
+        selected_cities = cities.iloc[0:0].copy()
 
     state = load_build_state()
     configured_places = list(INDEX_PLACES)
@@ -875,7 +912,7 @@ def rebuild_database_if_needed(embed_model: str = DEFAULT_EMBED_MODEL) -> dict:
         and state.get("embed_model") == embed_model
         and state.get("index_places") == configured_places
         and state.get("keywords") == configured_keywords
-        and CHROMA_DIR.exists()
+        and (CHROMA_DIR.exists() or selected_cities.empty)
     ):
         return state
 
@@ -888,22 +925,16 @@ def rebuild_database_if_needed(embed_model: str = DEFAULT_EMBED_MODEL) -> dict:
         or state.get("keywords") != configured_keywords
     )
 
-    # A genuinely new pipeline CSV defines a new snapshot. Clear the old
-    # vectors, then rebuild only the places currently selected in setting.py.
-    if hash_changed:
-        if CHROMA_DIR.exists():
-            shutil.rmtree(CHROMA_DIR)
-        if DOCUMENT_CACHE_DIR.exists():
-            shutil.rmtree(DOCUMENT_CACHE_DIR)
-        EMBED_MODEL_FILE.unlink(missing_ok=True)
-        registry["RAG_STATUS"] = "missing"
-        registry["INDEXED_KEYWORDS"] = "[]"
-        registry["KEYWORD_DOCUMENT_COUNTS"] = "{}"
-        registry["INDEXED_AT"] = ""
-        registry["DOCUMENT_COUNT"] = 0
-        registry["CHUNK_COUNT"] = 0
-        registry["LAST_ERROR"] = ""
-        save_registry(registry)
+    # A genuinely new pipeline CSV defines a new snapshot. An empty place or
+    # keyword scope also explicitly requests an empty persistent database.
+    empty_configuration = not has_index_configuration()
+    reset_to_empty = empty_configuration and (
+        CHROMA_DIR.exists() or DOCUMENT_CACHE_DIR.exists()
+        or EMBED_MODEL_FILE.exists()
+        or registry["CHUNK_COUNT"].gt(0).any()
+    )
+    if hash_changed or reset_to_empty:
+        clear_persistent_index(registry)
         state = {}
 
     if EMBED_MODEL_FILE.exists():
@@ -980,6 +1011,11 @@ def rebuild_database_if_needed(embed_model: str = DEFAULT_EMBED_MODEL) -> dict:
 
 def verify_database_ready(embed_model: str = DEFAULT_EMBED_MODEL) -> None:
     """Require at least one usable notebook-built municipality database."""
+    if not has_index_configuration():
+        raise RuntimeError(
+            "INDEX_PLACES and KEYWORDS must both contain a value. Add them with "
+            "python main.py --place PLACE --keyword KEYWORD."
+        )
     registry = load_registry()
     model_matches = (
         EMBED_MODEL_FILE.exists()

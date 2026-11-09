@@ -10,8 +10,10 @@ from rag import (
     add_keyword_to_settings,
     add_place_to_settings,
     answer_question,
+    has_index_configuration,
     open_vector_store,
     rebuild_database_if_needed,
+    reset_database_and_settings,
     resolve_scope,
     verify_database_ready,
     verify_ollama_model,
@@ -25,7 +27,7 @@ def main() -> None:
     parser.add_argument(
         "--update",
         action="store_true",
-        help="add missing INDEX_PLACES and keyword coverage before starting chat",
+        help="clear the persistent index and settings before applying add flags",
     )
     parser.add_argument(
         "--add-place", "--place",
@@ -45,8 +47,11 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    verify_ollama_model(DEFAULT_EMBED_MODEL)
     should_update = args.update
+    if args.update:
+        reset_database_and_settings()
+        print("Cleared the persistent database, INDEX_PLACES, and KEYWORDS.")
+
     for place in args.places:
         try:
             added = add_place_to_settings(place)
@@ -65,8 +70,19 @@ def main() -> None:
         except ValueError as error:
             print(f"Could not add keyword: {error}. Continuing to question mode.")
 
-    # --update synchronizes missing place/keyword pairs. The add flags first
-    # persist their values in setting.py, then perform the same additive update.
+    if not has_index_configuration():
+        if should_update:
+            rebuild_database_if_needed(DEFAULT_EMBED_MODEL)
+        print(
+            "Persistent database is empty. Add at least one place and one keyword, "
+            "or use 'all' for an unfiltered scope."
+        )
+        return
+
+    verify_ollama_model(DEFAULT_EMBED_MODEL)
+
+    # Add flags persist their values in setting.py before synchronizing the
+    # newly requested place-keyword coverage.
     if should_update:
         rebuild_database_if_needed(DEFAULT_EMBED_MODEL)
     else:

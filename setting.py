@@ -20,11 +20,12 @@ COLLECTION_NAME = "uscityurl_municipal_content"
 
 # State names and municipality names are both accepted. "City, State" disambiguates.
 # Use () to select nothing. Use ("all",) to select every pipeline municipality.
-# Removing a place does not delete its embeddings within the current CSV snapshot.
-INDEX_PLACES = ('Orlando, Florida', 'Seattle, Washington', 'Miami, Arizona', 'Miami, Oklahoma', 'Tampa, Florida', 'Jacksonville, Florida', 'Napa, California', 'Lansing, Illinois', 'Lansing, Iowa', 'Lansing, Kansas', 'Lansing, Michigan', 'Lansing, New York', 'Madison, Alabama', 'Madison, Florida', 'Madison, Georgia', 'Madison, Illinois', 'Madison, Indiana', 'Madison, Minnesota', 'Madison, Mississippi', 'Madison, Nebraska', 'Madison, New Jersey', 'Madison, Ohio', 'Madison, South Dakota', 'Madison, Virginia', 'Madison, West Virginia', 'Madison, Wisconsin', 'Ann Arbor, Michigan')
+# Removing one named place does not delete its embeddings; an empty scope clears the build.
 
-# Empty disables keyword filtering. Multiple keywords use OR matching.
-KEYWORDS = ('flood', 'hurricane', 'wildfire', 'tornado', 'emergency', 'rain')
+# Use () to select nothing. Use ("all",) to disable keyword filtering.
+# Multiple named keywords use OR matching.
+INDEX_PLACES = ()
+KEYWORDS = ()
 
 # Local Ollama models
 DEFAULT_EMBED_MODEL = "embeddinggemma"
