@@ -97,12 +97,6 @@ If the pipeline CSV hash changes, the dataset notebook clears the previous Chrom
 
 `setting.py` contains the selected municipalities or states in `INDEX_PLACES`, the crawl terms in `KEYWORDS`, the local Ollama models, and the crawl, chunking, parallelization, and retrieval settings. Use an empty tuple to select nothing. Use `INDEX_PLACES = ("all",)` to select every municipality in the pipeline CSV or `KEYWORDS = ("all",)` to disable keyword filtering. Using `("all",)` in both tuples loads all municipal content without place or keyword filtering. If either tuple is empty, the rebuilt persistent database is empty.
 
-A one-item Python tuple requires a trailing comma:
-
-```python
-INDEX_PLACES = ("Orlando, Florida",)
-KEYWORDS = ("flood",)
-```
 
 State names select every available municipality in that state. A bare municipality name selects every same-named municipality in the pipeline CSV, while `"City, State"` selects one exact municipality. Keyword matching uses generic English stemming and prefix matching, so a keyword such as `flood` also covers forms such as floods, flooded, flooding, and floodplain.
 

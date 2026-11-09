@@ -24,8 +24,8 @@ COLLECTION_NAME = "uscityurl_municipal_content"
 
 # Use () to select nothing. Use ("all",) to disable keyword filtering.
 # Multiple named keywords use OR matching.
-INDEX_PLACES = ()
-KEYWORDS = ()
+INDEX_PLACES = ('Orlando, Florida',)
+KEYWORDS = ('flood',)
 
 # Local Ollama models
 DEFAULT_EMBED_MODEL = "embeddinggemma"
