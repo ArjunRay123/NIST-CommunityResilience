@@ -28,3 +28,6 @@ venv/
 # Build folders
 build/
 dist/
+
+# Generated local vector database and municipality freshness registry
+Persistent_db/

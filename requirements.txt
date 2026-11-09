@@ -11,5 +11,14 @@ matplotlib
 
 # USCityURL website and document processing
 requests
+httpx
 beautifulsoup4
+lxml
 PyMuPDF
+nltk
+
+# Local RAG, Ollama embeddings, and persistent Chroma storage
+langchain-chroma
+langchain-ollama
+langchain-text-splitters
+filelock

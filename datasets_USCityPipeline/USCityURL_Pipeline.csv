@@ -86,7 +86,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0130760,Gordon,Alabama,https://townofgordon.org/
 1600000US0131384,Graysville,Alabama,https://graysvillecity.nexbillpayonline.com
 1600000US0131912,Greenville,Alabama,https://www.greenvilleal.gov/
-1600000US0132080,Grove Hill,Alabama,https://www.hugedomains.com/domain_profile.cfm?d=grovehillalabama.com
 1600000US0132224,Guin,Alabama,https://www.guinal.org/
 1600000US0132272,Gulf Shores,Alabama,https://www.gulfshoresal.gov/
 1600000US0132416,Guntersville,Alabama,https://guntersvilleal.org/
@@ -154,7 +153,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0154168,New Hope,Alabama,https://www.newhopeal.gov/
 1600000US0154432,New Site,Alabama,https://townofnewsite.com/
 1600000US0155200,Northport,Alabama,https://www.northportal.gov/
-1600000US0155440,Notasulga,Alabama,https://notasulgaal.com/
 1600000US0155752,Oak Grove,Alabama,https://townofoakgrove.org/
 1600000US0155848,Oak Hill,Alabama,http://www.oakhillal.com/
 1600000US0156400,Odenville,Alabama,https://cityofodenville.net/
@@ -252,13 +250,11 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0203220,Anderson,Alaska,https://anderson.govoffice.com/
 1600000US0203440,Angoon,Alaska,https://cityofangoon.org/
 1600000US0206520,Bethel,Alaska,https://www.cityofbethel.org/
-1600000US0216530,Cold Bay,Alaska,https://www.coldbayak.org/
 1600000US0217410,Cordova,Alaska,https://www.cityofcordova.net/
 1600000US0218620,Delta Junction,Alaska,https://deltajunction.us/
 1600000US0218950,Dillingham,Alaska,https://www.dillinghamak.us/
 1600000US0220970,Edna Bay,Alaska,https://cityofednabay.org/
 1600000US0224230,Fairbanks,Alaska,https://www.fairbanks.gov/
-1600000US0224660,False Pass,Alaska,https://www.cityoffalsepass.com/
 1600000US0226760,Fort Yukon,Alaska,https://www.fortyukon.org/
 1600000US0227530,Galena,Alaska,https://www.gcsdk12.org/
 1600000US0230940,Gustavus,Alaska,https://www.gustavus-ak.gov/
@@ -427,6 +423,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0530940,Hazen,Arkansas,https://cityofhazenar.gov/
 1600000US0531190,Helena-West Helena,Arkansas,https://www.hwh.ar.gov/
 1600000US0532200,Highfill,Arkansas,https://highfillarkansas.gov/
+1600000US0532257,Highland,Arkansas,https://highland-arkansas.com/
 1600000US0532710,Holland,Arkansas,https://hollandar.com/
 1600000US0533190,Hope,Arkansas,https://www.hopear.gov/
 1600000US0533370,Horseshoe Bend,Arkansas,https://www.horseshoebend.org/
@@ -492,7 +489,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0562960,Scranton,Arkansas,https://scrantonar.gov
 1600000US0563020,Searcy,Arkansas,https://www.cityofsearcy.org/
 1600000US0564370,Siloam Springs,Arkansas,https://www.siloamsprings.gov/
-1600000US0564730,Smackover,Arkansas,https://www.smackover.org/
+1600000US0564730,Smackover,Arkansas,https://cityofsmackoverar.gov/
 1600000US0565900,Sparkman,Arkansas,https://www.cityofsparkman.com/
 1600000US0566080,Springdale,Arkansas,https://www.springdalear.gov/
 1600000US0561970,St. Francis,Arkansas,https://salju4dmu.live/
@@ -505,7 +502,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0572890,Walnut Ridge,Arkansas,https://www.littlepraguebakery.com/
 1600000US0573130,Ward,Arkansas,https://wardarkansas.org/
 1600000US0573310,Warren,Arkansas,https://cityofwarren.us/
-1600000US0573940,Weiner,Arkansas,http://www.cityofweiner.com/
 1600000US0574540,West Memphis,Arkansas,http://www.westmemphisutilities.com/
 1600000US0575170,White Hall,Arkansas,https://whitehallar.gov/
 1600000US0575920,Wilson,Arkansas,https://www.wilsonarkansas.com/
@@ -555,13 +551,11 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0608786,Buena Park,California,https://www.buenapark.com/
 1600000US0608954,Burbank,California,https://www.burbankca.gov/
 1600000US0609066,Burlingame,California,https://www.burlingame.org/
-1600000US0609710,Calexico,California,https://www.calexico.ca.gov/
 1600000US0609780,California City,California,http://californiacity-ca.gov/
 1600000US0609864,Calimesa,California,https://www.calimesa.gov/
 1600000US0609878,Calipatria,California,https://www.calipatria.com/
 1600000US0610046,Camarillo,California,https://www.ci.camarillo.ca.us/
 1600000US0610345,Campbell,California,https://www.campbellca.gov/
-1600000US0610928,Canyon Lake,California,http://www.canyonlakeca.gov/
 1600000US0611040,Capitola,California,https://www.cityofcapitola.gov
 1600000US0611250,Carmel-by-the-Sea,California,https://ci.carmel.ca.us/
 1600000US0611446,Carpinteria,California,https://carpinteriaca.gov/
@@ -581,7 +575,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0614736,Colma,California,https://www.colma.ca.gov/
 1600000US0614890,Colton,California,https://www.coltonca.gov/
 1600000US0614946,Colusa,California,https://cityofcolusa.com/
-1600000US0616000,Concord,California,https://www.cityofconcord.org/
 1600000US0616224,Corcoran,California,https://cityofcorcoran.ca.gov/
 1600000US0616322,Corning,California,https://www.corning.org/
 1600000US0616350,Corona,California,https://www.coronaca.gov/
@@ -595,6 +588,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0618394,Delano,California,https://www.cityofdelano.org/
 1600000US0618996,Desert Hot Springs,California,https://www.cityofdhs.org/
 1600000US0619192,Diamond Bar,California,https://www.diamondbarca.gov/
+1600000US0619318,Dinuba,California,https://www.dinuba.org/
 1600000US0619402,Dixon,California,https://www.cityofdixonca.gov/
 1600000US0619584,Dorris,California,https://www.dorrisca.us/
 1600000US0619612,Dos Palos,California,https://dospaloscity.wixsite.com/dospalos
@@ -679,10 +673,10 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0642006,Livingston,California,https://www.cityoflivingston.org/
 1600000US0642202,Lodi,California,https://www.lodi.gov/
 1600000US0642370,Loma Linda,California,https://www.lomalinda-ca.gov/
+1600000US0643000,Long Beach,California,https://www.longbeach.gov/
 1600000US0643140,Loomis,California,https://loomis.ca.gov/
 1600000US0643224,Los Alamitos,California,https://cityoflosalamitos.org/
 1600000US0643294,Los Altos Hills,California,https://www.losaltoshills.ca.gov/
-1600000US0644000,Los Angeles,California,https://lacity.gov/
 1600000US0644028,Los Banos,California,http://www.losbanos.org/
 1600000US0644112,Los Gatos,California,https://www.losgatosca.gov/
 1600000US0644364,Loyalton,California,https://www.cityofloyalton.org/
@@ -821,7 +815,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0680686,Tulelake,California,https://cityoftulelake.com/
 1600000US0680812,Turlock,California,https://www.cityofturlock.org/
 1600000US0680854,Tustin,California,https://www.tustinca.org/
-1600000US0680994,Twentynine Palms,California,https://www.ci.twentynine-palms.ca.us/
 1600000US0681134,Ukiah,California,https://cityofukiah.com/
 1600000US0681344,Upland,California,https://www.uplandca.gov/
 1600000US0681666,Vallejo,California,https://www.cityofvallejo.net/
@@ -887,7 +880,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0824950,Erie,Colorado,https://www.erieco.gov/
 1600000US0825280,Evans,Colorado,https://www.evanscolorado.gov/
 1600000US0825610,Fairplay,Colorado,https://www.fairplayco.us/
-1600000US0826270,Federal Heights,Colorado,https://www.fedheights.org/
 1600000US0826600,Firestone,Colorado,https://www.firestoneco.gov/
 1600000US0826765,Flagler,Colorado,https://flaglercolorado.com/
 1600000US0826875,Fleming,Colorado,https://www.flemingcolorado.us/
@@ -898,10 +890,9 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0828745,Fruita,Colorado,https://www.fruita.org/
 1600000US0829185,Garden City,Colorado,https://www.townofgardencity.com/
 1600000US0829735,Georgetown,Colorado,http://www.townofgeorgetown.us/
-1600000US0829955,Gilcrest,Colorado,https://townofgilcrest.org/
+1600000US0829955,Gilcrest,Colorado,https://www.townofgilcrest.org/
 1600000US0830340,Glendale,Colorado,https://www.glendale.co.us/
 1600000US0830835,Golden,Colorado,https://www.cityofgolden.gov/
-1600000US0831605,Granby,Colorado,https://townofgranby.com/
 1600000US0831660,Grand Junction,Colorado,https://www.gjcity.org/
 1600000US0832155,Greeley,Colorado,https://greeleyco.gov/
 1600000US0833035,Greenwood Village,Colorado,https://www.greenwoodvillage.com/
@@ -959,7 +950,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0871755,Snowmass Village,Colorado,https://www.tosv.com/
 1600000US0873825,Steamboat Springs,Colorado,https://steamboatsprings.net/
 1600000US0873935,Sterling,Colorado,https://www.sterlingcolo.com/
-1600000US0874815,Sugar City,Colorado,https://www.hugedomains.com/domain_profile.cfm?d=sugarcitycolorado.com
 1600000US0875970,Swink,Colorado,http://townofswinkco.ourlocalview.com/
 1600000US0877290,Thornton,Colorado,https://www.thorntonco.gov/
 1600000US0877510,Timnath,Colorado,https://timnath.org/
@@ -970,7 +960,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US0885705,Winter Park,Colorado,https://wpgov.com/
 1600000US0886090,Woodland Park,Colorado,https://woodlandpark.gov/
 1600000US0886310,Wray,Colorado,https://cityofwray.org/
-1600000US0886475,Yampa,Colorado,https://www.townofyampa.com/
 1600000US0901150,Ansonia,Connecticut,https://www.cityofansonia.com/
 1600000US0902690,Bantam,Connecticut,https://bantamct.org/
 1600000US0908000,Bridgeport,Connecticut,https://www.bridgeportct.gov/
@@ -1073,6 +1062,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1207875,Boynton Beach,Florida,https://www.boynton-beach.org/
 1600000US1207950,Bradenton,Florida,https://cityofbradenton.com/
 1600000US1207975,Bradenton Beach,Florida,https://cityofbradentonbeach.com/
+1600000US1208175,Branford,Florida,https://www.townofbranford.net
 1600000US1208575,Briny Breezes,Florida,https://www.brinybreezes.us/home/
 1600000US1208600,Bristol,Florida,https://cityofbristolfl.gov/
 1600000US1208725,Brooker,Florida,https://townofbrooker.com/
@@ -1104,7 +1094,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1215968,Cutler Bay,Florida,https://www.cutlerbay-fl.gov/
 1600000US1216125,Dade City,Florida,https://www.dadecityfl.com/
 1600000US1216335,Dania Beach,Florida,https://www.daniabeachfl.gov
-1600000US1216450,Davenport,Florida,https://www.mydavenport.org/
 1600000US1216525,Daytona Beach,Florida,https://www.daytonabeach.gov/
 1600000US1216550,Daytona Beach Shores,Florida,https://dbshores.org/
 1600000US1216675,DeBary,Florida,https://debary.org/
@@ -1170,6 +1159,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1233600,Indian River Shores,Florida,https://www.indianrivershores.gov/
 1600000US1233625,Indian Rocks Beach,Florida,https://www.indian-rocks-beach.com/
 1600000US1233675,Indian Shores,Florida,https://www.myindianshores.com/
+1600000US1233800,Inglis,Florida,https://www.townofinglis.org/
 1600000US1233900,Interlachen,Florida,https://www.interlachen-fl.gov/
 1600000US1234132,"Islamorada, Village of Islands",Florida,https://www.islamorada.fl.us/
 1600000US1235000,Jacksonville,Florida,https://www.jacksonville.gov/
@@ -1317,6 +1307,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1271400,Temple Terrace,Florida,https://www.templeterrace.gov/
 1600000US1271525,Tequesta,Florida,https://www.tequesta.org/
 1600000US1271900,Titusville,Florida,https://www.titusville.com/
+1600000US1272325,Treasure Island,Florida,https://www.mytreasureisland.org/
 1600000US1272350,Trenton,Florida,https://www.trentonflorida.org/
 1600000US1273025,Umatilla,Florida,https://www.umatillafl.org/
 1600000US1274150,Vero Beach,Florida,https://www.covb.org/
@@ -1327,7 +1318,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1275600,Webster,Florida,https://websterfl.com/
 1600000US1275812,Wellington,Florida,https://www.wellingtonfl.gov/
 1600000US1276500,West Melbourne,Florida,https://www.westmelbourne.gov/
-1600000US1276525,West Miami,Florida,https://cityofwestmiami.gov/
 1600000US1276417,Westlake,Florida,https://www.westlakegov.com/
 1600000US1277100,Wewahitchka,Florida,https://www.cityofwewahitchka.com/
 1600000US1277400,White Springs,Florida,https://www.whitesprings.org/
@@ -1409,7 +1399,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1316600,Claxton,Georgia,https://www.cityofclaxton.org/
 1600000US1316656,Clayton,Georgia,https://www.cityofclaytonga.gov/
 1600000US1316796,Clermont,Georgia,https://www.clermontga.com/
-1600000US1316908,Climax,Georgia,https://codifiedsecurity.com/android-vs-ios-which-os-is-more-secure/
+1600000US1316908,Climax,Georgia,https://proathleteventures.com/athletes/terrion-arnold/
 1600000US1317328,Cochran,Georgia,https://www.cityofcochran.com/
 1600000US1317552,Colbert,Georgia,http://www.colbertgeorgia.com/
 1600000US1318000,Colquitt,Georgia,https://www.colquittga.gov/
@@ -1417,6 +1407,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1319084,Comer,Georgia,https://www.cityofcomer.com/
 1600000US1319168,Concord,Georgia,https://www.concordga.com/
 1600000US1319392,Coolidge,Georgia,https://coolidgega.com/
+1600000US1319616,Cordele,Georgia,https://www.cityofcordele.com/
 1600000US1320064,Covington,Georgia,https://cityofcovington.org/
 1600000US1320288,Crawford,Georgia,https://www.crawfordcountyga.org/
 1600000US1320316,Crawfordville,Georgia,https://crawfordvillega.org/
@@ -1442,7 +1433,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1324488,Dudley,Georgia,https://www.cityofdudley.com/
 1600000US1324600,Duluth,Georgia,https://www.duluthga.net/
 1600000US1325300,East Dublin,Georgia,https://cityofeastdublin.org/wp/
-1600000US1325720,East Point,Georgia,https://eastpointga.gov/
 1600000US1325552,Eastman,Georgia,https://eastmanga.gov/
 1600000US1326156,Echols County,Georgia,https://echolscountyga.com/
 1600000US1326616,Elberton,Georgia,https://www.cityofelberton.net/
@@ -1464,6 +1454,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1330956,Fort Oglethorpe,Georgia,https://fortogov.com/
 1600000US1331096,Fort Valley,Georgia,https://www.fortvalleyga.org/
 1600000US1331320,Franklin Springs,Georgia,https://www.cityoffranklinsprings.com/
+1600000US1331908,Gainesville,Georgia,https://www.gainesville.org/
 1600000US1332528,Georgetown-Quitman County,Georgia,https://www.gqc-ga.org/
 1600000US1332860,Gillsville,Georgia,https://gillsvillega.com/
 1600000US1333896,Good Hope,Georgia,https://goodhopega.com/
@@ -1542,7 +1533,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1352304,Montezuma,Georgia,https://www.montezuma-ga.org/
 1600000US1353060,Moultrie,Georgia,https://www.moultriega.com/
 1600000US1353284,Mount Airy,Georgia,https://www.townofmtairy.com/
-1600000US1353508,Mount Vernon,Georgia,https://www.mtvernonga.org/
 1600000US1353620,Mount Zion,Georgia,https://www.cityofmountzion.com/
 1600000US1354264,Nashville,Georgia,http://cityofnashvillega.net/
 1600000US1354572,Nelson,Georgia,https://nelsongeorgia.com/
@@ -1624,6 +1614,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1376476,Tifton,Georgia,https://www.tiftonga.gov/
 1600000US1376756,Toccoa,Georgia,https://www.cityoftoccoa.com/
 1600000US1376952,Toomsboro,Georgia,https://townoftoomsboro.org/
+1600000US1377372,Trenton,Georgia,https://www.trentonga.gov
 1600000US1377540,Trion,Georgia,https://www.townoftrion.net/
 1600000US1377652,Tucker,Georgia,https://www.tuckerga.gov/
 1600000US1377764,Turin,Georgia,https://townofturin.com/index.php
@@ -1684,7 +1675,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1614680,Chubbuck,Idaho,https://cityofchubbuck.us/
 1600000US1616120,Clifton,Idaho,https://cliftonidaho.com/
 1600000US1616750,Coeur d'Alene,Idaho,https://www.cdaid.org/
-1600000US1618820,Council,Idaho,https://www.cityofcouncilidaho.org/
 1600000US1619720,Crouch,Idaho,https://cityofcrouch.org/
 1600000US1620350,Dalton Gardens,Idaho,https://daltongardens.com/
 1600000US1620890,Deary,Idaho,https://dearyidaho.com/
@@ -1759,7 +1749,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1661210,Paul,Idaho,https://cityofpaul.org/
 1600000US1661300,Payette,Idaho,https://cityofpayette.com/
 1600000US1663550,Placerville,Idaho,https://placervilleidaho.org/
-1600000US1663910,Plummer,Idaho,https://www.cityofplummer.org/
 1600000US1664090,Pocatello,Idaho,https://pocatello.gov/
 1600000US1664450,Ponderay,Idaho,https://cityofponderay.org/
 1600000US1664900,Potlatch,Idaho,https://www.cityofpotlatch.org/
@@ -1837,14 +1826,12 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1705248,Bensenville,Illinois,https://www.bensenville.gov/
 1600000US1705261,Benson,Illinois,https://www.villageofbenson.com/
 1600000US1705300,Benton,Illinois,https://bentonil.com/
-1600000US1705404,Berkeley,Illinois,https://www.berkeley.il.us/
 1600000US1705599,Bethalto,Illinois,https://bethalto.com/
 1600000US1705612,Bethany,Illinois,https://www.villageofbethany.com/
 1600000US1705976,Big Rock,Illinois,https://villageofbigrock.us
 1600000US1706587,Bloomingdale,Illinois,https://www.villageofbloomingdale.org/
 1600000US1706704,Blue Island,Illinois,https://www.blueisland.org/
 1600000US1706756,Blue Mound,Illinois,https://bluemoundil.gov/
-1600000US1707133,Bolingbrook,Illinois,https://www.bolingbrook.gov
 1600000US1707263,Bonnie,Illinois,https://villageofbonnie.com/homepage/
 1600000US1707471,Bourbonnais,Illinois,https://www.villageofbourbonnais.com/
 1600000US1707692,Bradford,Illinois,https://bradfordil.com/
@@ -1864,7 +1851,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1709798,Burnham,Illinois,https://www.burnham-il.gov/
 1600000US1709980,Burr Ridge,Illinois,https://www.burr-ridge.gov/
 1600000US1710240,Byron,Illinois,https://www.cityofbyron.com/
-1600000US1710370,Cahokia,Illinois,https://baileywicks.net/
+1600000US1710370,Cahokia,Illinois,http://www.cahokiaillinois.org/
 1600000US1710422,Caledonia,Illinois,https://villageofcaledonia.com/
 1600000US1710487,Calumet City,Illinois,https://calumetcity.org/
 1600000US1710513,Calumet Park,Illinois,https://www.villageofcalumetpark.org/
@@ -1922,6 +1909,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1717497,Crestwood,Illinois,https://crestwood.illinois.gov/
 1600000US1717523,Crete,Illinois,https://www.villageofcrete.org/
 1600000US1717549,Creve Coeur,Illinois,https://www.villageofcc.com/
+1600000US1717991,Cuba,Illinois,https://cityofcubail.com/
 1600000US1718030,Cullom,Illinois,https://villageofcullomillinois.com/
 1600000US1718147,Curran,Illinois,https://curranil.govoffice2.com/
 1600000US1718342,Dakota,Illinois,https://www.villageofdakota.com/
@@ -1936,7 +1924,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1718823,Decatur,Illinois,https://www.decaturil.gov/
 1600000US1719083,Deer Park,Illinois,https://www.villageofdeerpark.com/
 1600000US1718992,Deerfield,Illinois,https://www.deerfield.il.us/
-1600000US1719226,Delavan,Illinois,https://www.delavanil.org/
 1600000US1719837,Diamond,Illinois,https://www.villageofdiamond.org/
 1600000US1719915,Dieterich,Illinois,https://dieterichillinois.com/
 1600000US1720045,Divernon,Illinois,https://divernonil.com/
@@ -1951,11 +1938,9 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1721254,Dupo,Illinois,http://www.villageofdupo.org/
 1600000US1721280,Durand,Illinois,https://villageofdurand.com/
 1600000US1721358,Dwight,Illinois,https://dwightillinois.org/
-1600000US1721540,Earlville,Illinois,https://earlvilleil.org/
 1600000US1721618,East Carondelet,Illinois,http://eastcarondelet.us/
 1600000US1721683,East Dubuque,Illinois,https://www.cityofeastdubuque.com/
 1600000US1721696,East Dundee,Illinois,https://eastdundee.net/
-1600000US1721904,East Hazel Crest,Illinois,https://www.easthazelcrest.com/
 1600000US1722073,East Moline,Illinois,https://www.eastmoline.com/
 1600000US1722164,East Peoria,Illinois,https://www.cityofeastpeoria.com/
 1600000US1722255,East St. Louis,Illinois,https://www.cesl.us/
@@ -1997,14 +1982,15 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1727663,Franklin,Illinois,https://www.franklinillinois.net/
 1600000US1727689,Franklin Grove,Illinois,https://franklingrove.org/
 1600000US1727702,Franklin Park,Illinois,https://www.villageoffranklinpark.com/
-1600000US1727806,Freeburg,Illinois,https://www.freeburg.com/
 1600000US1727884,Freeport,Illinois,https://www.cityoffreeport.org/
+1600000US1728144,Fulton,Illinois,https://cityoffulton.us/
 1600000US1728261,Galatia,Illinois,https://villageofgalatia.com/
 1600000US1728300,Galena,Illinois,https://www.cityofgalena.org/
 1600000US1728326,Galesburg,Illinois,https://www.ci.galesburg.il.us/
 1600000US1728430,Galva,Illinois,https://www.galvail.gov/
 1600000US1728846,Geneseo,Illinois,https://www.cityofgeneseo.com/
 1600000US1728872,Geneva,Illinois,https://www.geneva.il.us/
+1600000US1728898,Genoa,Illinois,https://www.genoa-il.com/
 1600000US1728963,Georgetown,Illinois,https://georgetownil.net/
 1600000US1729041,Germantown,Illinois,https://germantownil.net/
 1600000US1729080,Germantown Hills,Illinois,https://germantownhillsillinois.org/
@@ -2017,7 +2003,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1729756,Glen Ellyn,Illinois,https://www.glenellyn.org/
 1600000US1729730,Glendale Heights,Illinois,https://www.glendaleheights.org/
 1600000US1729938,Glenview,Illinois,https://www.glenview.il.us/
-1600000US1730029,Glenwood,Illinois,https://www.villageofglenwood.com/
 1600000US1730094,Godfrey,Illinois,https://godfreyil.org/
 1600000US1730120,Godley,Illinois,https://www.godleypark.com/
 1600000US1730328,Golf,Illinois,https://villageofgolf.us/
@@ -2033,7 +2018,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1731368,Greenfield,Illinois,https://www.greenfieldillinois.org/
 1600000US1731524,Greenup,Illinois,https://villageofgreenup.com/
 1600000US1731576,Greenview,Illinois,https://thevillageofgreenview.com/
-1600000US1731589,Greenville,Illinois,https://www.greenvilleillinois.com/
 1600000US1731732,Gridley,Illinois,https://villageofgridley.org/
 1600000US1731771,Griggsville,Illinois,http://www.griggsville-il.org/
 1600000US1732018,Gurnee,Illinois,https://www.gurneeil.gov/
@@ -2282,7 +2266,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1758226,Paw Paw,Illinois,https://pawpawil.org/
 1600000US1758174,Pawnee,Illinois,https://pawneeil.net/
 1600000US1758239,Paxton,Illinois,https://www.cityofpaxton.com/
-1600000US1758265,Payson,Illinois,https://paysonil.com/
 1600000US1758369,Pearl City,Illinois,https://www.villageofpearlcity.com/
 1600000US1758408,Pecatonica,Illinois,https://www.villageofpecatonica.com/
 1600000US1758447,Pekin,Illinois,https://www.ci.pekin.il.us/
@@ -2305,7 +2288,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1761145,Poplar Grove,Illinois,https://www.poplargrove-il.gov/
 1600000US1761216,Port Barrington,Illinois,https://www.portbarrington.net/
 1600000US1761223,Port Byron,Illinois,https://www.portbyronil.com/
-1600000US1761314,Posen,Illinois,https://www.villageofposen.org/vop/
 1600000US1761678,Prairie Grove,Illinois,https://prairiegrove.org/
 1600000US1761899,Princeton,Illinois,https://www.princeton-il.com/
 1600000US1761925,Princeville,Illinois,https://princeville.org/
@@ -2331,7 +2313,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1765078,Rock Island,Illinois,https://www.rigov.org/
 1600000US1764902,Rockdale,Illinois,https://rockdaleillinois.org/
 1600000US1765000,Rockford,Illinois,https://rockfordil.gov/
-1600000US1765156,Rockton,Illinois,https://rocktonil.gov/
 1600000US1765338,Rolling Meadows,Illinois,https://www.cityrm.org/
 1600000US1765442,Romeoville,Illinois,https://www.romeoville.org/
 1600000US1765806,Roselle,Illinois,https://www.roselle.il.us/
@@ -2345,7 +2326,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1766157,Royal,Illinois,https://villageofroyal.com/
 1600000US1766339,Rushville,Illinois,https://rushvilleillinois.us/
 1600000US1766534,Sadorus,Illinois,https://www.sadorus.com/
-1600000US1767613,San Jose,Illinois,https://www.sanjoseil.com/
 1600000US1767769,Sauk Village,Illinois,https://www.saukvillage.org/
 1600000US1767795,Saunemin,Illinois,https://www.sauneminillinois.org/
 1600000US1767821,Savanna,Illinois,https://www.savanna-il.us/
@@ -2385,7 +2365,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1766638,St. Anne,Illinois,https://villageofstanne.com/
 1600000US1766794,St. Elmo,Illinois,https://www.cityofstelmo.com/
 1600000US1766859,St. Jacob,Illinois,https://www.stjacobil.com/
-1600000US1766950,St. Joseph,Illinois,https://stjosephillinois.org/
 1600000US1772260,Stanford,Illinois,https://www.stanford-il.org/
 1600000US1772403,Staunton,Illinois,https://www.cityofstauntonil.com/
 1600000US1772468,Steeleville,Illinois,https://www.steeleville.org/
@@ -2399,7 +2378,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1773040,Strasburg,Illinois,http://www.strasburgil.com/
 1600000US1773170,Streator,Illinois,https://www.ci.streator.il.us/
 1600000US1773261,Stronghurst,Illinois,https://www.villageofstronghurst.org/
-1600000US1773287,Sublette,Illinois,https://www.subletteweb.com/
 1600000US1773391,Sugar Grove,Illinois,https://www.sugargroveil.gov/
 1600000US1773495,Sullivan,Illinois,https://www.sullivanil.us/
 1600000US1773638,Summit,Illinois,https://summit-il.org/
@@ -2426,6 +2404,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1776199,Troy,Illinois,https://www.troyil.us/
 1600000US1776407,Tuscola,Illinois,https://tuscola.org/
 1600000US1776935,University Park,Illinois,http://university-park-il.com/
+1600000US1777005,Urbana,Illinois,https://www.urbanail.gov/
 1600000US1777044,Ursa,Illinois,https://ursavillage.org/
 1600000US1777148,Valier,Illinois,https://villageofvalier.org/
 1600000US1777317,Vandalia,Illinois,https://www.vandaliaillinois.com/
@@ -2489,9 +2468,11 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1783817,Yates City,Illinois,https://villageofyatescity.gov/
 1600000US1784038,Yorkville,Illinois,https://www.yorkville.il.us/
 1600000US1784220,Zion,Illinois,https://www.cityofzion.com/
+1600000US1800640,Advance,Indiana,https://www.in.gov/towns/advance/
 1600000US1800748,Akron,Indiana,https://akronindiana.com/
 1600000US1800802,Albany,Indiana,https://albanyin.com/
 1600000US1800820,Albion,Indiana,https://www.albion-in.org/
+1600000US1800910,Alexandria,Indiana,http://www.cityofalexandria.org/
 1600000US1801450,Amo,Indiana,https://amoin.net/
 1600000US1801468,Anderson,Indiana,https://www.cityofanderson.com/
 1600000US1801612,Andrews,Indiana,https://www.in.gov/towns/andrews/
@@ -2515,7 +2496,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1804888,Berne,Indiana,https://www.cityofberne.in.gov
 1600000US1805158,Beverly Shores,Indiana,https://www.beverlyshoresindiana.org/
 1600000US1805176,Bicknell,Indiana,https://bicknell.in.gov/
-1600000US1805716,Bloomfield,Indiana,https://www.hugedomains.com/domain_profile.cfm?d=bloomfieldin.com
 1600000US1805860,Bloomington,Indiana,https://bloomington.in.gov/
 1600000US1806220,Bluffton,Indiana,https://blufftonindiana.net/
 1600000US1806616,Boonville,Indiana,https://www.cityofboonvilleindiana.com/
@@ -2639,7 +2619,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1838862,Jonesboro,Indiana,https://www.jonesboroindiana.net/
 1600000US1839546,Kentland,Indiana,https://kentland.in.gov/
 1600000US1839942,Kirklin,Indiana,https://townofkirklin.in.gov/
-1600000US1840266,Knightstown,Indiana,https://www.knightstown.in/
+1600000US1840266,Knightstown,Indiana,http://www.knightstown.in/
 1600000US1840374,Knox,Indiana,https://www.cityofknox.net/
 1600000US1840392,Kokomo,Indiana,https://www.cityofkokomo.org/
 1600000US1840518,Kouts,Indiana,https://www.koutsindiana.org/
@@ -2649,7 +2629,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1840698,Ladoga,Indiana,https://www.townofladoga.org/
 1600000US1840788,Lafayette,Indiana,https://www.lafayette.in.gov/
 1600000US1840860,Lagrange,Indiana,https://www.in.gov/towns/lagrange/
-1600000US1840896,Lagro,Indiana,http://www.lagroindiana.com/
 1600000US1841535,Lake Station,Indiana,https://www.lakestation-in.gov/
 1600000US1842228,Lapel,Indiana,https://www.townoflapel.in.gov/
 1600000US1842426,Lawrence,Indiana,https://www.cityoflawrence.org/
@@ -2828,7 +2807,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1900595,Afton,Iowa,https://www.aftoniowa.com/
 1600000US1900640,Agency,Iowa,https://www.cityofagency.com/
 1600000US1900775,Akron,Iowa,https://akronia.org/
-1600000US1900865,Albert City,Iowa,https://villasdesmariages.com/
+1600000US1900865,Albert City,Iowa,https://www.hillsoncocare.com/common-signs-you-dont-have-cancer-understanding-normal-body-changes/
 1600000US1900910,Albia,Iowa,https://albiaiowa.org/
 1600000US1900955,Albion,Iowa,https://albioniowa.com/
 1600000US1901000,Alburnett,Iowa,https://alburnettia.org/
@@ -2877,7 +2856,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1907480,Boone,Iowa,https://www.boonegov.com/
 1600000US1907840,Boyden,Iowa,https://www.boydeniowa.net/
 1600000US1908290,Breda,Iowa,https://www.citybreda.com/
-1600000US1908470,Brighton,Iowa,https://brightoniowa.com/
 1600000US1908605,Britt,Iowa,https://brittiowa.com/
 1600000US1908695,Brooklyn,Iowa,https://www.brooklyniowa.com/
 1600000US1909235,Buffalo,Iowa,https://www.buffaloiowa.org/
@@ -2888,9 +2866,9 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1909955,Callender,Iowa,https://cityofcallenderiowa.com/
 1600000US1910045,Calmar,Iowa,https://www.calmaria.com/
 1600000US1910135,Camanche,Iowa,https://www.camancheia.org
+1600000US1910225,Cambridge,Iowa,https://www.cambridgeia.gov
 1600000US1910765,Carlisle,Iowa,https://carlisleiowa.org/
 1600000US1911080,Carroll,Iowa,https://www.cityofcarroll.com/
-1600000US1911170,Carson,Iowa,https://www.carsongov.com/
 1600000US1911215,Carter Lake,Iowa,https://cityofcarterlake.com/
 1600000US1911305,Cascade,Iowa,https://www.cityofcascade.org/
 1600000US1911395,Casey,Iowa,https://www.cityofcaseyia.com/
@@ -2899,9 +2877,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1912270,Center Point,Iowa,https://www.centerpointia.com/
 1600000US1912315,Centerville,Iowa,https://www.centerville-ia.org/
 1600000US1912495,Central City,Iowa,https://www.centralcityia.gov/
-1600000US1912720,Chariton,Iowa,https://www.chariton.org/
 1600000US1912765,Charles City,Iowa,https://www.cityofcharlescity.org/
-1600000US1912855,Charlotte,Iowa,https://www.charlotteia.com/
 1600000US1913530,Clarence,Iowa,https://clarenceia.org/
 1600000US1913575,Clarinda,Iowa,https://www.bestiowatown.com/
 1600000US1913620,Clarion,Iowa,https://www.clarioniowa.gov/
@@ -2911,12 +2887,10 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1914115,Cleghorn,Iowa,https://cleghorniowa.com/
 1600000US1914250,Clermont,Iowa,https://clermontia.org/
 1600000US1914520,Clive,Iowa,https://www.cityofclive.com/
-1600000US1914925,Coggon,Iowa,https://www.coggonia.org/
 1600000US1915195,Collins,Iowa,https://cityofcollins.municipalimpact.com/
 1600000US1915825,Conrad,Iowa,https://conrad.govoffice.com/
 1600000US1916050,Coon Rapids,Iowa,https://www.coonrapidsiowa.com/
 1600000US1916230,Coralville,Iowa,https://www.coralville.org/
-1600000US1916500,Corning,Iowa,https://www.cityofcorningia.com/
 1600000US1916545,Correctionville,Iowa,https://correctionville.govoffice2.com/
 1600000US1916635,Corydon,Iowa,https://www.cityofcorydoniowa.com/
 1600000US1917175,Crescent,Iowa,http://www.crescentiowa.com/
@@ -2929,7 +2903,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1919000,Davenport,Iowa,https://www.davenportiowa.com/
 1600000US1919180,Dayton,Iowa,https://www.daytoniowa.org/
 1600000US1921045,De Soto,Iowa,https://desoto-ia.org/
-1600000US1921180,DeWitt,Iowa,https://www.cityofdewittiowa.org/
 1600000US1919405,Decorah,Iowa,https://www.decorahia.org/
 1600000US1919450,Dedham,Iowa,https://www.dedhamiowa.com/
 1600000US1919675,Delhi,Iowa,https://www.delhiia.com/
@@ -2937,18 +2910,14 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1920035,Denver,Iowa,https://cityofdenveriowa.com/
 1600000US1921000,Des Moines,Iowa,https://www.dsm.city/
 1600000US1921225,Dexter,Iowa,https://www.dexteria.org/
-1600000US1921405,Dike,Iowa,https://dikeia.com/
 1600000US1921810,Donnellson,Iowa,https://donnellsoniowa.org/
 1600000US1921900,Doon,Iowa,http://www.cityofdoon.com/site/
 1600000US1922395,Dubuque,Iowa,https://www.cityofdubuque.org/
-1600000US1922845,Dunkerton,Iowa,https://www.cityofdunkerton.org/
 1600000US1922890,Dunlap,Iowa,https://www.dunlapia.com/
 1600000US1922980,Durant,Iowa,https://cityofdurantiowa.com/
 1600000US1923115,Dyersville,Iowa,https://www.cityofdyersville.com/
-1600000US1923160,Dysart,Iowa,https://www.cityofdysartia.com/
 1600000US1923250,Eagle Grove,Iowa,https://eaglegroveiowa.org/
 1600000US1923340,Earlham,Iowa,https://earlhamiowa.org/
-1600000US1923475,Early,Iowa,https://earlyia.com/
 1600000US1924060,Edgewood,Iowa,https://www.edgewoodiowa.com/
 1600000US1924420,Eldon,Iowa,https://www.cityofeldon.org/
 1600000US1924465,Eldora,Iowa,https://www.eldoraiowa.com/
@@ -2970,7 +2939,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1925995,Evansdale,Iowa,https://evansdale.govoffice.com/
 1600000US1926175,Everly,Iowa,https://www.everlyiowa.com/
 1600000US1926355,Fairbank,Iowa,http://www.fairbank-ia.org/
-1600000US1926400,Fairfax,Iowa,https://www.cityoffairfax.org/
 1600000US1926445,Fairfield,Iowa,https://cityoffairfieldiowa.com/
 1600000US1926760,Farley,Iowa,https://www.farleyiowa.com/
 1600000US1926895,Farmington,Iowa,https://www.farmingtoniowa.com/
@@ -2978,7 +2946,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1927390,Fertile,Iowa,https://fertileiowa.us/
 1600000US1928245,Fonda,Iowa,https://fondaiowa.com/
 1600000US1928290,Fontanelle,Iowa,https://fontanelleia.org/
-1600000US1928380,Forest City,Iowa,https://www.cityofforestcity.com/
 1600000US1928425,Fort Atkinson,Iowa,https://www.fortatkinsoniowa.com/
 1600000US1928605,Fort Madison,Iowa,https://www.fortmadison-ia.com/
 1600000US1928965,Fredericksburg,Iowa,https://www.fredericksburgiowa.com/home.html
@@ -2987,7 +2954,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1929955,Garner,Iowa,https://www.garneriowa.org/
 1600000US1930225,George,Iowa,https://www.georgeiowa.com/
 1600000US1930630,Gilbert,Iowa,https://cityofgilbertiowa.org/
-1600000US1930900,Gilman,Iowa,https://gilman.ia.gov/
 1600000US1930945,Gilmore City,Iowa,https://gilmorecityiowa.com/
 1600000US1931035,Gladbrook,Iowa,https://www.gladbrook.org/
 1600000US1931350,Glenwood,Iowa,https://cityofglenwoodia.gov
@@ -3018,7 +2984,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1935670,Hedrick,Iowa,https://www.hedrickiowa.com/
 1600000US1935715,Henderson,Iowa,https://www.cityofhendersoniowa.com/
 1600000US1935940,Hiawatha,Iowa,https://www.hiawatha-iowa.com/
-1600000US1936345,Hills,Iowa,https://hills-ia.org/
 1600000US1936480,Hinton,Iowa,https://hintoniowa.com/
 1600000US1936840,Holstein,Iowa,https://www.holsteiniowa.org/
 1600000US1937155,Hopkinton,Iowa,https://cityofhopkinton.org/
@@ -3030,7 +2995,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1937560,Humboldt,Iowa,https://www.cityofhumboldt.org/
 1600000US1937605,Humeston,Iowa,https://www.humestoniowa.com/
 1600000US1937920,Huxley,Iowa,https://huxleyiowa.org/
-1600000US1938010,Ida Grove,Iowa,https://idagroveia.com/
 1600000US1938055,Imogene,Iowa,http://imogeneiowa.weebly.com/
 1600000US1938100,Independence,Iowa,https://www.independenceia.gov/
 1600000US1938280,Indianola,Iowa,https://www.indianolaiowa.gov/
@@ -3039,10 +3003,8 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1938820,Ireton,Iowa,https://iretonia.com/
 1600000US1939405,Janesville,Iowa,https://www.janesvilleia.com/
 1600000US1939450,Jefferson,Iowa,https://cityofjeffersoniowa.org/
-1600000US1939585,Jesup,Iowa,https://jesupiowa.com/
 1600000US1939675,Jewell Junction,Iowa,https://jewelliowa.com/
 1600000US1939765,Johnston,Iowa,https://www.cityofjohnston.com/
-1600000US1940170,Kalona,Iowa,https://www.cityofkalona.org/
 1600000US1940665,Kensett,Iowa,https://www.kensettia.com/
 1600000US1940845,Keokuk,Iowa,https://cityofkeokuk.org/
 1600000US1940935,Keosauqua,Iowa,https://www.keosauqua.com/
@@ -3064,7 +3026,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1943815,Lawler,Iowa,https://lawleriowa.us/
 1600000US1943905,Lawton,Iowa,https://www.lawtoniowa.com/
 1600000US1944085,Le Claire,Iowa,https://www.leclaireiowa.gov/
-1600000US1944220,Le Grand,Iowa,https://www.legrandiowa.com/
 1600000US1944400,Le Mars,Iowa,https://www.lemarsiowa.com/
 1600000US1944130,Ledyard,Iowa,https://www.ledyardiowa.org/
 1600000US1944265,Lehigh,Iowa,https://cityoflehigh.com/
@@ -3166,7 +3127,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1959475,Orange City,Iowa,https://orangecityiowa.com/
 1600000US1959565,Orient,Iowa,https://www.orientiowa.com/
 1600000US1959655,Orleans,Iowa,https://orleansiowa.gov/
-1600000US1959745,Osage,Iowa,https://www.osageia.org/
 1600000US1959835,Osceola,Iowa,https://osceolaia.net/
 1600000US1959925,Oskaloosa,Iowa,https://www.oskaloosaiowa.org/
 1600000US1959970,Ossian,Iowa,http://www.ossianiowa.com/
@@ -3218,7 +3178,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1968295,Rockwell City,Iowa,https://rockwellcity.com/
 1600000US1968520,Rolfe,Iowa,https://rolfeiowa.com/
 1600000US1969015,Rowan,Iowa,https://cityofrowan.com/
-1600000US1969240,Runnells,Iowa,https://runnellsia.com/
 1600000US1969285,Russell,Iowa,https://cityofrusselliowa.com/
 1600000US1969330,Ruthven,Iowa,https://www.ruthvenlostisland.com/
 1600000US1969510,Sabula,Iowa,https://www.sabulaia.com/
@@ -3263,7 +3222,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1976035,Sully,Iowa,https://sullyia.com/
 1600000US1976260,Sumner,Iowa,https://www.mysumneriowa.com/home.html
 1600000US1976485,Sutherland,Iowa,https://www.sutherlandiowa.com/
-1600000US1976890,Swisher,Iowa,https://www.swisheria.org/
 1600000US1976935,Tabor,Iowa,https://www.taboriowa.us/
 1600000US1977115,Tama,Iowa,https://www.tamacityia.gov/
 1600000US1977340,Templeton,Iowa,https://templetoniowa.com/
@@ -3272,18 +3230,15 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1978330,Titonka,Iowa,https://titonka.com/
 1600000US1978510,Toledo,Iowa,https://www.toledoia.com/
 1600000US1978735,Traer,Iowa,https://www.traer.com/
-1600000US1978825,Treynor,Iowa,https://cityoftreynor.com/
 1600000US1978915,Tripoli,Iowa,https://www.tripoliiowa.com/
 1600000US1979140,Truro,Iowa,https://www.truroiowa.org/
 1600000US1979500,Underwood,Iowa,https://underwoodia.com/
 1600000US1979770,University Heights,Iowa,https://www.university-heights.org/
 1600000US1979950,Urbandale,Iowa,https://www.urbandale.org/
 1600000US1979995,Ute,Iowa,https://cityofute.com/
-1600000US1980400,Van Horne,Iowa,https://www.vanhorne-ia.com/
 1600000US1980445,Van Meter,Iowa,https://vanmeteria.gov/
 1600000US1980535,Varina,Iowa,http://varinaiowa.com/
-1600000US1980580,Ventura,Iowa,https://venturaiowa.com/
-1600000US1980805,Victor,Iowa,https://www.victoriowa.com/
+1600000US1980805,Victor,Iowa,https://lgoluxsome.com/live/
 1600000US1980985,Villisca,Iowa,https://www.cityofvillisca.com/
 1600000US1981075,Vincent,Iowa,https://www.cityofvincent.org/
 1600000US1981210,Vinton,Iowa,https://www.cityofvinton.org/
@@ -3323,10 +3278,10 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US1986070,Wilton,Iowa,https://www.wiltoniowa.org/
 1600000US1986250,Windsor Heights,Iowa,https://www.windsorheights.org/
 1600000US1986385,Winfield,Iowa,https://www.winfieldiowa.com/
+1600000US1986520,Winterset,Iowa,https://cityofwinterset.org/
 1600000US1986565,Winthrop,Iowa,https://www.cityofwinthrop.com/
 1600000US1986700,Woden,Iowa,https://wodenia.govoffice3.com/404.htm?aspxerrorpath=/index.asp
 1600000US1986835,Woodbine,Iowa,https://www.woodbineia.com/
-1600000US1986970,Woodward,Iowa,https://www.woodwardia.org/
 1600000US1987060,Worthington,Iowa,https://worthingtoniowa.com/
 1600000US1987285,Yale,Iowa,https://www.yaleiowa.com/
 1600000US1987555,Zearing,Iowa,https://www.zearingiowa.com/
@@ -3344,7 +3299,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2002300,Arkansas City,Kansas,https://www.arkcity.org/
 1600000US2002375,Arma,Kansas,https://www.armakansas.org/
 1600000US2002675,Ashland,Kansas,https://www.ashlandks.com/
-1600000US2002850,Assaria,Kansas,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/assariakansas67416/&followup=https://sites.google.com/site/assariakansas67416/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1576375164:1793829066602966
+1600000US2002850,Assaria,Kansas,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/assariakansas67416/&followup=https://sites.google.com/site/assariakansas67416/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-636462866:1793929307262167
 1600000US2002900,Atchison,Kansas,https://cityofatchison.com/
 1600000US2003100,Attica,Kansas,https://www.cityofatticaks.com/
 1600000US2003150,Atwood,Kansas,https://www.cityofatwoodks.com/
@@ -3399,6 +3354,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2015900,Cottonwood Falls,Kansas,https://cwfks.org/
 1600000US2015925,Council Grove,Kansas,https://www.cityofcouncilgrove.com/
 1600000US2016025,Courtland,Kansas,https://www.courtlandks.com/
+1600000US2016625,Cuba,Kansas,http://wp.cubakansas.com/
 1600000US2016700,Culver,Kansas,https://cityofculverkansas.org/
 1600000US2016775,Cunningham,Kansas,https://cunninghamks.net/
 1600000US2016975,Damar,Kansas,https://www.damarkansas.com/
@@ -3501,7 +3457,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2039125,Lebo,Kansas,https://leboks.org/
 1600000US2039150,Lecompton,Kansas,https://lecompton.org/
 1600000US2039450,Leon,Kansas,https://cityofleon.org/
-1600000US2039500,Leonardville,Kansas,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/leonardville66449/&followup=https://sites.google.com/site/leonardville66449/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-936828823:1793829065940750
+1600000US2039500,Leonardville,Kansas,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/leonardville66449/&followup=https://sites.google.com/site/leonardville66449/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1861116678:1793929306642650
 1600000US2039550,Leoti,Kansas,https://www.leotikansas.org/
 1600000US2039825,Liberal,Kansas,https://www.cityofliberal.org/
 1600000US2040400,Liebenthal,Kansas,http://www.cityofliebenthal.net/
@@ -3513,9 +3469,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2042650,Longton,Kansas,https://cityoflongton.com/
 1600000US2042875,Louisburg,Kansas,https://www.louisburgkansas.gov/
 1600000US2043150,Lucas,Kansas,https://lucaskansas.com/
-1600000US2043350,Lyndon,Kansas,https://www.lyndonks.gov/
 1600000US2043525,Lyons,Kansas,https://www.lyonsks.org/
-1600000US2044050,Madison,Kansas,https://www.madisonkansas.org/
 1600000US2044200,Maize,Kansas,https://www.maizeks.gov/
 1600000US2044250,Manhattan,Kansas,https://www.manhattanks.gov/
 1600000US2044300,Mankato,Kansas,https://cityofmankatokansas.com/
@@ -3534,7 +3488,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2047150,Minneola,Kansas,https://minneolakansas.org/
 1600000US2047225,Mission,Kansas,https://www.missionks.org/
 1600000US2047350,Mission Hills,Kansas,https://www.missionhillsks.gov/
-1600000US2047425,Mission Woods,Kansas,https://www.missionwoods-ks.org/
 1600000US2047875,Montezuma,Kansas,https://www.cityofmontezumaks.com/
 1600000US2048125,Moran,Kansas,http://www.morancity.org/
 1600000US2048600,Moscow,Kansas,https://moscowkansas.com/
@@ -3569,12 +3522,11 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2054450,Park City,Kansas,https://www.parkcityks.gov/
 1600000US2054500,Parker,Kansas,https://www.parkerks.com/
 1600000US2054675,Parsons,Kansas,https://www.parsonsks.com/
-1600000US2054700,Partridge,Kansas,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/partridgekansas/&followup=https://sites.google.com/site/partridgekansas/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-636462866:1793829084937100
+1600000US2054700,Partridge,Kansas,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/partridgekansas/&followup=https://sites.google.com/site/partridgekansas/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1760279401:1793929323148573
 1600000US2054875,Pawnee Rock,Kansas,https://www.pawneerock.org/
 1600000US2055100,Peabody,Kansas,https://www.peabodyks.com/
 1600000US2055675,Phillipsburg,Kansas,https://cityofphillipsburg.com/
 1600000US2056025,Pittsburg,Kansas,https://www.pittks.org/
-1600000US2056150,Plainville,Kansas,https://plainvilleks.com/
 1600000US2056450,Pleasanton,Kansas,https://pleasantonks.com/
 1600000US2057000,Pomona,Kansas,https://www.pomonaks.org/
 1600000US2057300,Potwin,Kansas,https://potwinks.com/
@@ -3627,7 +3579,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2071000,Topeka,Kansas,https://topeka.gov
 1600000US2071125,Towanda,Kansas,https://www.cityoftowanda.com/
 1600000US2071575,Troy,Kansas,https://troykansas.com/
-1600000US2071925,Tyro,Kansas,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/cityoftyro&followup=https://sites.google.com/site/cityoftyro&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1412437518:1793829087299831
+1600000US2071925,Tyro,Kansas,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/cityoftyro&followup=https://sites.google.com/site/cityoftyro&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1879353153:1793929325133615
 1600000US2071950,Udall,Kansas,https://www.cityofudall.com/
 1600000US2071975,Ulysses,Kansas,https://cityofulysses.com/
 1600000US2072525,Uniontown,Kansas,http://www.cityofuniontown.net/
@@ -3646,7 +3598,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2077200,Westmoreland,Kansas,https://cityofwestmorelandks.org/
 1600000US2077525,Westwood Hills,Kansas,https://www.westwoodhillsks.gov/
 1600000US2077825,White City,Kansas,https://whitecityks.net/
-1600000US2079000,Wichita,Kansas,https://www.wichita.gov/
 1600000US2079300,Williamsburg,Kansas,https://www.williamsburgks.us/
 1600000US2079675,Wilson,Kansas,https://www.wilsonkansas.com/
 1600000US2079800,Winchester,Kansas,https://winchester.krwa.net/
@@ -3746,7 +3697,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2138008,Horse Cave,Kentucky,https://www.horsecaveky.com/
 1600000US2138814,Hurstbourne,Kentucky,https://www.hurstbourne.org/
 1600000US2138818,Hurstbourne Acres,Kentucky,https://www.siamthaicuisineorlando.com/
-1600000US2138836,Hustonville,Kentucky,https://www.hugedomains.com/domain_profile.cfm?d=hustonvilleky.com
 1600000US2139142,Independence,Kentucky,https://www.cityofindependence.org/
 1600000US2139304,Indian Hills,Kentucky,https://indianhillsky.org/
 1600000US2139430,Inez,Kentucky,https://inez.ky.gov/
@@ -3755,7 +3705,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2140222,Jeffersontown,Kentucky,https://www.jeffersontownky.com/
 1600000US2141338,Junction City,Kentucky,https://www.jcky.us/
 1600000US2142598,Kingsley,Kentucky,https://cityofkingsley.org/
-1600000US2143264,Kuttawa,Kentucky,https://www.hugedomains.com/domain_profile.cfm?d=cityofkuttawa.com
 1600000US2143480,La Grange,Kentucky,https://www.lagrangeky.gov/
 1600000US2143606,Lakeside Park,Kentucky,https://lakesideparkky.gov/
 1600000US2143668,Lakeview Heights,Kentucky,https://kartubet88.homes/
@@ -3805,7 +3754,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2157918,Olive Hill,Kentucky,https://olivehill.ky.gov/
 1600000US2158620,Owensboro,Kentucky,https://www.owensboro.org/
 1600000US2158692,Owenton,Kentucky,https://cityofowentonky.us/
-1600000US2158710,Owingsville,Kentucky,https://www.cityofowingsville.net/
 1600000US2158836,Paducah,Kentucky,https://paducahky.gov/
 1600000US2159196,Paris,Kentucky,https://paris.ky.gov/
 1600000US2159255,Park Hills,Kentucky,https://parkhillsky.gov
@@ -3997,7 +3945,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2264100,Reeves,Louisiana,https://www.reevesla.gov/
 1600000US2264660,Richwood,Louisiana,https://www.townofrichwood.com/
 1600000US2266060,Rosedale,Louisiana,http://www.rosedalela.com/
-1600000US2266200,Rosepine,Louisiana,https://townofrosepine.com/
 1600000US2266655,Ruston,Louisiana,https://www.ruston.org/
 1600000US2268125,Sarepta,Louisiana,http://townofsarepta.com/
 1600000US2268475,Scott,Louisiana,https://www.cityofscott.org/
@@ -4040,7 +3987,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2321730,Eastport,Maine,https://www.eastport-me.gov/
 1600000US2330550,Hallowell,Maine,https://hallowell.govoffice.com/
 1600000US2338740,Lewiston,Maine,http://www.lewistonmaine.gov/
-1600000US2355225,Old Town,Maine,https://old-town.org
 1600000US2360825,Presque Isle,Maine,http://presqueislemaine.gov/
 1600000US2363590,Rockland,Maine,https://rocklandmaine.gov/
 1600000US2364675,Saco,Maine,https://www.sacomaine.org/
@@ -4062,7 +4008,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2408775,Bowie,Maryland,https://www.cityofbowie.org/
 1600000US2409500,Brentwood,Maryland,https://www.brentwoodmd.gov/
 1600000US2410225,Brookeville,Maryland,https://townofbrookevillemd.org/
-1600000US2410900,Brunswick,Maryland,https://brunswickmd.gov/
 1600000US2411400,Burkittsville,Maryland,https://burkittsville-md.gov/
 1600000US2412400,Cambridge,Maryland,https://www.choosecambridge.com/
 1600000US2413000,Capitol Heights,Maryland,https://www.capitolheightsmd.gov/
@@ -4103,19 +4048,19 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2431525,Garrett Park,Maryland,https://www.garrettparkmd.gov/
 1600000US2432900,Glen Echo,Maryland,https://glenecho.gov/
 1600000US2432500,Glenarden,Maryland,https://cityofglenarden.org/
+1600000US2434525,Grantsville,Maryland,https://visitgrantsville.com/
 1600000US2434775,Greenbelt,Maryland,https://www.greenbeltmd.gov/
 1600000US2435200,Greensboro,Maryland,https://greensboromd.org/
 1600000US2436075,Hagerstown,Maryland,https://www.hagerstownmd.org/
-1600000US2436500,Hampstead,Maryland,https://hampsteadmd.gov/
 1600000US2436600,Hancock,Maryland,https://townofhancock.org/
 1600000US2437600,Havre de Grace,Maryland,https://havredegracemd.gov/
 1600000US2437875,Hebron,Maryland,https://www.hebronmd.com/
-1600000US2438500,Highland Beach,Maryland,https://www.highlandbeachmd.org/
 1600000US2439175,Hillsboro,Maryland,https://hillsboromd.com/
 1600000US2441125,Hurlock,Maryland,https://www.hurlock-md.gov/
 1600000US2441250,Hyattsville,Maryland,https://www.hyattsville.org/
 1600000US2441500,Indian Head,Maryland,https://www.townofindianhead.org/
 1600000US2443100,Keedysville,Maryland,https://keedysvillemd.com/
+1600000US2443500,Kensington,Maryland,https://tok.md.gov/
 1600000US2444450,Kitzmiller,Maryland,https://kitzmillermd.org/
 1600000US2445750,La Plata,Maryland,https://townoflaplata.org/
 1600000US2445400,Landover Hills,Maryland,https://www.landoverhillsmd.gov/
@@ -4125,7 +4070,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2450525,Mardela Springs,Maryland,https://mardelasprings.org/
 1600000US2450965,Martin's Additions,Maryland,https://www.martinsadditions.org/
 1600000US2452425,Middletown,Maryland,https://www.middletown.md.us/
-1600000US2452825,Millington,Maryland,https://millingtonmd.us/
 1600000US2453625,Morningside,Maryland,http://morningsidemd.gov/
 1600000US2454275,Mount Rainier,Maryland,https://www.mountrainiermd.org/
 1600000US2453800,Mountain Lake Park,Maryland,http://mtnlakepark.org/
@@ -4288,6 +4232,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2613140,Capac,Michigan,https://www.villageofcapac.com/
 1600000US2613220,Carleton,Michigan,https://carletonmi.us/
 1600000US2613420,Caro,Michigan,https://carocity.net/
+1600000US2613600,Carson City,Michigan,https://carsoncitymi.com/
 1600000US2613620,Carsonville,Michigan,https://www.villageofcarsonville.org/
 1600000US2613760,Caseville,Michigan,https://casevillecity.com/
 1600000US2613860,Caspian,Michigan,https://caspiancity.org/
@@ -4301,6 +4246,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2615000,Cheboygan,Michigan,https://www.cheboygan.org/
 1600000US2615020,Chelsea,Michigan,https://www.city-chelsea.org/
 1600000US2615140,Chesaning,Michigan,https://www.villageofchesaning.org/
+1600000US2615920,Clare,Michigan,http://cityofclare.gov/
 1600000US2616140,Clarksville,Michigan,https://clarksvillemi.org/
 1600000US2616160,Clawson,Michigan,https://www.cityofclawson.com/
 1600000US2616420,Clifford,Michigan,https://www.villageofclifford.com/
@@ -4317,6 +4263,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2618920,Croswell,Michigan,https://croswellmi.gov/
 1600000US2619140,Crystal Falls,Michigan,https://crystalfalls.org/
 1600000US2619780,Dansville,Michigan,https://www.villageofdansvillemi.org/
+1600000US2621780,De Tour Village,Michigan,https://detourmi.gov/
 1600000US2622120,DeWitt,Michigan,https://dewittmi.org/
 1600000US2621000,Dearborn,Michigan,https://cityofdearborn.org/
 1600000US2621040,Decatur,Michigan,https://decaturmi.org/
@@ -4390,6 +4337,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2635520,Grosse Pointe Farms,Michigan,https://www.grossepointefarms.org/
 1600000US2635540,Grosse Pointe Park,Michigan,https://www.grossepointepark.org/
 1600000US2635580,Grosse Pointe Woods,Michigan,https://www.gpwmi.us/
+1600000US2636280,Hamtramck,Michigan,https://hamtramckcity.gov/
 1600000US2636300,Hancock,Michigan,https://www.cityofhancock.com/
 1600000US2636460,Harbor Beach,Michigan,https://www.harborbeach.com/
 1600000US2636560,Harbor Springs,Michigan,https://www.cityofharborsprings.com/
@@ -4427,7 +4375,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2643300,Kingsford,Michigan,https://www.kingsfordmi.gov/
 1600000US2643340,Kingsley,Michigan,https://www.villageofkingsley.com/
 1600000US2645540,L'Anse,Michigan,https://www.villageoflanse.org/
-1600000US2644200,Laingsburg,Michigan,https://www.laingsburg.us/
 1600000US2644440,Lake Angelus,Michigan,https://www.lakeangelus.org/
 1600000US2644460,Lake Ann,Michigan,https://lakeann-mi.com/
 1600000US2644480,Lake City,Michigan,https://cityoflakecity.com/
@@ -4451,6 +4398,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2649540,Lowell,Michigan,http://www.lowellmi.gov/
 1600000US2649640,Ludington,Michigan,https://www.ludington.mi.us/
 1600000US2649700,Luna Pier,Michigan,https://www.cityoflunapier.com/
+1600000US2649900,Lyons,Michigan,https://lyonsvillage.org/
 1600000US2650280,Mackinac Island,Michigan,https://www.mackinacisland.org/
 1600000US2650320,Mackinaw City,Michigan,https://www.mackinawcity.org/
 1600000US2650560,Madison Heights,Michigan,https://www.madisonheightsmi.gov/
@@ -4497,7 +4445,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2657220,New Buffalo,Michigan,https://cityofnewbuffalomi.gov/
 1600000US2657280,New Era,Michigan,https://neweramichigan.com/
 1600000US2657380,New Haven,Michigan,https://www.newhavenmi.org/
-1600000US2657080,Newaygo,Michigan,https://newaygo.gov/
+1600000US2657520,New Lothrop,Michigan,https://www.newlothrop.org/
 1600000US2657140,Newberry,Michigan,https://www.villageofnewberry.com/
 1600000US2657760,Niles,Michigan,https://www.nilesmi.org/
 1600000US2658080,North Branch,Michigan,https://www.northbranchvillage.org/
@@ -4648,7 +4596,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2700316,Afton,Minnesota,https://aftonmn.gov/
 1600000US2700460,Aitkin,Minnesota,https://www.ci.aitkin.mn.us/
 1600000US2700496,Akeley,Minnesota,https://www.akeleycity.com/
-1600000US2700622,Albany,Minnesota,https://ci.albany.mn.us/
 1600000US2700694,Albert Lea,Minnesota,https://www.cityofalbertlea.org/
 1600000US2700838,Alden,Minnesota,https://www.aldenmn.com/
 1600000US2700928,Alexandria,Minnesota,https://alexandriamn.city/
@@ -4659,7 +4606,9 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2701900,Apple Valley,Minnesota,https://www.applevalleymn.gov/
 1600000US2702026,Arden Hills,Minnesota,https://www.cityofardenhills.org/
 1600000US2702134,Argyle,Minnesota,https://ci.argyle.mn.us/
+1600000US2702422,Ashby,Minnesota,https://www.ashbyminnesota.org/
 1600000US2702548,Askov,Minnesota,https://www.cityofaskov.com/
+1600000US2702728,Audubon,Minnesota,https://audubonmn.govoffice2.com/
 1600000US2702872,Aurora,Minnesota,https://www.aurora-mn.com/
 1600000US2702908,Austin,Minnesota,https://www.ci.austin.mn.us/
 1600000US2703070,Avon,Minnesota,https://cityofavonmn.gov/
@@ -4669,14 +4618,12 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2703196,Bagley,Minnesota,https://www.bagleymn.us/
 1600000US2703250,Balaton,Minnesota,https://www.balatonmn.com/
 1600000US2703574,Barnesville,Minnesota,https://www.barnesvillemn.com/
-1600000US2703628,Barnum,Minnesota,https://www.barnummn.us/
 1600000US2703682,Barrett,Minnesota,https://www.barrettmn.com/
 1600000US2703970,Battle Lake,Minnesota,https://battlelakemn.org/
 1600000US2704024,Baudette,Minnesota,https://www.ci.baudette.mn.us/
 1600000US2704114,Bayport,Minnesota,https://www.bayportmn.gov
 1600000US2704456,Beaver Bay,Minnesota,https://www.beaverbaymn.com/
 1600000US2704618,Becker,Minnesota,https://www.ci.becker.mn.us/
-1600000US2704762,Belgrade,Minnesota,https://belgradecitymn.gov/
 1600000US2704798,Bellechester,Minnesota,https://bellechestermn.com/
 1600000US2704960,Bellingham,Minnesota,https://bellinghammn.com/
 1600000US2705014,Beltrami,Minnesota,https://www.beltramicountymn.gov/
@@ -4688,8 +4635,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2705752,Big Lake,Minnesota,https://www.biglakemn.org/
 1600000US2705698,Bigfork,Minnesota,https://www.cityofbigfork.com/
 1600000US2706058,Birchwood Village,Minnesota,https://cityofbirchwood.com/
-1600000US2706076,Bird Island,Minnesota,https://www.birdislandcity.com/
-1600000US2706148,Biwabik,Minnesota,https://www.cityofbiwabik.com/
 1600000US2706256,Blackduck,Minnesota,https://blackduckmn.com/
 1600000US2706382,Blaine,Minnesota,https://www.blainemn.gov/
 1600000US2706580,Blooming Prairie,Minnesota,https://bloomingprairiemn.gov/
@@ -4729,10 +4674,10 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2711386,Chisholm,Minnesota,https://www.ci.chisholm.mn.us/
 1600000US2711494,Circle Pines,Minnesota,https://circlepinesmn.gov/
 1600000US2711548,Clara City,Minnesota,https://www.claracity.org/
+1600000US2711566,Claremont,Minnesota,https://cityofclaremontmn.gov/
 1600000US2711602,Clarissa,Minnesota,https://cityofclarissa.weebly.com/
 1600000US2711656,Clarkfield,Minnesota,https://www.clarkfield.org/
 1600000US2711764,Clear Lake,Minnesota,https://cityofclearlakemn.gov/
-1600000US2711746,Clearbrook,Minnesota,https://www.ci.clearbrook.mn.us/
 1600000US2711800,Clearwater,Minnesota,https://clearwatercitymn.gov/
 1600000US2711872,Cleveland,Minnesota,https://cityofclevelandmn.gov/
 1600000US2711980,Clinton,Minnesota,https://clintonmn.org/
@@ -4747,13 +4692,11 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2713006,Cook,Minnesota,https://www.cookmn.us/
 1600000US2713114,Coon Rapids,Minnesota,https://www.coonrapidsmn.gov/
 1600000US2713168,Corcoran,Minnesota,https://www.corcoranmn.gov/
-1600000US2713420,Cosmos,Minnesota,https://cosmos-mn.com/
 1600000US2713456,Cottage Grove,Minnesota,https://www.cottagegrovemn.gov/
 1600000US2713564,Cottonwood,Minnesota,https://www.cityofcottonwoodmn.com/
 1600000US2713582,Courtland,Minnesota,https://cityofcourtland.com/
 1600000US2713780,Cromwell,Minnesota,https://cromwell.govoffice.com/404.htm?aspxerrorpath=/index.asp
 1600000US2713870,Crookston,Minnesota,https://www.cityofcrookstonmn.gov/
-1600000US2713924,Crosby,Minnesota,https://www.cityofcrosby.com/
 1600000US2713978,Crosslake,Minnesota,https://www.cityofcrosslake.gov/
 1600000US2714158,Crystal,Minnesota,https://www.crystalmn.gov/
 1600000US2714428,Cuyuna,Minnesota,https://www.ci.cuyuna.mn.us/
@@ -4769,12 +4712,8 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2715346,Deerwood,Minnesota,https://cityofdeerwood.gov/
 1600000US2715454,Delano,Minnesota,https://www.delanomn.gov/
 1600000US2715616,Dellwood,Minnesota,https://www.dellwood.us/
-1600000US2715706,Dennison,Minnesota,https://www.cityofdennisonmn.com/
-1600000US2715832,Detroit Lakes,Minnesota,https://cityofdetroitlakes.com/
-1600000US2715886,Dexter,Minnesota,https://dextermn.com/
 1600000US2715976,Dilworth,Minnesota,https://www.cityofdilworth.com/
 1600000US2715994,Dodge Center,Minnesota,https://www.ci.dodgecenter.mn.us/
-1600000US2716264,Dover,Minnesota,https://www.dovermn.org/
 1600000US2717000,Duluth,Minnesota,https://duluthmn.gov/
 1600000US2717126,Dundas,Minnesota,https://www.cityofdundas.org/
 1600000US2717288,Eagan,Minnesota,https://www.cityofeagan.com/
@@ -4794,7 +4733,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2718662,Elko New Market,Minnesota,https://elkonewmarketmn.gov/
 1600000US2718746,Ellendale,Minnesota,https://www.ellendalemn.com/
 1600000US2718836,Ellsworth,Minnesota,http://www.ellsworth.mn.citygovt.org/
-1600000US2718998,Elmore,Minnesota,https://www.elmoremn.com/
 1600000US2719142,Ely,Minnesota,https://www.ely.mn.us/
 1600000US2719160,Elysian,Minnesota,https://www.elysianmn.com/
 1600000US2719286,Emily,Minnesota,https://www.cityofemily.com/
@@ -4826,7 +4764,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2722940,Frost,Minnesota,https://cityoffrost.com/
 1600000US2722958,Fulda,Minnesota,https://fuldamn.com/
 1600000US2723120,Garfield,Minnesota,https://www.garfieldmn.com/
-1600000US2723192,Garrison,Minnesota,https://cityofgarrison.com/
 1600000US2723246,Gary,Minnesota,http://www.garymn.com/
 1600000US2723300,Gaylord,Minnesota,https://www.exploregaylord.org/
 1600000US2723318,Gem Lake,Minnesota,https://gemlakemn.org/
@@ -4842,9 +4779,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2724506,Good Thunder,Minnesota,https://goodthundermn.gov/
 1600000US2724398,Goodhue,Minnesota,https://cityofgoodhue.gov/
 1600000US2724524,Goodview,Minnesota,https://goodview.govoffice.com/
-1600000US2724758,Graceville,Minnesota,https://gracevillecitymn.gov/
 1600000US2724992,Grand Marais,Minnesota,https://www.ci.grand-marais.mn.us/
-1600000US2725010,Grand Meadow,Minnesota,https://www.cityofgrandmeadow.com/
 1600000US2725118,Grand Rapids,Minnesota,https://cityofgrandrapidsmn.com/
 1600000US2725280,Granite Falls,Minnesota,https://www.granitefalls.com/
 1600000US2725334,Grant,Minnesota,https://www.cityofgrant.us/
@@ -4860,7 +4795,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2726630,Halstad,Minnesota,https://halstad.com/
 1600000US2726738,Ham Lake,Minnesota,https://www.hamlakemn.gov/
 1600000US2726666,Hamburg,Minnesota,http://www.cityofhamburgmn.com/
-1600000US2726936,Hancock,Minnesota,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/cityofhancock/&followup=https://sites.google.com/site/cityofhancock/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1105894993:1793829031405427
+1600000US2726936,Hancock,Minnesota,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/cityofhancock/&followup=https://sites.google.com/site/cityofhancock/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-164203226:1793929276406961
 1600000US2726990,Hanover,Minnesota,https://hanovermn.gov/
 1600000US2727008,Hanska,Minnesota,https://cityofhanska.com/
 1600000US2727278,Harris,Minnesota,https://www.harrismn.com/
@@ -4897,7 +4832,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2731274,Ironton,Minnesota,https://cityofironton.org/
 1600000US2731328,Isanti,Minnesota,https://www.cityofisanti.us/
 1600000US2731472,Isle,Minnesota,https://www.cityofisle.com/
-1600000US2731562,Jackson,Minnesota,https://www.cityofjacksonmn.com/
 1600000US2731706,Janesville,Minnesota,https://www.janesvillemn.gov/
 1600000US2731760,Jasper,Minnesota,https://www.cityofjaspermn.com/
 1600000US2731796,Jeffers,Minnesota,https://jeffers.us.com/
@@ -4908,12 +4842,10 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2732606,Kelliher,Minnesota,https://kelliher.govoffice.com/
 1600000US2732642,Kellogg,Minnesota,https://www.cityofkellogg.org/
 1600000US2732768,Kensington,Minnesota,https://kensingtonmn.com/
-1600000US2732840,Kenyon,Minnesota,https://cityofkenyon.gov/
 1600000US2732876,Kerkhoven,Minnesota,https://www.cityofkerk.com/
 1600000US2732966,Kettle River,Minnesota,https://www.ci.kettle-river.mn.us/
 1600000US2733056,Kiester,Minnesota,https://www.kiestermn.org/
 1600000US2733110,Kilkenny,Minnesota,https://www.kilkennymn.com/
-1600000US2733164,Kimball,Minnesota,https://www.ci.kimball.mn.us/
 1600000US2733866,La Crescent,Minnesota,https://www.cityoflacrescent-mn.gov/
 1600000US2735648,La Prairie,Minnesota,https://www.cityoflaprairiemn.gov/
 1600000US2733920,Lafayette,Minnesota,https://lafayettemn.com/
@@ -4926,7 +4858,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2734784,Lake Park,Minnesota,https://lakeparkmn.com/
 1600000US2734865,Lake St. Croix Beach,Minnesota,https://ci.lakestcroixbeach.mn.us/
 1600000US2734316,Lakefield,Minnesota,https://www.lakefieldmn.com/
-1600000US2734622,Lakeland,Minnesota,https://ci.lakeland.mn.us
 1600000US2734658,Lakeland Shores,Minnesota,https://lakelandshores.govoffice.com/
 1600000US2735180,Lakeville,Minnesota,https://www.lakevillemn.gov/
 1600000US2735288,Lamberton,Minnesota,https://www.lambertonmn.com/
@@ -4952,7 +4883,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2738060,Long Prairie,Minnesota,https://www.longprairie.net/
 1600000US2738150,Lonsdale,Minnesota,https://lonsdalemn.com/
 1600000US2738222,Loretto,Minnesota,https://lorettomn.gov/
-1600000US2738366,Lowry,Minnesota,https://cityoflowrymn.com/
 1600000US2738420,Lucan,Minnesota,https://www.lucanmn.net/
 1600000US2738564,Luverne,Minnesota,https://www.cityofluverne.org/
 1600000US2738654,Lyle,Minnesota,https://www.lylemn.org/
@@ -4964,7 +4894,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2739428,Mahtomedi,Minnesota,https://www.mahtomedimn.gov/
 1600000US2739986,Mantorville,Minnesota,https://www.mantorville.com/
 1600000US2740166,Maple Grove,Minnesota,https://www.maplegrovemn.gov/
-1600000US2740220,Maple Lake,Minnesota,https://ci.maple-lake.mn.us/
 1600000US2740256,Maple Plain,Minnesota,https://www.mapleplainmn.gov/
 1600000US2740382,Maplewood,Minnesota,https://www.maplewoodmn.gov/
 1600000US2740418,Marble,Minnesota,https://www.marblemn.com/
@@ -5008,8 +4937,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2745376,New Auburn,Minnesota,https://www.newauburnmn.com/
 1600000US2745556,New Germany,Minnesota,http://cityofnewgermany.com/
 1600000US2745628,New Hope,Minnesota,https://www.newhopemn.gov/
-1600000US2745682,New London,Minnesota,https://cityofnewlondonmn.gov/
-1600000US2745772,New Munich,Minnesota,https://www.jenniferpenniferbakes.com/
+1600000US2745772,New Munich,Minnesota,https://www.pdxkettle.com/
 1600000US2745808,New Prague,Minnesota,https://newpraguemn.gov/
 1600000US2745862,New Richland,Minnesota,https://newrichlandmn.gov
 1600000US2746042,New Ulm,Minnesota,https://www.newulmmn.gov/
@@ -5031,13 +4959,11 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2748256,Olivia,Minnesota,https://olivia.mn.us/
 1600000US2748310,Onamia,Minnesota,https://onamiamn.com/
 1600000US2748580,Orono,Minnesota,https://www.oronomn.gov/
-1600000US2748598,Oronoco,Minnesota,https://www.oronoco.com/
 1600000US2748634,Orr,Minnesota,https://www.cityoforr.com/
 1600000US2748706,Ortonville,Minnesota,https://mnortonville.com/
 1600000US2748796,Osakis,Minnesota,https://cityofosakis.com/
 1600000US2749030,Ostrander,Minnesota,https://www.cityofostrander.com/
 1600000US2749138,Otsego,Minnesota,https://www.otsegomn.gov/
-1600000US2749210,Ottertail,Minnesota,https://cityofottertail.com/
 1600000US2749300,Owatonna,Minnesota,https://www.owatonna.gov/
 1600000US2749768,Park Rapids,Minnesota,https://ci.park-rapids.mn.us/
 1600000US2749732,Parkers Prairie,Minnesota,https://www.parkersprairie.net/
@@ -5051,8 +4977,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2750776,Pierz,Minnesota,https://www.pierzmn.org/
 1600000US2750902,Pillager,Minnesota,https://cityofpillager.com/home
 1600000US2751064,Pine City,Minnesota,https://pinecitymn.gov/
-1600000US2751136,Pine Island,Minnesota,https://pineislandmn.gov
-1600000US2751280,Pine River,Minnesota,https://cityofpinerivermn.gov/
 1600000US2751316,Pine Springs,Minnesota,https://www.cityofpinesprings.org/
 1600000US2751388,Pipestone,Minnesota,https://www.progressivepipestone.com/
 1600000US2751424,Plainview,Minnesota,https://www.plainviewmn.com/
@@ -5066,33 +4990,26 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2753098,Randolph,Minnesota,https://www.cityofrandolphmn.com/
 1600000US2753134,Ranier,Minnesota,https://raniermn.govoffice2.com/
 1600000US2753296,Raymond,Minnesota,https://raymond-minnesota.com/
-1600000US2753476,Red Lake Falls,Minnesota,https://redlakefalls.com/
 1600000US2753620,Red Wing,Minnesota,https://www.redwingmn.gov/
 1600000US2753656,Redwood Falls,Minnesota,https://ci.redwood-falls.mn.us/
-1600000US2753782,Remer,Minnesota,https://www.cityofremer.com/
-1600000US2753890,Renville,Minnesota,https://www.renvillemn.gov/
 1600000US2753998,Rice,Minnesota,https://www.ricemn.us/
 1600000US2754060,Rice Lake,Minnesota,https://ricelakecitymn.com/
 1600000US2754214,Richfield,Minnesota,https://www.richfieldmn.gov/
 1600000US2754268,Richmond,Minnesota,https://www.ci.richmond.mn.us/
 1600000US2754808,Robbinsdale,Minnesota,https://www.robbinsdalemn.gov/
 1600000US2754880,Rochester,Minnesota,https://www.rochestermn.gov/
-1600000US2754934,Rock Creek,Minnesota,https://cityofrockcreek.org/
 1600000US2755006,Rockford,Minnesota,https://www.cityofrockford.org/
 1600000US2755078,Rockville,Minnesota,https://rockvillemn.gov/
 1600000US2755186,Rogers,Minnesota,https://www.rogersmn.gov/
-1600000US2755276,Rollingstone,Minnesota,https://www.rollingstonemn.org/
-1600000US2755546,Roseau,Minnesota,https://www.city.roseau.mn.us/
 1600000US2755726,Rosemount,Minnesota,https://www.rosemountmn.gov/
 1600000US2755852,Roseville,Minnesota,https://www.cityofroseville.com/
 1600000US2756014,Rothsay,Minnesota,https://rothsay.gov
-1600000US2756176,Royalton,Minnesota,https://doyukan.com/
+1600000US2756176,Royalton,Minnesota,http://www.royaltonmn.com/cgi-sys/suspendedpage.cgi
 1600000US2756266,Rush City,Minnesota,https://www.rushcitymn.us/
 1600000US2756284,Rushford,Minnesota,https://rushford.govoffice.com/
 1600000US2756302,Rushford Village,Minnesota,https://rushfordvillage.govoffice.com/404.htm?aspxerrorpath=/index.asp
 1600000US2756338,Rushmore,Minnesota,https://www.rushmoremn.com/
 1600000US2756554,Sabin,Minnesota,http://www.cityofsabin.com/
-1600000US2756572,Sacred Heart,Minnesota,https://www.sacredheartmn.org/
 1600000US2758306,Sanborn,Minnesota,https://www.cityofsanbornmn.org/
 1600000US2758396,Sandstone,Minnesota,https://sandstone.govoffice.com/
 1600000US2758612,Sartell,Minnesota,https://sartellmn.com/
@@ -5110,7 +5027,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2760808,Slayton,Minnesota,https://slayton.govoffice.com/
 1600000US2760844,Sleepy Eye,Minnesota,https://www.sleepyeyemn.gov
 1600000US2761114,Solway,Minnesota,https://www.solwaytownship-mn.gov/
-1600000US2761402,South Haven,Minnesota,https://www.cityofsouthhavenmn.com/
 1600000US2761492,South St. Paul,Minnesota,http://www.southstpaulmn.gov/
 1600000US2761690,Spicer,Minnesota,https://cityofspicer.com/
 1600000US2761852,Spring Grove,Minnesota,http://www.springgrovemn.com/
@@ -5119,13 +5035,11 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2762104,Spring Valley,Minnesota,https://www.springvalley-mn.com/
 1600000US2761816,Springfield,Minnesota,https://springfieldmn.org/
 1600000US2756680,St. Anthony,Minnesota,http://www.savmn.gov/
-1600000US2756770,St. Bonifacius,Minnesota,https://cityofstboni.gov/
 1600000US2756788,St. Charles,Minnesota,https://www.cityofstcharlesmn.gov/
 1600000US2756824,St. Clair,Minnesota,https://stclairmn.gov/
 1600000US2756896,St. Cloud,Minnesota,https://www.ci.stcloud.mn.us/
 1600000US2757040,St. James,Minnesota,https://www.ci.stjames.mn.us/
 1600000US2757130,St. Joseph,Minnesota,http://www.stjosephmn.gov/
-1600000US2757292,St. Marys Point,Minnesota,https://www.stmaryspointmn.org/
 1600000US2757346,St. Michael,Minnesota,https://stmichaelmn.gov/
 1600000US2758000,St. Paul,Minnesota,https://www.stpaul.gov/
 1600000US2758018,St. Paul Park,Minnesota,https://stpaulpark.org/
@@ -5133,7 +5047,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2758090,St. Stephen,Minnesota,https://www.cityofststephen.com/
 1600000US2762320,Stacy,Minnesota,https://www.stacymn.gov/
 1600000US2762446,Staples,Minnesota,https://staples.govoffice.com/
-1600000US2762500,Starbuck,Minnesota,https://starbuckmn.gov/
 1600000US2762698,Stephen,Minnesota,https://stephenmn.com/
 1600000US2762788,Stewart,Minnesota,https://cityofstewart.com/
 1600000US2762806,Stewartville,Minnesota,https://www.stewartvillemn.com/
@@ -5143,7 +5056,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2763778,Swanville,Minnesota,https://masterjudi.info/
 1600000US2765164,Tonka Bay,Minnesota,https://www.cityoftonkabay.net/
 1600000US2765272,Tower,Minnesota,https://cityoftower.com/
-1600000US2765308,Tracy,Minnesota,https://tracymn.gov/
 1600000US2765470,Trimont,Minnesota,https://trimont.govoffice.com/404.htm?aspxerrorpath=/index.asp
 1600000US2765668,Truman,Minnesota,https://trumanmn.us/
 1600000US2765938,Twin Valley,Minnesota,https://twinvalley.govoffice.com/404.htm?aspxerrorpath=/index.asp
@@ -5169,7 +5081,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2767846,Walnut Grove,Minnesota,https://walnutgrovemn.org/
 1600000US2767972,Wanamingo,Minnesota,https://www.cityofwanamingo.com/
 1600000US2768170,Warren,Minnesota,https://warrenminnesota.com/
-1600000US2768224,Warroad,Minnesota,https://www.warroadmn.org/
 1600000US2768296,Waseca,Minnesota,https://www.ci.waseca.mn.us/
 1600000US2768548,Watertown,Minnesota,https://www.watertownmn.gov/
 1600000US2768584,Waterville,Minnesota,https://cityofwaterville.com/redirect.php
@@ -5191,7 +5102,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2770798,Windom,Minnesota,https://www.windommn.gov/
 1600000US2770924,Winnebago,Minnesota,https://www.cityofwinnebago.com/
 1600000US2771032,Winona,Minnesota,https://www.winonamn.gov/
-1600000US2771086,Winsted,Minnesota,https://winsted.mn.us/
 1600000US2771122,Winthrop,Minnesota,https://www.winthropminnesota.com/
 1600000US2771140,Winton,Minnesota,https://www.wintonmn.com/
 1600000US2771446,Wood Lake,Minnesota,https://www.woodlakemn.com/
@@ -5212,7 +5122,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2804500,Beaumont,Mississippi,https://www.beaumont.ms.gov/
 1600000US2806220,Biloxi,Mississippi,https://biloxi.ms.us/
 1600000US2807780,Booneville,Mississippi,https://visitbooneville.com/
-1600000US2808300,Brandon,Mississippi,https://brandonms.org/
 1600000US2808820,Brookhaven,Mississippi,https://brookhaven-ms.gov/
 1600000US2808980,Brooksville,Mississippi,http://www.brooksvillems.org/
 1600000US2810060,Byhalia,Mississippi,https://byhalia-ms.com/
@@ -5228,11 +5137,11 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2814900,Coldwater,Mississippi,https://coldwaterms.org/
 1600000US2815340,Columbia,Mississippi,https://www.cityofcolumbiams.com/
 1600000US2815380,Columbus,Mississippi,https://www.thecityofcolumbusms.org/
-1600000US2815700,Corinth,Mississippi,https://www.corinthms.gov/
+1600000US2815700,Corinth,Mississippi,http://cityofcorinthms.com/
 1600000US2817060,Crystal Springs,Mississippi,http://cityofcrystalsprings.com/
 1600000US2819180,D'Iberville,Mississippi,https://diberville.ms.us/
 1600000US2819100,Diamondhead,Mississippi,https://diamondhead.ms.gov/
-1600000US2820500,Durant,Mississippi,https://alabasterchurchofgod.org/contact.html
+1600000US2820500,Durant,Mississippi,https://pbckck.org/contact-us/
 1600000US2822020,Ellisville,Mississippi,http://cityofellisvillems.com/
 1600000US2822580,Enterprise,Mississippi,https://townofenterprise.com/
 1600000US2823420,Eupora,Mississippi,https://expireddomains.com/domain/cityofeupora.com?utm_source=redi
@@ -5438,6 +5347,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2923986,Ferguson,Missouri,https://www.fergusoncity.com/
 1600000US2924058,Ferrelview,Missouri,https://villageofferrelview.com/
 1600000US2924094,Festus,Missouri,http://www.festusmo.gov/
+1600000US2924688,Flint Hill,Missouri,https://cityofflinthill.com/
 1600000US2924706,Flordell Hills,Missouri,https://flordell.com/
 1600000US2924778,Florissant,Missouri,https://www.florissantmo.com/
 1600000US2925012,Fordland,Missouri,https://cityoffordland.com/
@@ -5477,7 +5387,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2931168,Hayti Heights,Missouri,http://www.haytimo.org/
 1600000US2931276,Hazelwood,Missouri,http://www.hazelwoodmo.org/
 1600000US2931654,Henrietta,Missouri,https://cityofhenrietta.org/
-1600000US2931708,Herculaneum,Missouri,https://cityofherculaneum.gov/
 1600000US2931762,Hermann,Missouri,http://hermannmo.com/
 1600000US2931960,Higginsville,Missouri,https://www.higginsville.org/
 1600000US2932572,Holden,Missouri,https://holdenmo.gov
@@ -5500,7 +5409,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2939026,Kirksville,Missouri,https://www.kirksvillecity.com/
 1600000US2939188,Knob Noster,Missouri,https://cityofkn.net/
 1600000US2939440,Koshkonong,Missouri,https://www.cityofkoshkonong.com/
-1600000US2939764,La Grange,Missouri,https://cityoflagrangemo.gov/
 1600000US2940682,La Plata,Missouri,https://www.cityoflaplata.net/
 1600000US2939602,Laddonia,Missouri,https://laddoniamo.org/
 1600000US2939656,Ladue,Missouri,https://www.cityofladue-mo.gov/
@@ -5643,6 +5551,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US2966368,Scott City,Missouri,https://www.scottcitymo.org/
 1600000US2966440,Sedalia,Missouri,https://www.sedalia.com/
 1600000US2966674,Seneca,Missouri,https://www.cityofseneca.org/
+1600000US2966800,Seymour,Missouri,https://seymourmissouri.org/
 1600000US2967178,Shelbina,Missouri,https://cityofshelbina.com/
 1600000US2967700,Shrewsbury,Missouri,https://www.shrewsburymo.gov/
 1600000US2967790,Sikeston,Missouri,https://www.sikeston.org/
@@ -5857,7 +5766,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3110180,Comstock,Nebraska,https://comstock-ne.com/
 1600000US3110635,Cortland,Nebraska,https://villageofcortland.com/
 1600000US3111020,Cozad,Nebraska,https://www.cozadne.net/
-1600000US3111090,Craig,Nebraska,https://villageofcraig.us/cgi-sys/suspendedpage.cgi
 1600000US3111195,Crawford,Nebraska,https://crawfordnebraska.net/
 1600000US3111230,Creighton,Nebraska,https://www.creighton.org/
 1600000US3111370,Crete,Nebraska,https://www.crete.ne.gov/
@@ -5868,7 +5776,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3113015,De Witt,Nebraska,https://dewitt.ne.gov/
 1600000US3112525,Decatur,Nebraska,https://ci.decatur.ne.us/
 1600000US3113435,Dorchester,Nebraska,https://dorchesterne.com/
-1600000US3113505,Douglas,Nebraska,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/villageofdouglasnebraska2/&followup=https://sites.google.com/site/villageofdouglasnebraska2/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1831967499:1793829087620426
+1600000US3113505,Douglas,Nebraska,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/villageofdouglasnebraska2/&followup=https://sites.google.com/site/villageofdouglasnebraska2/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1879353153:1793929325722347
 1600000US3113890,Duncan,Nebraska,https://www.villageofduncan.com/
 1600000US3114100,Eagle,Nebraska,https://eaglene.gov/
 1600000US3114380,Eddyville,Nebraska,https://eddyvillene.com/
@@ -5881,7 +5789,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3116410,Fairbury,Nebraska,https://www.fairburyne.org/
 1600000US3116550,Fairmont,Nebraska,https://www.fairmont-nebraska.org/
 1600000US3116655,Falls City,Nebraska,https://www.fallscitynebraska.org/
-1600000US3116760,Farwell,Nebraska,https://www.farwellne.com/
 1600000US3116935,Firth,Nebraska,https://www.firth.nebraska.gov/
 1600000US3117145,Fort Calhoun,Nebraska,https://www.fortcalhoun.org/
 1600000US3117530,Franklin,Nebraska,https://www.franklinnebraska.com/
@@ -5950,7 +5857,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3133705,Nebraska City,Nebraska,https://nebraskacityne.gov/
 1600000US3133740,Nehawka,Nebraska,https://www.nehawkanebraska.com/
 1600000US3133775,Neligh,Nebraska,https://www.neligh.org/
-1600000US3133880,Nelson,Nebraska,https://www.cityofnelson.com/
 1600000US3133950,Nemaha,Nebraska,https://nemahacountyne.gov/
 1600000US3134230,Newman Grove,Nebraska,https://cityofnewmangrove.com/
 1600000US3134370,Niobrara,Nebraska,https://niobrarane.com/
@@ -6040,6 +5946,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3206500,Boulder City,Nevada,https://www.bcnv.org/
 1600000US3208500,Caliente,Nevada,https://www.cityofcaliente.com/
 1600000US3208900,Carlin,Nevada,https://www.explorecarlinnv.com/
+1600000US3223500,Ely,Nevada,https://elynevada.net/
 1600000US3224100,Fallon,Nevada,https://www.fallonnevada.gov/
 1600000US3224900,Fernley,Nevada,https://www.cityoffernley.org/
 1600000US3240000,Las Vegas,Nevada,https://www.lasvegasnevada.gov/
@@ -6062,7 +5969,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3400100,Absecon,New Jersey,https://abseconnj.gov/
 1600000US3400700,Allendale,New Jersey,https://www.allendalenj.gov/
 1600000US3400730,Allenhurst,New Jersey,https://www.allenhurstnj.org/
-1600000US3400760,Allentown,New Jersey,https://allentownboronj.com/
 1600000US3401030,Alpha,New Jersey,http://www.alphaboro.org/
 1600000US3401090,Alpine,New Jersey,https://www.alpinenj.gov/
 1600000US3401330,Andover,New Jersey,https://www.andoverboroughnj.org/
@@ -6096,7 +6002,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3408680,Buena,New Jersey,https://www.buenaboro.gov/
 1600000US3408920,Burlington,New Jersey,https://www.burlingtonnj.us/
 1600000US3409040,Butler,New Jersey,https://www.butlerborough.com/
-1600000US3409250,Caldwell,New Jersey,https://caldwell-nj.com/
 1600000US3409280,Califon,New Jersey,https://www.califonboro.org/
 1600000US3410000,Camden,New Jersey,https://www.camdennj.gov/
 1600000US3410270,Cape May,New Jersey,https://www.capemaycity.com/
@@ -6128,7 +6033,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3421000,Elizabeth,New Jersey,https://www.elizabethnj.org/
 1600000US3421240,Elmer,New Jersey,http://www.elmerboroughnj.com/
 1600000US3421300,Elmwood Park,New Jersey,https://www.elmwoodparknj.us/
-1600000US3421450,Emerson,New Jersey,https://emersonnj.gov/
 1600000US3421480,Englewood,New Jersey,https://www.cityofenglewood.org/
 1600000US3421510,Englewood Cliffs,New Jersey,https://www.englewoodcliffsnj.org/
 1600000US3421570,Englishtown,New Jersey,https://www.englishtownnj.com/
@@ -6148,7 +6052,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3425200,Freehold,New Jersey,https://www.freeholdboroughnj.gov/
 1600000US3425350,Frenchtown,New Jersey,https://frenchtownboro.com/
 1600000US3425770,Garfield,New Jersey,https://www.garfieldnj.org/
-1600000US3425800,Garwood,New Jersey,https://garwood.org/
 1600000US3426070,Gibbsboro,New Jersey,https://gibbsborotownhall.com/
 1600000US3426340,Glassboro,New Jersey,https://www.glassboro.org/
 1600000US3426550,Glen Gardner,New Jersey,https://www.glengardner.org/
@@ -6167,14 +6070,12 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3430210,Harrison,New Jersey,https://www.townofharrison.com/
 1600000US3430390,Harvey Cedars,New Jersey,https://www.harveycedars.org/
 1600000US3430420,Hasbrouck Heights,New Jersey,https://hasbrouck-heightsnj.org/
-1600000US3430540,Haworth,New Jersey,https://www.haworthnj.org/
 1600000US3430570,Hawthorne,New Jersey,https://www.hawthornenj.org/
 1600000US3430840,Helmetta,New Jersey,http://www.helmettaboro.com/
 1600000US3432220,Hi-Nella,New Jersey,https://www.hinellaboro.org/
 1600000US3431320,High Bridge,New Jersey,https://highbridge.org/
 1600000US3431500,Highlands,New Jersey,https://highlandsnj.gov/
 1600000US3431620,Hightstown,New Jersey,https://www.hightstownborough.com/
-1600000US3431920,Hillsdale,New Jersey,https://www.hillsdalenj.org/
 1600000US3432250,Hoboken,New Jersey,https://www.hobokennj.gov/
 1600000US3432910,Hopatcong,New Jersey,https://hopatcong.org/
 1600000US3433150,Hopewell,New Jersey,https://www.hopewellboroughnj.gov/
@@ -6208,7 +6109,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3443620,Manville,New Jersey,https://www.manvillenj.org/
 1600000US3443890,Margate City,New Jersey,https://www.margate-nj.com/
 1600000US3444520,Matawan,New Jersey,https://www.matawanborough.com/
-1600000US3444880,Maywood,New Jersey,https://www.maywoodnj.com/
 1600000US3445210,Medford Lakes,New Jersey,https://www.medfordlakes.com/
 1600000US3445330,Mendham,New Jersey,https://mendhamnj.org/
 1600000US3445510,Merchantville,New Jersey,https://merchantvillenj.gov/
@@ -6221,7 +6121,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3447610,Montvale,New Jersey,https://www.montvalenj.gov/
 1600000US3447700,Moonachie,New Jersey,https://www.moonachie.us/
 1600000US3448210,Morris Plains,New Jersey,https://www.morrisplainsboro.org/
-1600000US3448300,Morristown,New Jersey,https://www.townofmorristown.org/
 1600000US3448690,Mount Arlington,New Jersey,https://mountarlingtonnj.org/
 1600000US3448510,Mountainside,New Jersey,https://www.mountainside-nj.com/
 1600000US3449680,National Park,New Jersey,https://www.nationalparknj.com/
@@ -6273,7 +6172,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3461680,Ramsey,New Jersey,https://www.ramseynj.com/
 1600000US3461980,Raritan,New Jersey,https://www.raritanboro.org/
 1600000US3462430,Red Bank,New Jersey,https://www.redbanknj.org/
-1600000US3462910,Ridgefield,New Jersey,https://www.ridgefieldnj.gov/
 1600000US3462940,Ridgefield Park,New Jersey,https://www.ridgefieldpark.org/
 1600000US3463000,Ridgewood,New Jersey,https://www.ridgewoodnj.net/
 1600000US3463150,Ringwood,New Jersey,https://www.ringwoodnj.net:443/
@@ -6290,7 +6188,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3465130,Rumson,New Jersey,https://www.rumsonnj.gov/
 1600000US3465160,Runnemede,New Jersey,https://runnemedenj.org/
 1600000US3465280,Rutherford,New Jersey,https://www.rutherfordboronj.com/
-1600000US3465400,Saddle River,New Jersey,https://saddleriver.gov/
 1600000US3465490,Salem,New Jersey,https://cityofsalemnj.gov/
 1600000US3465790,Sayreville,New Jersey,https://www.sayreville.com/
 1600000US3466240,Sea Bright,New Jersey,https://www.seabrightnj.org/
@@ -6334,7 +6231,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3476070,Vineland,New Jersey,https://www.vinelandcity.org/
 1600000US3476400,Waldwick,New Jersey,https://www.waldwicknj.gov/
 1600000US3476490,Wallington,New Jersey,https://www.wallingtonnj.org/
-1600000US3476730,Wanaque,New Jersey,https://wanaquenj.gov/
 1600000US3477270,Washington,New Jersey,https://www.washingtonboro-nj.gov/
 1600000US3477600,Watchung,New Jersey,https://watchungnj.gov/
 1600000US3479310,West Long Branch,New Jersey,https://www.westlongbranch.org/
@@ -6352,7 +6248,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3482180,Woodbury Heights,New Jersey,https://www.bwhnj.com/
 1600000US3482300,Woodcliff Lake,New Jersey,https://wclnj.com/
 1600000US3482450,Woodlynne,New Jersey,https://www.woodlynnenj.org/
-1600000US3482720,Woodstown,New Jersey,https://historicwoodstown.org/
 1600000US3482960,Wrightstown,New Jersey,https://wrightstownborough.com/
 1600000US3501780,Alamogordo,New Mexico,https://ci.alamogordo.nm.us/
 1600000US3502000,Albuquerque,New Mexico,https://www.cabq.gov/
@@ -6432,7 +6327,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3601440,Almond,New York,https://www.townofalmondny.gov/
 1600000US3602044,Amityville,New York,https://www.amityville.gov/
 1600000US3602066,Amsterdam,New York,https://www.amsterdamny.gov/
-1600000US3602176,Angelica,New York,https://expireddomains.com/domain/angelicany.com?utm_source=redi
 1600000US3602198,Angola,New York,https://www.villageofangolany.gov/
 1600000US3602286,Antwerp,New York,https://villageofantwerp.net/
 1600000US3602407,Arcade,New York,https://villageofarcadeny.gov/
@@ -6461,7 +6355,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3605848,Bemus Point,New York,https://www.bemuspointny.org/
 1600000US3606046,Bergen,New York,https://www.villageofbergen.com/
 1600000US3606794,Black River,New York,https://www.blackriverny.gov/
-1600000US3606849,Blasdell,New York,https://villageofblasdell.gov/
 1600000US3606945,Bloomfield,New York,https://www.villageofbloomfieldny.gov
 1600000US3606959,Bloomingburg,New York,https://bloomingburgny.gov
 1600000US3607190,Bolivar,New York,https://slotgacor-2021.com/
@@ -6472,9 +6365,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3608532,Bronxville,New York,https://www.villageofbronxville.gov/
 1600000US3610231,Brownville,New York,https://www.villageofbrownvilleny.gov/
 1600000US3610341,Buchanan,New York,https://buchananny.gov
-1600000US3611132,Burdett,New York,http://www.burdettny.us/
 1600000US3611704,Caledonia,New York,https://hatiff.com/
-1600000US3611825,Cambridge,New York,https://v3.cambridgeny.gov/
 1600000US3611902,Camillus,New York,https://villageofcamillusny.com/
 1600000US3612144,Canandaigua,New York,https://www.canandaiguanewyork.gov/
 1600000US3612177,Canaseraga,New York,http://www.canaseragany.org/
@@ -6500,7 +6391,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3614036,Chaumont,New York,https://www.villageofchaumont.gov/
 1600000US3615242,Cherry Valley,New York,https://cherryvalleyny.us/
 1600000US3615297,Chester,New York,https://chester-ny.gov/
-1600000US3615400,Chestnut Ridge,New York,https://chestnutridgevillage.org/
 1600000US3615561,Chittenango,New York,http://chittenango.gov
 1600000US3615638,Churchville,New York,https://churchvilleny.gov/
 1600000US3616089,Clayton,New York,http://www.villageofclayton.com/
@@ -6516,7 +6406,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3618047,Cooperstown,New York,https://cooperstownny.gov/
 1600000US3618201,Corfu,New York,https://www.corfuny.gov/
 1600000US3618212,Corinth,New York,http://www.villageofcorinthny.com/
-1600000US3618256,Corning,New York,https://cityofcorningny.gov/
+1600000US3618333,Cornwall-on-Hudson,New York,https://cornwall-on-hudson.gov/
 1600000US3618388,Cortland,New York,https://www.cortlandny.gov/
 1600000US3619070,Croghan,New York,http://croghanny.org/
 1600000US3619213,Croton-on-Hudson,New York,https://www.crotononhudson-ny.gov/
@@ -6530,14 +6420,12 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3620379,Dering Harbor,New York,https://deringharborvillage.org/
 1600000US3620500,Dexter,New York,https://www.villageofdexterny.gov/
 1600000US3620731,Dolgeville,New York,https://www.villageofdolgeville.org/cgi-sys/suspendedpage.cgi
-1600000US3620896,Dresden,New York,http://dresdenny.ourlocalview.com/
 1600000US3620951,Dryden,New York,https://www.townofdrydenny.gov
 1600000US3621050,Dundee,New York,https://dundeevillageny.gov/
 1600000US3621105,Dunkirk,New York,https://www.cityofdunkirkny.gov/
 1600000US3621523,Earlville,New York,https://www.villageofearlville.com/
 1600000US3621589,East Aurora,New York,https://www.eastaurora.gov/
 1600000US3622557,East Nassau,New York,https://villageeastnassau.digitaltowpathny.gov:10128/content
-1600000US3622865,East Rochester,New York,https://eastrochesterny.gov/
 1600000US3622876,East Rockaway,New York,https://villageofeastrockaway.org/
 1600000US3623052,East Syracuse,New York,https://www.villageofeastsyracuse.gov
 1600000US3623217,East Williston,New York,https://eastwilliston.gov/
@@ -6571,6 +6459,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3628178,Garden City,New York,https://www.gardencityny.net/
 1600000US3628618,Geneseo,New York,https://geneseony.org/
 1600000US3628640,Geneva,New York,https://www.cityofgenevany.gov/
+1600000US3629113,Glen Cove,New York,http://www.glencove-li.us/
 1600000US3629322,Glen Park,New York,https://www.villageofglenparkny.gov/
 1600000US3629333,Glens Falls,New York,https://www.cityofglensfallsny.gov/
 1600000US3629443,Gloversville,New York,https://cityofgloversvilleny.gov/
@@ -6578,7 +6467,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3629872,Grand View-on-Hudson,New York,https://www.gvoh-ny.gov/
 1600000US3630026,Granville,New York,https://villageofgranvilleny.com/
 1600000US3630169,Great Neck,New York,http://www.greatneckvillage.org/
-1600000US3630213,Great Neck Plaza,New York,https://greatneckplaza.gov
 1600000US3630521,Green Island,New York,https://villageofgreenisland.com/
 1600000US3630411,Greene,New York,https://www.nygreene.gov/
 1600000US3630576,Greenport,New York,https://villageofgreenport.gov/
@@ -6606,8 +6494,8 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3635144,Holland Patent,New York,https://dtp.digitaltowpathny.gov:10041/content/404
 1600000US3635276,Homer,New York,https://www.villageofhomerny.gov/
 1600000US3635364,Honeoye Falls,New York,https://www.villageofhoneoyefalls.gov/
+1600000US3635474,Hoosick Falls,New York,https://www.villageofhoosickfalls.com/
 1600000US3635672,Hornell,New York,https://www.cityofhornell.gov/
-1600000US3635694,Horseheads,New York,https://www.villageofhorseheads.gov
 1600000US3635969,Hudson,New York,https://www.hudsonny.gov/
 1600000US3635980,Hudson Falls,New York,https://villageofhudsonfallsny.gov/
 1600000US3637022,Huntington Bay,New York,https://www.huntingtonbay.org/
@@ -6630,6 +6518,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3640761,Lake Placid,New York,https://northelba.villageoflakeplacid.ny.gov/
 1600000US3640937,Lake Success,New York,https://lakesuccessny.gov/
 1600000US3641069,Lakewood,New York,https://www.lakewoodny.gov
+1600000US3641223,Lansing,New York,https://villageoflansingny.gov/
 1600000US3641333,Larchmont,New York,https://villageoflarchmont.org/
 1600000US3641432,Lattingtown,New York,https://www.lattingtown.gov/
 1600000US3641553,Lawrence,New York,https://www.lawrenceny.gov/
@@ -6640,7 +6529,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3642323,Lima,New York,https://www.villageoflimany.gov/
 1600000US3642554,Lindenhurst,New York,https://villageoflindenhurstny.gov/
 1600000US3642741,Little Falls,New York,https://thisislittlefalls.com/
-1600000US3642829,Little Valley,New York,https://albertvaernes.no/hvordan-fungerer-flyttefirmaer/
+1600000US3642829,Little Valley,New York,https://www.matgalleriet.no/catering/
 1600000US3642884,Liverpool,New York,https://villageofliverpoolny.gov/
 1600000US3642950,Livonia,New York,https://www.livoniany.gov/
 1600000US3643005,Lloyd Harbor,New York,https://www.lloydharbor.org/
@@ -6654,7 +6543,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3644831,Mamaroneck,New York,https://www.townofmamaroneckny.gov/
 1600000US3644853,Manchester,New York,https://townofmanchesterny.gov/
 1600000US3645073,Mannsville,New York,https://www.villageofmannsville.com/
-1600000US3645106,Manorhaven,New York,https://manorhaven.gov/
+1600000US3645106,Manorhaven,New York,https://manorhaven.org/
 1600000US3645392,Marathon,New York,https://marathonvillage.org/
 1600000US3645480,Marcellus,New York,https://townofmarcellusny.gov/
 1600000US3645997,Massapequa Park,New York,https://masspk.com/
@@ -6693,7 +6582,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3649781,Nelsonville,New York,https://www.nelsonvilleny.gov/
 1600000US3649946,New Berlin,New York,https://www.townofnewberlin.org/
 1600000US3650298,New Hartford,New York,https://www.townofnewhartfordny.gov/
-1600000US3650353,New Hempstead,New York,https://villageofnewhempstead.gov/
 1600000US3650551,New Paltz,New York,https://villageofnewpaltz.gov/
 1600000US3650617,New Rochelle,New York,https://www.newrochelleny.gov/
 1600000US3651000,New York,New York,https://www.nyc.gov/main
@@ -6703,11 +6591,11 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3650573,Newport,New York,https://www.villageofnewportny.org:443/
 1600000US3651055,Niagara Falls,New York,https://www.niagarafallsny.gov/
 1600000US3651110,Nichols,New York,https://townofnicholsny.gov/
+1600000US3651286,Nissequogue,New York,https://nissequogueny.gov/
 1600000US3651792,North Collins,New York,https://www.villageofnorthcollins.org/
 1600000US3653022,North Hills,New York,https://www.northhillsny.gov/
 1600000US3653055,North Hornell,New York,https://www.northhornell.com/
 1600000US3653682,North Tonawanda,New York,https://www.northtonawanda.gov/
-1600000US3653770,Northville,New York,http://www.villageofnorthville.com/
 1600000US3653979,Norwich,New York,https://www.norwichnewyork.gov/
 1600000US3654078,Nunda,New York,https://www.townofnundany.gov/
 1600000US3654155,Oakfield,New York,https://villageofoakfieldny.gov/
@@ -6774,7 +6662,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3664430,Saddle Rock,New York,https://saddlerockny.gov/
 1600000US3664485,Sag Harbor,New York,https://www.sagharborny.gov/
 1600000US3664452,Sagaponack,New York,https://www.sagaponackvillageny.gov
-1600000US3664749,Salamanca,New York,https://www.salamancany.gov/
 1600000US3664881,Saltaire,New York,https://www.saltaire.org/
 1600000US3665035,Sands Point,New York,https://www.sandspoint.gov/
 1600000US3665068,Sandy Creek,New York,https://www.villageofsandycreek.com/
@@ -6823,7 +6710,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3675484,Troy,New York,https://www.troyny.gov/
 1600000US3675506,Trumansburg,New York,https://trumansburg-ny.gov/
 1600000US3675583,Tuckahoe,New York,https://www.tuckahoe.gov
-1600000US3675671,Tupper Lake,New York,https://www.tupperlakeny.gov/
 1600000US3675803,Tuxedo Park,New York,https://www.tuxedopark-ny.gov/
 1600000US3676001,Unadilla,New York,https://villageofunadilla.com/
 1600000US3676155,Union Springs,New York,https://unionspringsny.com/
@@ -6864,6 +6750,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3681622,Whitehall,New York,https://www.whitehallny.org/
 1600000US3681831,Whitney Point,New York,http://www.whitneypoint.org/
 1600000US3682084,Williamsville,New York,https://williamsvilleny.gov
+1600000US3682524,Windsor,New York,https://newwindsor-ny.gov/
 1600000US3682986,Woodsburgh,New York,https://woodsburghny.com/
 1600000US3684099,Yorkville,New York,https://villageofyorkvilleny.org/
 1600000US3684143,Youngstown,New York,https://www.youngstownny.gov/
@@ -6898,7 +6785,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3706000,Biscoe,North Carolina,https://www.townofbiscoe.gov/
 1600000US3706080,Black Creek,North Carolina,https://townofblackcreek.org/
 1600000US3706140,Black Mountain,North Carolina,https://www.townofblackmountain.org/
-1600000US3706240,Bladenboro,North Carolina,https://bladenboronc.org/
 1600000US3706500,Blowing Rock,North Carolina,https://www.blowingrock.gov/
 1600000US3706740,Bogue,North Carolina,https://www.bogue-nc.org/
 1600000US3706760,Boiling Spring Lakes,North Carolina,https://www.cityofbsl.org/
@@ -6908,7 +6794,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3707220,Bostic,North Carolina,https://townofbostic.com/
 1600000US3707720,Brevard,North Carolina,https://www.cityofbrevard.com/
 1600000US3708080,Broadway,North Carolina,https://broadwaync.com/
-1600000US3708480,Bryson City,North Carolina,https://www.brysoncitync.gov/
 1600000US3708860,Bunn,North Carolina,https://townofbunn.org/
 1600000US3708960,Burgaw,North Carolina,https://burgawnc.gov/
 1600000US3709060,Burlington,North Carolina,https://www.burlingtonnc.gov/
@@ -6921,9 +6806,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3710120,Candor,North Carolina,https://www.townofcandornc.com/
 1600000US3710240,Canton,North Carolina,https://www.cantonnc.com/
 1600000US3710500,Carolina Beach,North Carolina,https://www.carolinabeach.gov
-1600000US3710550,Carolina Shores,North Carolina,https://www.carolinashoresnc.com/
 1600000US3710620,Carrboro,North Carolina,https://www.carrboronc.gov
-1600000US3711340,Cedar Point,North Carolina,https://cedarpointnc.gov/
 1600000US3711352,Cedar Rock,North Carolina,https://www.villageofcedarrock.org/
 1600000US3711640,Chadbourn,North Carolina,https://www.townofchadbourn.com/
 1600000US3712340,Cherryville,North Carolina,https://www.cityofcherryville.com/
@@ -6937,7 +6820,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3713240,Clinton,North Carolina,https://www.cityofclintonnc.com/
 1600000US3713280,Clyde,North Carolina,https://www.clydenc.us/
 1600000US3713360,Coats,North Carolina,http://www.coatsnc.org/
-1600000US3713940,Columbia,North Carolina,https://www.townofcolumbianc.com/
 1600000US3713980,Columbus,North Carolina,https://www.columbusnc.com/
 1600000US3714100,Concord,North Carolina,https://concordnc.gov/
 1600000US3714340,Conover,North Carolina,https://www.conovernc.gov/
@@ -6970,7 +6852,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3722500,Fairview,North Carolina,https://www.fairviewnc.gov/
 1600000US3722560,Faison,North Carolina,https://www.faisonnc.org/
 1600000US3722820,Farmville,North Carolina,http://farmvillenc.gov/
-1600000US3723600,Flat Rock,North Carolina,http://www.villageofflatrock.org/
 1600000US3723760,Fletcher,North Carolina,https://www.fletchernc.org/
 1600000US3724080,Forest City,North Carolina,https://www.townofforestcity.com/
 1600000US3724170,Forest Hills,North Carolina,https://www.villageofforesthills.org/
@@ -6987,7 +6868,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3725680,Gatesville,North Carolina,https://gatescountync.gov/
 1600000US3726880,Goldsboro,North Carolina,https://www.goldsboronc.gov/
 1600000US3727280,Graham,North Carolina,https://www.cityofgraham.com/
-1600000US3727420,Granite Falls,North Carolina,https://granitefallsnc.gov/
 1600000US3727440,Granite Quarry,North Carolina,https://granitequarrync.gov/
 1600000US3727520,Grantsboro,North Carolina,https://www.grantsboronc.com/
 1600000US3727870,Green Level,North Carolina,https://greenlevelnc.gov
@@ -7004,7 +6884,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3730280,Hayesville,North Carolina,https://www.townofhayesville.com/
 1600000US3730620,Hemby Bridge,North Carolina,https://hembybridgenc.govoffice2.com/
 1600000US3730720,Hendersonville,North Carolina,https://www.hendersonvillenc.gov/
-1600000US3730900,Hertford,North Carolina,https://townofhertfordnc.com/
 1600000US3731060,Hickory,North Carolina,https://www.hickorync.gov/
 1600000US3731400,High Point,North Carolina,https://www.highpointnc.gov/
 1600000US3731440,High Shoals,North Carolina,https://cityofhighshoals.com/
@@ -7038,7 +6917,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3736220,Kure Beach,North Carolina,https://www.townofkurebeach.org/
 1600000US3736400,La Grange,North Carolina,https://lagrangenc.com/
 1600000US3736500,Lake Lure,North Carolina,https://www.townoflakelure.com/
-1600000US3736512,Lake Park,North Carolina,https://lakeparknc.gov/
 1600000US3736514,Lake Santeetlah,North Carolina,https://www.townoflakesanteetlah.org/
 1600000US3736640,Lake Waccamaw,North Carolina,https://www.lakewaccamawnc.gov/
 1600000US3736860,Landis,North Carolina,https://townoflandisnc.gov/
@@ -7056,7 +6934,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3739480,Lowell,North Carolina,https://lowellnc.gov/
 1600000US3739700,Lumberton,North Carolina,https://www.lumbertonnc.gov/
 1600000US3740540,Macon,North Carolina,https://gis.maconnc.org/www.maconnc.org/
-1600000US3740560,Madison,North Carolina,https://www.townofmadison.org/
 1600000US3740600,Maggie Valley,North Carolina,https://www.maggievalleync.gov/
 1600000US3740640,Magnolia,North Carolina,https://www.magnolianc.us/
 1600000US3740660,Maiden,North Carolina,https://www.maidennc.com/
@@ -7132,7 +7009,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3755260,Ranlo,North Carolina,https://townofranlo.org/
 1600000US3755460,Red Cross,North Carolina,https://www.townofredcross.com/
 1600000US3755640,Red Oak,North Carolina,https://www.townofredoaknc.com/
-1600000US3755660,Red Springs,North Carolina,https://www.redsprings.org/
 1600000US3756340,Richfield,North Carolina,https://richfieldnc.gov/
 1600000US3756360,Richlands,North Carolina,https://www.richlandsnc.gov/
 1600000US3756710,River Bend,North Carolina,https://www.riverbendnc.org/
@@ -7186,7 +7062,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3764940,Stem,North Carolina,https://www.stemnc.org/
 1600000US3765040,Stokesdale,North Carolina,https://www.stokesdale.org/
 1600000US3765320,Stovall,North Carolina,https://www.stovallnc.org/
-1600000US3765580,Summerfield,North Carolina,https://www.summerfieldnc.gov/
 1600000US3765900,Sunset Beach,North Carolina,https://sunsetbeachnc.gov/
 1600000US3766040,Surf City,North Carolina,https://www.surfcitync.gov/
 1600000US3766360,Swansboro,North Carolina,https://swansboro-nc.org/
@@ -7250,7 +7125,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3776220,Zebulon,North Carolina,https://www.townofzebulon.org/
 1600000US3801180,Alexander,North Dakota,https://www.cityofalexandernd.com/
 1600000US3802660,Antler,North Dakota,http://www.antlernd.com/
-1600000US3803020,Argusville,North Dakota,https://www.cityofargusville.com/
 1600000US3803220,Arnegard,North Dakota,https://www.arnegardnd.com/
 1600000US3803540,Ashley,North Dakota,https://www.ashley-nd.com/
 1600000US3805420,Beach,North Dakota,https://www.beachnd.com/
@@ -7270,7 +7144,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3813180,Center,North Dakota,https://www.centernd.net/
 1600000US3815180,Colfax,North Dakota,https://www.colfaxnd.org/
 1600000US3815460,Columbus,North Dakota,https://cityofcolumbusnd.com/
-1600000US3815900,Cooperstown,North Dakota,https://www.cooperstownnd.com/
 1600000US3819300,Des Lacs,North Dakota,https://www.cityofdeslacs.com/
 1600000US3819420,Devils Lake,North Dakota,https://www.dvlnd.com/
 1600000US3820340,Drayton,North Dakota,https://draytonnd.com/
@@ -7300,13 +7173,11 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3836100,Hatton,North Dakota,https://www.hattonnd.com/
 1600000US3836860,Hebron,North Dakota,https://www.hebronnd.org/
 1600000US3837700,Hettinger,North Dakota,https://www.hettingernd.com/
-1600000US3838100,Hillsboro,North Dakota,https://hillsboro-nd.com/
 1600000US3838860,Hope,North Dakota,https://www.hopend.com/
 1600000US3838900,Horace,North Dakota,https://www.cityofhorace.com/
 1600000US3839580,Hurdsfield,North Dakota,https://www.hurdsfieldnd.com/
 1600000US3840580,Jamestown,North Dakota,https://jamestownnd.gov/
 1600000US3842020,Kenmare,North Dakota,https://www.kenmarend.com/
-1600000US3842700,Killdeer,North Dakota,https://killdeer.com/
 1600000US3842780,Kindred,North Dakota,https://www.kindrednd.com/
 1600000US3843580,Kulm,North Dakota,https://www.kulmnd.com/
 1600000US3844540,LaMoure,North Dakota,https://lamourecountynd.com/
@@ -7314,7 +7185,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3844780,Langdon,North Dakota,https://www.cityoflangdon.com/
 1600000US3845020,Larimore,North Dakota,http://larimorend.com/ubweb/
 1600000US3845580,Leeds,North Dakota,https://www.leedsnorthdakota.com/
-1600000US3846460,Lidgerwood,North Dakota,https://www.cityoflidgerwoodnd.com/
 1600000US3847100,Lisbon,North Dakota,https://cityoflisbon.net/
 1600000US3849620,Maddock,North Dakota,https://www.maddocknd.com/
 1600000US3849900,Mandan,North Dakota,https://www.cityofmandan.com/
@@ -7322,10 +7192,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3851380,Max,North Dakota,https://www.maxnd.com/
 1600000US3849020,McClusky,North Dakota,https://mccluskynd.com/
 1600000US3849260,McHenry,North Dakota,https://www.mchenrycountynd.gov/
-1600000US3849580,McVille,North Dakota,https://mcville.com/
 1600000US3851900,Medora,North Dakota,https://medora.com/
-1600000US3852740,Michigan City,North Dakota,https://michigannd.com/
-1600000US3852940,Milnor,North Dakota,https://www.milnornd.com/
 1600000US3853220,Minnewaukan,North Dakota,https://www.minnewaukan.com/
 1600000US3853380,Minot,North Dakota,https://www.minotnd.gov/
 1600000US3853540,Minto,North Dakota,https://cityofminto.com/
@@ -7336,7 +7203,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3856420,New Leipzig,North Dakota,https://newleipzig.com/
 1600000US3856620,New Rockford,North Dakota,https://alexishakodate.com/
 1600000US3856700,New Salem,North Dakota,https://www.newsalem-nd.com/
-1600000US3856740,New Town,North Dakota,https://www.citynewtownnd.com/
 1600000US3858300,Northwood,North Dakota,https://northwoodnd.org/
 1600000US3858740,Oakes,North Dakota,https://oakesnd.com/
 1600000US3860480,Oxbow,North Dakota,https://www.oxbownd.com/
@@ -7346,15 +7212,12 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3861580,Pembina,North Dakota,https://pembina.govoffice.com/
 1600000US3862260,Pick City,North Dakota,https://www.pickcitynd.com/
 1600000US3862980,Plaza,North Dakota,http://www.plazand.com/
-1600000US3864140,Powers Lake,North Dakota,https://www.powerslakend.com/
 1600000US3865580,Ray,North Dakota,https://www.raynd.com/
 1600000US3866020,Regent,North Dakota,https://hettingercountynd.com/
 1600000US3866040,Reile's Acres,North Dakota,https://www.reilesacresnd.org/
 1600000US3866260,Reynolds,North Dakota,https://www.reynoldsnd.com/
-1600000US3866500,Richardton,North Dakota,https://www.cityofrichardtonnd.com/
 1600000US3866980,Riverdale,North Dakota,https://www.riverdalenorthdakota.com/
 1600000US3867820,Rolla,North Dakota,https://ndrolla.com/
-1600000US3868860,Rugby,North Dakota,https://www.cityofrugbynd.com/
 1600000US3869340,Rutland,North Dakota,https://www.rutlandnd.com/
 1600000US3874020,Souris,North Dakota,https://www.sourisnd.com/
 1600000US3874185,South Heart,North Dakota,https://southheartnd.com/
@@ -7379,13 +7242,11 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3883860,Watford City,North Dakota,https://cityofwatfordcity.gov/
 1600000US3884780,West Fargo,North Dakota,https://www.westfargond.gov/
 1600000US3885020,Westhope,North Dakota,https://www.westhopend.com/
-1600000US3886020,Wildrose,North Dakota,https://wildrosend.org/
 1600000US3886220,Williston,North Dakota,https://cityofwilliston.com/
 1600000US3886580,Wilton,North Dakota,https://www.wiltonnd.org/
 1600000US3887020,Wishek,North Dakota,https://wishek-nd.com/
-1600000US3887740,Wyndmere,North Dakota,https://cityofwyndmere.com/
 1600000US3900142,Aberdeen,Ohio,https://thevillageofaberdeenoh.com/
-1600000US3900436,Addyston,Ohio,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/addystonohio.org/villageofaddyston&followup=https://sites.google.com/addystonohio.org/villageofaddyston&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1412437518:1793829026854790
+1600000US3900436,Addyston,Ohio,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/addystonohio.org/villageofaddyston&followup=https://sites.google.com/addystonohio.org/villageofaddyston&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1412437518:1793929272604045
 1600000US3900450,Adelphi,Ohio,https://adelphiohio.com/
 1600000US3900464,Adena,Ohio,https://villageofadena.com/
 1600000US3901000,Akron,Ohio,https://www.akronohio.gov/
@@ -7417,7 +7278,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3903352,Avon,Ohio,https://www.cityofavon.com/
 1600000US3903464,Avon Lake,Ohio,https://www.avonlake.org/
 1600000US3903562,Bailey Lakes,Ohio,https://baileylakes.org/
-1600000US3903828,Barberton,Ohio,https://www.cityofbarberton.com/
+1600000US3903828,Barberton,Ohio,https://www.cityofbarberton.com
 1600000US3903926,Barnesville,Ohio,https://barnesvilleohio.com/
 1600000US3904150,Batavia,Ohio,http://www.bataviavillage.org/
 1600000US3904402,Bay View,Ohio,https://villageofbayview.com/
@@ -7534,7 +7395,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3922568,Doylestown,Ohio,https://www.doylestown.com/
 1600000US3922610,Dresden,Ohio,https://villageofdresden.com/
 1600000US3922694,Dublin,Ohio,https://dublinohiousa.gov/
-1600000US3922946,Dunkirk,Ohio,https://villageofdunkirk.com/
 1600000US3923380,East Cleveland,Ohio,https://www.eastcleveland.org/
 1600000US3923730,East Liverpool,Ohio,https://eastliverpool.com/
 1600000US3923940,East Palestine,Ohio,https://eastpalestine-oh.gov/
@@ -7767,6 +7627,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3956770,North Lewisburg,Ohio,https://www.northlewisburg.com/
 1600000US3956882,North Olmsted,Ohio,https://www.north-olmsted.com/
 1600000US3956910,North Perry,Ohio,https://northperry.org/
+1600000US3956924,North Randall,Ohio,https://northrandall.com/
 1600000US3956966,North Ridgeville,Ohio,https://www.nridgeville.org/
 1600000US3957008,North Royalton,Ohio,https://northroyalton.org/
 1600000US3956448,Northfield,Ohio,https://www.northfieldvillage-oh.gov/
@@ -7888,7 +7749,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3974944,Stow,Ohio,https://www.stowohio.gov/
 1600000US3974958,Strasburg,Ohio,https://villageofstrasburg.org/
 1600000US3975014,Streetsboro,Ohio,https://www.cityofstreetsboro.com/
-1600000US3975098,Strongsville,Ohio,https://www.strongsville.org/
 1600000US3975126,Struthers,Ohio,https://www.cityofstruthers.com/
 1600000US3975140,Stryker,Ohio,https://www.villageofstryker.com/
 1600000US3975196,Sugar Bush Knolls,Ohio,http://sugarbushknollsohio.org/
@@ -7910,7 +7770,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US3977504,Trotwood,Ohio,https://trotwood.org/
 1600000US3977588,Troy,Ohio,https://www.troyohio.gov/
 1600000US3978050,Twinsburg,Ohio,https://www.mytwinsburg.com/
-1600000US3978176,Uhrichsville,Ohio,https://cityofuhrichsville.org/
 1600000US3978470,Union,Ohio,https://www.unionoh.org/
 1600000US3978624,Union City,Ohio,https://unioncityvillage.homestead.com/
 1600000US3978932,University Heights,Ohio,https://universityheightsoh.gov/
@@ -8038,12 +7897,10 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4024650,Eufaula,Oklahoma,https://www.cityofeufaulaok.com/
 1600000US4024900,Fairland,Oklahoma,https://townoffairland.com/
 1600000US4025100,Fairview,Oklahoma,https://www.fairviewok.org/
-1600000US4026850,Forest Park,Oklahoma,https://forestparkok.gov/
 1600000US4027100,Fort Cobb,Oklahoma,https://fortcobb.org/
 1600000US4027200,Fort Gibson,Oklahoma,https://www.fortgibson.net/
 1600000US4027400,Fort Towson,Oklahoma,https://forttowson.us/
 1600000US4028900,Geary,Oklahoma,https://www.cityofgeary.com/
-1600000US4029100,Geronimo,Oklahoma,https://www.hugedomains.com/domain_profile.cfm?d=geronimook.com
 1600000US4029600,Glenpool,Oklahoma,https://www.glenpoolonline.com/
 1600000US4029850,Goldsby,Oklahoma,https://www.townofgoldsby.com/
 1600000US4030300,Gore,Oklahoma,https://www.townofgoreok.gov/
@@ -8079,7 +7936,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4041700,Laverne,Oklahoma,https://laverneok.org/
 1600000US4041850,Lawton,Oklahoma,https://www.lawtonok.gov/
 1600000US4042700,Lexington,Oklahoma,https://www.cityoflexington.com/
-1600000US4044500,Luther,Oklahoma,http://townoflutherok.com/
 1600000US4045750,Madill,Oklahoma,https://cityofmadill.com/
 1600000US4046050,Mangum,Oklahoma,https://www.cityofmangum.com/
 1600000US4046200,Mannford,Oklahoma,https://www.cityofmannford.com/
@@ -8185,7 +8041,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4103150,Astoria,Oregon,https://www.astoria.gov/
 1600000US4103200,Athena,Oregon,https://www.cityofathena.com/
 1600000US4103650,Baker City,Oregon,https://www.bakercity.com/
-1600000US4103850,Banks,Oregon,https://www.cityofbanks.org/
 1600000US4105350,Beaverton,Oregon,https://www.beavertonoregon.gov/
 1600000US4107200,Boardman,Oregon,https://www.cityofboardman.com/
 1600000US4107300,Bonanza,Oregon,http://www.townofbonanza.com/
@@ -8196,7 +8051,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4110750,Canby,Oregon,https://www.canbyoregon.gov/
 1600000US4111000,Canyonville,Oregon,https://www.cityofcanyonville.com/
 1600000US4111150,Carlton,Oregon,https://www.ci.carlton.or.us/
-1600000US4111600,Cascade Locks,Oregon,https://www.cascade-locks.or.us/
 1600000US4112400,Central Point,Oregon,https://www.centralpointoregon.gov/
 1600000US4113750,Clatskanie,Oregon,https://www.cityofclatskanie.com/
 1600000US4114750,Columbia City,Oregon,https://columbia-city.org/
@@ -8224,11 +8078,9 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4126050,Florence,Oregon,https://www.ci.florence.or.us/
 1600000US4126200,Forest Grove,Oregon,https://www.forestgrove-or.gov/
 1600000US4126650,Fossil,Oregon,http://cityoffossil.com/
-1600000US4128100,Gaston,Oregon,https://www.cityofgaston.com/
 1600000US4128200,Gates,Oregon,https://www.cityofgates.com/
 1600000US4128450,Gearhart,Oregon,https://www.cityofgearhart.com/
 1600000US4129350,Glendale,Oregon,https://cityofglendaleor.com/
-1600000US4129900,Gold Beach,Oregon,https://www.goldbeachoregon.gov/
 1600000US4130550,Grants Pass,Oregon,https://www.grantspassoregon.gov/
 1600000US4130650,Grass Valley,Oregon,https://www.grassvalleyoregon.com/
 1600000US4131250,Gresham,Oregon,https://www.greshamoregon.gov/
@@ -8249,18 +8101,16 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4137550,John Day,Oregon,https://www.cityofjohnday.com/
 1600000US4137650,Johnson City,Oregon,https://www.johnsoncityoregon.gov/
 1600000US4137900,Joseph,Oregon,https://josephoregon.org/
-1600000US4138000,Junction City,Oregon,https://www.junctioncityoregon.gov/
 1600000US4138500,Keizer,Oregon,https://www.keizer.org/
 1600000US4139150,King City,Oregon,https://www.ci.king-city.or.us/
 1600000US4139700,Klamath Falls,Oregon,https://www.klamathfalls.city/
 1600000US4140350,La Grande,Oregon,https://www.cityoflagrande.org/
 1600000US4141050,La Pine,Oregon,https://www.lapineoregon.gov/
-1600000US4140300,Lafayette,Oregon,https://lafayetteoregon.gov/
 1600000US4140550,Lake Oswego,Oregon,https://www.ci.oswego.or.us/
 1600000US4141650,Lebanon,Oregon,https://www.lebanonoregon.gov/
 1600000US4142200,Lexington,Oregon,https://lexingtonoregon.com/
 1600000US4143900,Lostine,Oregon,https://www.cityoflostine.com/
-1600000US4144050,Lowell,Oregon,https://legacylowell.teammunicode.com/
+1600000US4144050,Lowell,Oregon,https://www.lowelloregon.gov/
 1600000US4144300,Lyons,Oregon,https://www.cityoflyons.org/
 1600000US4145400,Malin,Oregon,https://cityofmalin.org/
 1600000US4145700,Manzanita,Oregon,https://ci.manzanita.or.us/
@@ -8361,7 +8211,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4203088,Arnold,Pennsylvania,https://www.cityofarnoldpa.org/
 1600000US4203120,Arona,Pennsylvania,https://aronaborough.com/
 1600000US4203264,Ashland,Pennsylvania,https://www.ashlandborough.com/
-1600000US4203272,Ashley,Pennsylvania,https://www.ashleypa.net/
 1600000US4203320,Aspinwall,Pennsylvania,https://www.aspinwallpa.gov/
 1600000US4203384,Atglen,Pennsylvania,https://atglen.org/
 1600000US4203392,Athens,Pennsylvania,https://athensboroughpa.org/
@@ -8511,7 +8360,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4221752,East Rochester,Pennsylvania,https://eastrochesterpa.com/
 1600000US4221872,East Stroudsburg,Pennsylvania,https://eaststroudsburgboro.org/
 1600000US4221976,East Vandergrift,Pennsylvania,https://evboro.com/
-1600000US4222016,East Washington,Pennsylvania,https://eastwash.com/
 1600000US4221648,Easton,Pennsylvania,https://www.easton-pa.com/
 1600000US4222144,Ebensburg,Pennsylvania,https://ebensburgpa.com/
 1600000US4222264,Economy,Pennsylvania,https://www.economyborough.org/
@@ -8556,12 +8404,10 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4227120,Fox Chapel,Pennsylvania,https://www.fox-chapel.pa.us/
 1600000US4227112,Foxburg,Pennsylvania,https://foxburgboro.com/
 1600000US4227232,Frackville,Pennsylvania,https://www.frackvillepa.org/
-1600000US4227456,Franklin,Pennsylvania,https://franklinpa.gov/
 1600000US4227552,Franklin Park,Pennsylvania,https://www.franklinparkborough.us/
 1600000US4227712,Freedom,Pennsylvania,https://freedomborough.org/
 1600000US4227744,Freeland,Pennsylvania,https://freelandpa.gov/
 1600000US4227760,Freemansburg,Pennsylvania,https://boroughoffreemansburg.org/
-1600000US4228280,Galeton,Pennsylvania,https://boroughofgaleton.org/
 1600000US4228328,Gallitzin,Pennsylvania,https://gallitzinpa.com/
 1600000US4228720,Geistown,Pennsylvania,https://www.geistownborough.com/
 1600000US4228960,Gettysburg,Pennsylvania,https://www.gettysburgpa.gov/
@@ -8802,7 +8648,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4260008,Philipsburg,Pennsylvania,https://philipsburgborough.com/
 1600000US4260120,Phoenixville,Pennsylvania,https://www.phoenixville.org/
 1600000US4260136,Picture Rocks,Pennsylvania,https://picturerocksborough.com/
-1600000US4260264,Pillow,Pennsylvania,https://pillowpa.org/
 1600000US4260456,Pine Grove,Pennsylvania,https://pinegroveborough.org/
 1600000US4260712,Pitcairn,Pennsylvania,https://pitcairnborough.us/
 1600000US4261328,Pleasant Hills,Pennsylvania,https://www.pleasanthillspa.com/
@@ -8816,7 +8661,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4262264,Portland,Pennsylvania,http://portlandboroughpa.com/
 1600000US4262416,Pottstown,Pennsylvania,https://www.pottstown.org/
 1600000US4262432,Pottsville,Pennsylvania,https://www.antidramin.com/
-1600000US4262712,Pringle,Pennsylvania,https://torby.org.pl/
+1600000US4262712,Pringle,Pennsylvania,https://ddlg.org.pl/
 1600000US4262744,Prompton,Pennsylvania,https://promptonpa.com/
 1600000US4262752,Prospect,Pennsylvania,https://prospectborough.com/
 1600000US4263064,Quarryville,Pennsylvania,https://quarryvilleborough.com/
@@ -9007,7 +8852,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4419180,Cranston,Rhode Island,https://www.cranstonri.gov/
 1600000US4449960,Newport,Rhode Island,https://www.newportri.gov/
 1600000US4454640,Pawtucket,Rhode Island,https://pawtucketri.gov/
-1600000US4459000,Providence,Rhode Island,https://www.providenceri.gov/
 1600000US4474300,Warwick,Rhode Island,https://www.warwickri.gov/
 1600000US4500100,Abbeville,South Carolina,https://www.abbevillecitysc.com/
 1600000US4500550,Aiken,South Carolina,https://www.cityofaikensc.gov/
@@ -9130,7 +8974,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4555015,Pawleys Island,South Carolina,https://www.townofpawleysisland.com/
 1600000US4555465,Pelzer,South Carolina,https://www.townofpelzer.us/
 1600000US4556140,Pickens,South Carolina,https://cityofpickens.com/
-1600000US4556950,Pine Ridge,South Carolina,https://www.townofpineridgesc.com/
 1600000US4557850,Pomaria,South Carolina,https://townofpomariasc.com/
 1600000US4558030,Port Royal,South Carolina,https://www.portroyal.org/
 1600000US4558705,Prosperity,South Carolina,https://www.prosperitysc.com/
@@ -9243,9 +9086,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4630300,Hoven,South Dakota,https://www.hovensd.com/
 1600000US4630460,Howard,South Dakota,https://www.cityofhoward.com/
 1600000US4630900,Humboldt,South Dakota,https://humboldt.govoffice.com/404.htm?aspxerrorpath=/index.asp
-1600000US4630980,Hurley,South Dakota,https://www.hurleysd.com/
 1600000US4631060,Huron,South Dakota,https://www.huronsd.com/
-1600000US4631860,Ipswich,South Dakota,https://www.ipswich-sd.com/
 1600000US4631940,Irene,South Dakota,https://www.irenesd.com/
 1600000US4632700,Jefferson,South Dakota,https://www.jeffersonsd.com/
 1600000US4633180,Kadoka,South Dakota,https://www.kadokasd.com/
@@ -9257,9 +9098,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4636380,Lennox,South Dakota,https://www.cityoflennoxsd.com/
 1600000US4636460,Leola,South Dakota,https://www.leolasd.com/
 1600000US4640220,Madison,South Dakota,https://www.cityofmadisonsd.gov/
-1600000US4640860,Marion,South Dakota,https://marionsd.com/
 1600000US4641100,Martin,South Dakota,https://www.martinsd.net/
-1600000US4641980,Menno,South Dakota,https://www.mennosd.org/
 1600000US4642460,Miller,South Dakota,https://miller.sdcity.gov/
 1600000US4642980,Mission Hill,South Dakota,https://www.missionhillsd.org/
 1600000US4643100,Mitchell,South Dakota,https://www.cityofmitchellsd.gov
@@ -9272,9 +9111,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4645700,North Sioux City,South Dakota,https://northsiouxcity-sd.gov/
 1600000US4646180,Oacoma,South Dakota,https://www.oacomasd.com/
 1600000US4647180,Onida,South Dakota,https://onidasd.org/
-1600000US4648380,Parker,South Dakota,https://www.parkersd.org/
-1600000US4648460,Parkston,South Dakota,https://www.cityofparkston.org/
-1600000US4649300,Philip,South Dakota,https://www.philipsd.us/
 1600000US4649460,Pickstown,South Dakota,https://pickstown-sd.net/
 1600000US4649500,Piedmont,South Dakota,https://www.piedmontsd.com/
 1600000US4649600,Pierre,South Dakota,https://www.cityofpierre.org/
@@ -9303,6 +9139,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4668020,Wagner,South Dakota,https://cityofwagner.org/
 1600000US4668380,Wall,South Dakota,https://www.wallsd.us/
 1600000US4669300,Watertown,South Dakota,https://www.watertownsd.gov/
+1600000US4669340,Waubay,South Dakota,http://waubaysd.com/
 1600000US4669780,Webster,South Dakota,https://webstersd.com/
 1600000US4670020,Wentworth,South Dakota,https://www.wentworthsd.com/
 1600000US4670220,Wessington Springs,South Dakota,https://wessingtonsprings.com/
@@ -9345,7 +9182,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4712880,Chapel Hill,Tennessee,https://www.townofchapelhilltn.gov/
 1600000US4714000,Chattanooga,Tennessee,https://chattanooga.gov/
 1600000US4714980,Church Hill,Tennessee,http://www.churchhilltn.gov/
-1600000US4715140,Clarksburg,Tennessee,https://clarksburgtn.org/
 1600000US4715160,Clarksville,Tennessee,https://www.clarksvilletn.gov/
 1600000US4715400,Cleveland,Tennessee,https://clevelandtn.gov/
 1600000US4715480,Clifton,Tennessee,https://cityofclifton.com/
@@ -9416,7 +9252,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4739560,Kingsport,Tennessee,https://www.kingsporttn.gov/
 1600000US4739620,Kingston,Tennessee,https://kingstontn.gov/
 1600000US4739660,Kingston Springs,Tennessee,https://kingstonsprings.net/
-1600000US4740000,Knoxville,Tennessee,https://www.knoxvilletn.gov
 1600000US4740180,La Follette,Tennessee,https://www.lafollettetn.gov/
 1600000US4740200,La Grange,Tennessee,http://www.lagrangetn.com/
 1600000US4741200,La Vergne,Tennessee,https://www.lavergnetn.gov/
@@ -9464,7 +9299,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4752006,Nashville-Davidson metropolitan government (balance),Tennessee,https://www.nashville.gov/
 1600000US4753140,New Tazewell,Tennessee,https://www.newtazewelltn.org/
 1600000US4752400,Newbern,Tennessee,https://www.cityofnewbern.org/
-1600000US4753000,Newport,Tennessee,https://www.cityofnewport-tn.com/
 1600000US4753380,Niota,Tennessee,https://www.cityofniota.org/
 1600000US4753460,Nolensville,Tennessee,https://www.nolensvilletn.gov/
 1600000US4753600,Norris,Tennessee,https://www.cityofnorris.com/
@@ -9724,7 +9558,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4820020,Deport,Texas,https://www.deporttexas.gov/
 1600000US4820140,Devers,Texas,https://cityofdevers.com/
 1600000US4820152,Devine,Texas,https://cityofdevine.org/
-1600000US4820308,Diboll,Texas,https://www.cityofdiboll.com/
 1600000US4820344,Dickinson,Texas,https://www.dickinsontexas.gov/
 1600000US4820428,Dilley,Texas,https://www.cityofdilleytx.com/
 1600000US4820884,Donna,Texas,https://cityofdonna.org/
@@ -9884,6 +9717,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4837612,Jersey Village,Texas,https://www.jerseyvillage.gov
 1600000US4837648,Jewett,Texas,https://www.cityofjewett.com/
 1600000US4837780,Johnson City,Texas,https://www.johnsoncitytx.org/
+1600000US4837984,Jones Creek,Texas,https://www.villageofjonescreektexas.com/
 1600000US4838020,Jonestown,Texas,https://jonestowntx.govoffice2.com/404.htm?aspxerrorpath=/index.asp
 1600000US4838080,Joshua,Texas,https://www.cityofjoshuatx.us/
 1600000US4838116,Jourdanton,Texas,https://www.jourdantontexas.org/
@@ -10005,7 +9839,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4849128,Montgomery,Texas,https://www.montgomerytexas.gov/
 1600000US4849200,Moody,Texas,https://cityofmoody.net/
 1600000US4849392,Morgan's Point Resort,Texas,https://www.mprtx.gov/
-1600000US4849560,Moulton,Texas,https://www.cityofmoulton.com/
 1600000US4849800,Mount Pleasant,Texas,https://www.mpcity.net/
 1600000US4849860,Mount Vernon,Texas,https://www.cityofmountvernontexas.com/
 1600000US4849600,Mountain City,Texas,https://www.mountaincitytx.com/
@@ -10058,7 +9891,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4854726,Palisades,Texas,https://www.villageofpalisades.com/
 1600000US4854798,Palm Valley,Texas,https://palmvalleytx.com/
 1600000US4854744,Palmer,Texas,https://www.ci.palmer.tx.us/
-1600000US4854780,Palmhurst,Texas,https://www.cityofpalmhursttx.com/
 1600000US4854912,Pampa,Texas,https://www.cityofpampa.org/
 1600000US4854960,Panhandle,Texas,https://panhandletx.govoffice2.com/
 1600000US4855008,Panorama Village,Texas,https://www.panoramavillagetx.gov/
@@ -10119,6 +9951,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4860836,Raymondville,Texas,https://raymondvilletx.us/
 1600000US4861172,Red Lick,Texas,https://cityofredlicktx.com/
 1600000US4861196,Red Oak,Texas,https://www.redoaktx.org/
+1600000US4861340,Redwater,Texas,https://redwatertexas.com/
 1600000US4861508,Reklaw,Texas,https://cityofreklaw.org/
 1600000US4861592,Reno,Texas,https://www.renotexas.us/
 1600000US4861604,Reno,Texas,https://www.renotx.gov/
@@ -10213,7 +10046,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4864172,St. Hedwig,Texas,https://sainthedwigcity.com/
 1600000US4864220,St. Paul,Texas,https://www.stpaultexas.us/
 1600000US4869908,Stafford,Texas,https://www.staffordtx.gov/
-1600000US4869932,Stagecoach,Texas,https://stagecoachtx.us/
 1600000US4869980,Stamford,Texas,https://www.stamfordtx.org/
 1600000US4870040,Stanton,Texas,https://cityofstantontx.com/
 1600000US4870052,Staples,Texas,https://www.cityofstaples.com/
@@ -10232,6 +10064,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4871492,Sweeny,Texas,https://www.sweenytx.gov/
 1600000US4871540,Sweetwater,Texas,https://www.sweetwatertx.gov/
 1600000US4871684,Taft,Texas,https://www.tafttx.gov/
+1600000US4871708,Tahoka,Texas,http://www.tahoka-texas.com/
 1600000US4871732,Talco,Texas,https://cityoftalco.com/
 1600000US4871756,Talty,Texas,https://www.taltytexas.com/
 1600000US4871924,Tatum,Texas,https://tatum.texas.gov/
@@ -10315,6 +10148,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4878664,Whitney,Texas,https://cityofwhitneytx.org/
 1600000US4879408,Willis,Texas,https://www.ci.willis.tx.us/
 1600000US4879564,Wills Point,Texas,https://www.willspointtx.gov
+1600000US4879576,Wilmer,Texas,https://www.cityofwilmer.net/
 1600000US4879612,Wilson,Texas,https://wilsontexas.com/
 1600000US4879624,Wimberley,Texas,https://www.cityofwimberley.com/
 1600000US4879828,Winona,Texas,https://www.winonatx.gov/
@@ -10325,7 +10159,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4880058,Woodcreek,Texas,https://www.woodcreektx.gov/
 1600000US4880144,Woodloch,Texas,https://woodlochtx.org/
 1600000US4880176,Woodsboro,Texas,https://www.woodsborotx.net/
-1600000US4880212,Woodville,Texas,https://www.woodville-tx.gov/
 1600000US4880224,Woodway,Texas,https://woodwaytexas.gov/
 1600000US4880356,Wylie,Texas,https://www.wylietexas.gov/
 1600000US4880440,Yantis,Texas,https://cityofyantis.com/
@@ -10333,7 +10166,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4880584,Yorktown,Texas,https://www.yorktowntx.com/
 1600000US4880728,Zavalla,Texas,https://www.cityofzavalla.com/
 1600000US4900540,Alpine,Utah,https://www.alpineut.gov/
-1600000US4901090,Amalga,Utah,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/amalgatown/&followup=https://sites.google.com/site/amalgatown/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-636462866:1793829061243854
+1600000US4901090,Amalga,Utah,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/site/amalgatown/&followup=https://sites.google.com/site/amalgatown/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-2026413904:1793929302381847
 1600000US4901310,American Fork,Utah,https://americanfork.gov/
 1600000US4901750,Annabella,Utah,https://sweethomeannabella.com/
 1600000US4902740,Aurora,Utah,https://www.auroracity.org/
@@ -10361,6 +10194,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4915830,Corinne,Utah,https://www.corinnecity.gov/
 1600000US4918140,Daniel,Utah,https://danielutah.gov/
 1600000US4918910,Delta,Utah,https://www.delta.utah.gov/
+1600000US4919680,Deweyville,Utah,https://www.deweyvilleut.gov/
 1600000US4920120,Draper,Utah,https://www.draperutah.gov/
 1600000US4920340,Duchesne,Utah,https://duchesnecityut.gov/
 1600000US4920780,Dutch John,Utah,https://dutchjohn.gov/
@@ -10485,7 +10319,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US4974810,Syracuse,Utah,https://syracuseut.gov/
 1600000US4976680,Tooele,Utah,https://www.tooelecity.gov/
 1600000US4977010,Torrey,Utah,https://www.torreyutah.gov/
-1600000US4977120,Tremonton,Utah,https://tremontoncity.gov/
 1600000US4977560,Tropic,Utah,https://townoftropicut.gov/
 1600000US4977890,Uintah,Utah,https://www.uintahcity.gov/
 1600000US4980090,Vernal,Utah,https://www.vernal.gov/
@@ -10514,10 +10347,8 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5034975,Hyde Park,Vermont,https://hydeparkvt.com/
 1600000US5036625,Jericho,Vermont,https://www.jerichovt.gov
 1600000US5037000,Johnson,Vermont,https://townofjohnson.com/
-1600000US5041200,Ludlow,Vermont,https://ludlow.vt.us/
 1600000US5041950,Lyndonville,Vermont,https://www.lyndonvt.org/
 1600000US5042700,Manchester,Vermont,https://www.villageofmanchester.com/
-1600000US5043525,Marshfield,Vermont,https://marshfieldvt.gov/
 1600000US5046000,Montpelier,Vermont,https://www.montpelier-vt.org/
 1600000US5048100,Newbury,Vermont,https://www.newburyvt.org/
 1600000US5048850,Newport,Vermont,https://www.newportvermont.org/
@@ -10561,7 +10392,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5116480,Chilhowie,Virginia,https://chilhowie.org/
 1600000US5116512,Chincoteague,Virginia,https://chincoteague-va.gov/
 1600000US5116608,Christiansburg,Virginia,https://www.christiansburg.org/
-1600000US5116992,Clarksville,Virginia,https://clarksvilleva.org/
 1600000US5117296,Cleveland,Virginia,https://www.clevelandva.com/
 1600000US5117376,Clifton,Virginia,https://clifton-va.com/
 1600000US5117440,Clifton Forge,Virginia,https://www.cliftonforgeva.gov/
@@ -10594,7 +10424,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5129968,Front Royal,Virginia,https://www.frontroyalva.com/714/Portal---2022
 1600000US5130208,Galax,Virginia,https://galaxva.com/
 1600000US5130496,Gate City,Virginia,https://mygatecity.com/
-1600000US5131056,Glade Spring,Virginia,https://gladespringva.org/
 1600000US5131136,Glasgow,Virginia,https://glasgowva.org/
 1600000US5131376,Glen Lyn,Virginia,https://togelsgphktogel.com
 1600000US5131936,Gordonsville,Virginia,https://www.townofgordonsville.org/
@@ -10618,7 +10447,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5141832,Kenbridge,Virginia,https://kenbridgeva.net/
 1600000US5142264,Keysville,Virginia,https://townofkeysvilleva.com/
 1600000US5142424,Kilmarnock,Virginia,https://www.kilmarnockva.com/
-1600000US5143176,La Crosse,Virginia,http://www.townoflacrosse.org/
 1600000US5144520,Lawrenceville,Virginia,https://lawrencevilleweb.us/
 1600000US5144696,Lebanon,Virginia,https://lebanonva.net/
 1600000US5147144,Louisa,Virginia,https://louisava.gov/
@@ -10665,7 +10493,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5171776,Shenandoah,Virginia,https://www.townofshenandoah.com/
 1600000US5173200,Smithfield,Virginia,https://www.smithfieldva.gov/
 1600000US5173712,South Boston,Virginia,https://www.southboston.com/
-1600000US5173904,South Hill,Virginia,https://www.southhillva.org/
+1600000US5173904,South Hill,Virginia,https://www.southhillva.gov/
 1600000US5169936,St. Paul,Virginia,https://www.stpaulva.org/
 1600000US5175008,Stanardsville,Virginia,http://www.stanardsville.org/
 1600000US5175024,Stanley,Virginia,https://www.townofstanley.com/
@@ -10689,7 +10517,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5186160,Williamsburg,Virginia,https://www.williamsburgva.gov/
 1600000US5186784,Windsor,Virginia,https://www.windsor-va.gov/
 1600000US5187072,Wise,Virginia,https://www.townofwise.net/
-1600000US5187712,Woodstock,Virginia,https://townofwoodstockva.com/
 1600000US5188000,Wytheville,Virginia,https://www.wytheville.org/
 1600000US5300100,Aberdeen,Washington,https://www.aberdeenwa.gov/
 1600000US5300905,Airway Heights,Washington,https://cawh.org/
@@ -10735,7 +10562,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5314170,Colville,Washington,https://www.colville.wa.us/
 1600000US5314310,Conconully,Washington,https://www.townofconconully.com/
 1600000US5314380,Concrete,Washington,https://www.townofconcrete.com/
-1600000US5314485,Connell,Washington,https://www.cityofconnell.com/
 1600000US5314870,Cosmopolis,Washington,https://www.cosmopoliswa.gov/
 1600000US5315080,Coulee City,Washington,https://couleecitywa.org/
 1600000US5315115,Coulee Dam,Washington,http://townofcouleedam.org/
@@ -10743,9 +10569,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5315290,Covington,Washington,https://www.covingtonwa.gov/
 1600000US5316340,Cusick,Washington,https://www.townofcusick.com/
 1600000US5316690,Darrington,Washington,https://townofdarrington.com/
-1600000US5316795,Davenport,Washington,https://www.davenportwa.us/
 1600000US5316970,Dayton,Washington,https://www.daytonwa.com/
-1600000US5317320,Deer Park,Washington,https://www.cityofdeerparkwa.com/
 1600000US5317635,Des Moines,Washington,https://www.desmoineswa.gov/
 1600000US5318965,DuPont,Washington,https://www.dupontwa.gov/
 1600000US5319035,Duvall,Washington,https://www.duvallwa.gov/
@@ -10776,7 +10600,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5329255,Hamilton,Washington,https://www.townofhamiltonwa.com/
 1600000US5329745,Harrington,Washington,https://www.harringtonbiz.com/
 1600000US5332300,Hoquiam,Washington,https://www.cityofhoquiam.com/
-1600000US5332755,Hunts Point,Washington,https://huntspoint-wa.gov/
 1600000US5333000,Ilwaco,Washington,https://ilwaco-wa.gov/
 1600000US5334645,Kalama,Washington,https://www.cityofkalama.com/
 1600000US5335065,Kelso,Washington,https://www.kelso.gov/
@@ -10881,6 +10704,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5368330,Sumas,Washington,https://www.cityofsumas.com/
 1600000US5368435,Sumner,Washington,https://sumnerwa.gov/
 1600000US5368750,Sunnyside,Washington,https://www.sunnyside-wa.gov/
+1600000US5370000,Tacoma,Washington,https://tacoma.gov/
 1600000US5370560,Tekoa,Washington,https://www.tekoawa.com/
 1600000US5371785,Toledo,Washington,https://www.toledowa.us
 1600000US5372625,Tukwila,Washington,https://www.tukwilawa.gov/
@@ -11084,7 +10908,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5503825,Augusta,Wisconsin,https://cityofaugusta.org/
 1600000US5504250,Bagley,Wisconsin,https://villageofbagley.com/
 1600000US5504475,Balsam Lake,Wisconsin,https://balsamlakevillage.com/
-1600000US5504550,Bangor,Wisconsin,https://villageofbangorwi.gov/
 1600000US5504625,Baraboo,Wisconsin,https://baraboowi.gov/
 1600000US5504775,Barneveld,Wisconsin,https://barneveldwi.gov/
 1600000US5504875,Barron,Wisconsin,https://cityofbarron.com/
@@ -11096,7 +10919,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5506150,Belgium,Wisconsin,https://www.belgiumwi.gov/
 1600000US5506350,Bellevue,Wisconsin,https://www.villageofbellevuewi.gov/
 1600000US5506425,Belmont,Wisconsin,https://agen138.net/
-1600000US5506500,Beloit,Wisconsin,https://www.beloitwi.gov/
 1600000US5506825,Benton,Wisconsin,https://bentonwi.us/
 1600000US5506925,Berlin,Wisconsin,https://cityofberlin.net/
 1600000US5507200,Big Bend,Wisconsin,https://www.villageofbigbend.com/
@@ -11105,7 +10927,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5507600,Birnamwood,Wisconsin,https://townofbirnamwood.wi.gov
 1600000US5507650,Biron,Wisconsin,https://biron.wi.gov/
 1600000US5507725,Black Creek,Wisconsin,https://villageofblackcreek.com/
-1600000US5507800,Black Earth,Wisconsin,https://www.blackearthwisconsin.com/
 1600000US5507900,Black River Falls,Wisconsin,https://blackriverfallswi.gov/
 1600000US5508075,Blair,Wisconsin,https://www.cityofblair.org/
 1600000US5508125,Blanchardville,Wisconsin,https://www.blanchardville.com/
@@ -11184,14 +11005,11 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5520450,Dorchester,Wisconsin,https://dorchesterwi.gov/
 1600000US5520550,Dousman,Wisconsin,https://villageofdousman.gov
 1600000US5520675,Downing,Wisconsin,https://downingwi.com/
-1600000US5520850,Dresser,Wisconsin,https://www.villageofdresser.com/
-1600000US5521225,Durand,Wisconsin,https://www.durand-wi.com/
 1600000US5521425,Eagle,Wisconsin,https://www.vi.eagle.wi.gov/
 1600000US5521625,Eagle River,Wisconsin,https://eagleriver.govoffice2.com/404.htm?aspxerrorpath=/index.asp
 1600000US5522100,East Troy,Wisconsin,https://easttroywi.gov/
 1600000US5522300,Eau Claire,Wisconsin,https://www.eauclairewi.gov/
 1600000US5522475,Eden,Wisconsin,https://www.villageofeden.com/
-1600000US5522550,Edgar,Wisconsin,https://www.vil.edgar.wi.us/
 1600000US5522575,Edgerton,Wisconsin,https://www.edgerton.wi.gov/
 1600000US5522850,Egg Harbor,Wisconsin,https://villageofeggharbor.gov/
 1600000US5523075,Elderon,Wisconsin,https://townofelderonwi.com/
@@ -11201,7 +11019,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5523575,Elm Grove,Wisconsin,https://elmgrovewi.org/
 1600000US5523700,Elmwood,Wisconsin,https://vi.elmwood.wi.gov/
 1600000US5523725,Elmwood Park,Wisconsin,https://www.elmwoodparkwi.gov/
-1600000US5523800,Elroy,Wisconsin,https://www.elroywi.com/
 1600000US5524150,Ephraim,Wisconsin,https://ephraim.wi.gov/
 1600000US5524550,Evansville,Wisconsin,https://evansvillewi.gov/
 1600000US5524825,Fairchild,Wisconsin,https://villageoffairchild.com/
@@ -11250,8 +11067,8 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5533100,Hartland,Wisconsin,https://www.villageofhartland.wi.gov/
 1600000US5533175,Hatley,Wisconsin,https://villageofhatley.org/
 1600000US5533225,Haugen,Wisconsin,https://www.villageofhaugen.com/
+1600000US5533450,Hayward,Wisconsin,https://cityofhaywardwi.gov/
 1600000US5533500,Hazel Green,Wisconsin,https://villageofhazelgreen.org/
-1600000US5534250,Hewitt,Wisconsin,https://vi.hewitt.wi.gov/
 1600000US5534450,Highland,Wisconsin,https://villageofhighland.net/
 1600000US5534575,Hilbert,Wisconsin,http://villageofhilbert.com/
 1600000US5534825,Hillsboro,Wisconsin,https://www.hillsborowi.com/
@@ -11282,7 +11099,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5540550,Kronenwetter,Wisconsin,https://www.kronenwetter.org/
 1600000US5540875,La Farge,Wisconsin,https://www.lafarge-wisconsin.com/
 1600000US5542825,La Valle,Wisconsin,https://townoflavalle.us/
-1600000US5540850,Ladysmith,Wisconsin,https://www.cityofladysmithwi.com/
 1600000US5541450,Lake Geneva,Wisconsin,https://www.cityoflakegeneva.gov
 1600000US5541525,Lake Hallie,Wisconsin,https://lakehallie.us/
 1600000US5541675,Lake Mills,Wisconsin,https://www.cityoflakemillswi.gov/
@@ -11322,7 +11138,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5551025,Menomonie,Wisconsin,https://www.menomonie-wi.gov/
 1600000US5551250,Merrill,Wisconsin,https://ci.merrill.wi.us/
 1600000US5551300,Merrillan,Wisconsin,https://merrillanwi.gov/
-1600000US5551325,Merrimac,Wisconsin,https://merrimacwi.gov/
 1600000US5551375,Merton,Wisconsin,https://www.villageofmerton.gov/
 1600000US5551575,Middleton,Wisconsin,https://www.cityofmiddleton.us/
 1600000US5551875,Milladore,Wisconsin,https://www.townofmilladore.com/
@@ -11408,7 +11223,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5564675,Potter,Wisconsin,https://villageofpotter.com/
 1600000US5564750,Pound,Wisconsin,https://www.villageofpound.com/
 1600000US5564900,Poynette,Wisconsin,https://www.poynette-wi.gov/
-1600000US5565050,Prairie du Chien,Wisconsin,https://www.cityofpdc.com
 1600000US5565100,Prairie du Sac,Wisconsin,https://www.prairiedusac.net/
 1600000US5565325,Prentice,Wisconsin,https://www.vil.prentice.wi.gov/
 1600000US5565375,Prescott,Wisconsin,https://www.prescottwi.gov/
@@ -11441,7 +11255,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5569725,Rothschild,Wisconsin,https://www.rothschildwi.com/
 1600000US5570000,Rudolph,Wisconsin,https://townofrudolphwi.gov/
 1600000US5571163,Salem Lakes,Wisconsin,https://voslwi.gov/
-1600000US5571650,Sauk City,Wisconsin,https://www.saukcity.net/
 1600000US5571700,Saukville,Wisconsin,https://www.villageofsaukvillewi.gov/
 1600000US5571975,Scandinavia,Wisconsin,https://villageofscandinavia.com/
 1600000US5572725,Seymour,Wisconsin,https://www.cityofseymourwi.org/
@@ -11451,7 +11264,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5573525,Sherwood,Wisconsin,https://www.villageofsherwood.org/
 1600000US5573625,Shiocton,Wisconsin,https://www.shiocton.org/
 1600000US5573725,Shorewood,Wisconsin,https://www.villageofshorewood.org/
-1600000US5573750,Shorewood Hills,Wisconsin,https://shorewoodhillswi.gov/
 1600000US5573825,Shullsburg,Wisconsin,https://shullsburgwisconsin.org/
 1600000US5574225,Sister Bay,Wisconsin,https://www.sisterbaywi.gov/
 1600000US5574400,Slinger,Wisconsin,https://www.vi.slinger.wi.gov/
@@ -11462,8 +11274,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5575400,Spencer,Wisconsin,https://villageofspencerwi.gov/
 1600000US5576300,Spring Valley,Wisconsin,https://springvalleywi.com/
 1600000US5570500,St. Cloud,Wisconsin,https://stcloudwi.gov/
-1600000US5570550,St. Croix Falls,Wisconsin,https://www.cityofstcroixfalls.com/
-1600000US5570650,St. Francis,Wisconsin,https://stfranciswi.org/
 1600000US5571025,St. Nazianz,Wisconsin,https://vi.stnazianz.wi.gov/
 1600000US5576625,Stanley,Wisconsin,https://stanleywisconsin.us/
 1600000US5576825,Star Prairie,Wisconsin,https://villageofstarprairie.com/
@@ -11471,7 +11281,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5577200,Stevens Point,Wisconsin,https://stevenspoint.com/
 1600000US5577400,Stockbridge,Wisconsin,https://villageofstockbridgewi.gov/
 1600000US5577475,Stockholm,Wisconsin,https://www.stockholmwisconsin.com/
-1600000US5577750,Stratford,Wisconsin,https://stratfordwi.gov/
 1600000US5577825,Strum,Wisconsin,https://www.strumwi.com/
 1600000US5577875,Sturgeon Bay,Wisconsin,https://www.sturgeonbaywi.org/
 1600000US5577975,Suamico,Wisconsin,https://www.suamico.org/
@@ -11487,9 +11296,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5579625,Thorp,Wisconsin,https://www.cityofthorp.com/
 1600000US5579825,Tigerton,Wisconsin,https://www.tigertonwi.com/
 1600000US5580075,Tomah,Wisconsin,https://www.tomahwi.gov/
-1600000US5580125,Tomahawk,Wisconsin,https://www.cityoftomahawkwi.com/
 1600000US5580475,Trempealeau,Wisconsin,https://www.trempealeauwi.gov/
-1600000US5581075,Turtle Lake,Wisconsin,https://www.turtlelakewi.com/
 1600000US5581250,Twin Lakes,Wisconsin,https://www.twinlakeswi.gov/
 1600000US5581325,Two Rivers,Wisconsin,https://www.two-rivers.org/
 1600000US5581725,Union Center,Wisconsin,https://www.villageofuc.com/
@@ -11518,7 +11325,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5585875,West Milwaukee,Wisconsin,https://www.westmilwaukee.org/
 1600000US5586275,West Salem,Wisconsin,https://westsalemwi.gov/
 1600000US5585475,Westby,Wisconsin,https://www.cityofwestby.org/
-1600000US5585575,Westfield,Wisconsin,https://www.villageofwestfieldwi.com/
 1600000US5586025,Weston,Wisconsin,https://westonwi.gov/
 1600000US5586400,Weyauwega,Wisconsin,https://www.cityofweyauwega-wi.gov/
 1600000US5586450,Weyerhaeuser,Wisconsin,https://villageofweyerhaeuser.weebly.com/
@@ -11564,7 +11370,6 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5624025,Elk Mountain,Wyoming,https://www.townofelkmountain.com/
 1600000US5624750,Encampment,Wyoming,http://www.townofencampment.com/
 1600000US5625620,Evanston,Wyoming,https://www.evanstonwy.org/
-1600000US5625765,Evansville,Wyoming,https://townofevansville.org/
 1600000US5628230,Fort Laramie,Wyoming,https://sites.google.com/view/town-of-fort-laramie
 1600000US5629825,Frannie,Wyoming,https://franniewy.govoffice2.com/
 1600000US5632290,Glendo,Wyoming,https://townofglendo.com/
@@ -11585,6 +11390,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_URL
 1600000US5651720,Meeteetse,Wyoming,https://www.townofmeeteetse.org/
 1600000US5652445,Midwest,Wyoming,https://midwest.govoffice.com/404.htm?aspxerrorpath=/index.asp
 1600000US5653460,Mills,Wyoming,https://www.millswy.gov/
+1600000US5654185,Moorcroft,Wyoming,http://townofmoorcroft.com/
 1600000US5656215,Newcastle,Wyoming,http://www.newcastlewyoming.org/
 1600000US5661610,Pine Haven,Wyoming,https://pinehavenwy.govoffice2.com/
 1600000US5661580,Pinedale,Wyoming,https://www.townofpinedale.us/
