@@ -24,6 +24,8 @@ The workflow begins with a collection of municipal URLs and is designed to:
 
 Once the data-collection pipeline is established, the resulting dataset can be used to investigate how municipalities discuss resilience, identify common themes and priorities, and determine which types of documents are most useful for further NLP analysis.
 
+The project also includes a local Retrieval-Augmented Generation (RAG) assistant that crawls selected municipal sources, stores embeddings in a persistent Chroma database, and answers questions with local Ollama models.
+
 The **reproducible workflow is the primary project deliverable**. The resulting dataset and initial research findings are important secondary outcomes.
 
 ## Installation
@@ -37,7 +39,7 @@ Our team conducted preliminary exploratory data analysis (EDA) to evaluate datas
 | Notebook | EDA Goal |
 |---|---|
 | [TraCR Dataset EDA](TraCR_dataset.ipynb) | Evaluate the structure, completeness, and geographic coverage of the NIST TraCR dataset, then create one usable project dataset. |
-| [USCityURL Dataset](USCityURL_Dataset.ipynb) | Test each unique municipal homepage, summarize access restrictions, and create the audit and pipeline-ready datasets. |
+| [USCityURL Dataset](USCityURL_Dataset.ipynb) | Test each unique municipal homepage, create the audit and pipeline-ready datasets, and synchronize the selected municipal RAG database. |
 | [USCityURL Pipeline](USCityURL_Pipeline.ipynb) | Use the pipeline-ready municipal directory to locate Orlando’s official website, crawl a limited set of on-domain pages, discover resilience-related links from anchor text and URLs, extract HTML or PDF text, and run preliminary topic-mention analysis on the usable sample. |
 
 ## Current Progress
@@ -51,6 +53,8 @@ Used UScityURL to locate Orlando’s official municipal website and crawl a limi
 Extracted and quality-checked a sample of HTML or PDF candidates, then ran preliminary topic-mention EDA on the usable documents.
 
 Established installation instructions and project dependencies to support reproducibility.
+
+Added a local municipal RAG assistant with persistent embeddings, additive place and keyword updates, and retrieved source links.
 
 
 ## Research Questions
