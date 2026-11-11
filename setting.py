@@ -24,8 +24,8 @@ COLLECTION_NAME = "uscityurl_municipal_content"
 
 # Use () to select nothing. Use ("all",) to disable keyword filtering.
 # Multiple named keywords use OR matching.
-INDEX_PLACES = ('Orlando, Florida',)
-KEYWORDS = ('flood',)
+INDEX_PLACES = ()
+KEYWORDS = ()
 
 # Local Ollama models
 DEFAULT_EMBED_MODEL = "embeddinggemma"
@@ -39,7 +39,8 @@ OLLAMA_KEEP_ALIVE_SECONDS = 30 * 60
 OLLAMA_MAX_LOADED_MODELS = 2
 OLLAMA_NUM_PARALLEL = 1
 
-# M3 Pro parallelism
+# General parallelism defaults for modern high-performance laptops.
+# These values assume computing power similar to an M3 Pro but are not OS-specific.
 MAX_AUDIT_WORKERS = 40
 MAX_MUNICIPALITY_WORKERS = 20
 MAX_PAGE_WORKERS_PER_MUNICIPALITY = 4
